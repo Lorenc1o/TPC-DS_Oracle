@@ -5,8 +5,8 @@ Development of a TPC-DS Benchmark in Oracle with several scale factors.
 
 Group members:
 - Ivanović, Nikola
-- Lorencio Abril, Jose Antonio @Lorenc1o
-- Yusupov, Sayyor @SYusupov
+- [Lorencio Abril, Jose Antonio](https://github.com/Lorenc1o)
+- [Yusupov, Sayyor](https://github.com/SYusupov)
 - Zivković, Bogdana
 
 Professor: Zimányi, Esteban
