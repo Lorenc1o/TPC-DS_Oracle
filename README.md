@@ -4,9 +4,9 @@ Repository for development of the first project of the course DATA WAREHOUSES (I
 Development of a TPC-DS Benchmark in Oracle with several scale factors.
 
 Group members:
-- Ivanović, Nikola
+- [Ivanović, Nikola](https://github.com/ivanovicnikola)
 - [Lorencio Abril, Jose Antonio](https://github.com/Lorenc1o)
 - [Yusupov, Sayyor](https://github.com/SYusupov)
-- Zivković, Bogdana
+- [Zivković, Bogdana](https://github.com/zivkovicbogdana)
 
 Professor: Zimányi, Esteban
