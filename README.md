@@ -7,6 +7,6 @@ Group members:
 - [Ivanović, Nikola](https://github.com/ivanovicnikola)
 - [Lorencio Abril, Jose Antonio](https://github.com/Lorenc1o)
 - [Yusupov, Sayyor](https://github.com/SYusupov)
-- [Zivković, Bogdana](https://github.com/zivkovicbogdana)
+- [Živković, Bogdana](https://github.com/zivkovicbogdana)
 
 Professor: Zimányi, Esteban
