@@ -1,0 +1,25 @@
+### Possible load order
+1. item
+2. date_dim
+3. time_dim
+4. income_band
+5. store
+6. promotion
+7. customer_demographics
+8. customer_address
+9. household_demographics
+10. customer
+11. store_sales
+12. reason
+13. store_returns
+14. ship_mode
+15. warehouse
+16. catalog_page
+17. call_center
+18. catalog_sales
+19. catalog_returns
+20. web_site
+21. web_page
+22. web_sales
+23. web_returns
+24. inventory
