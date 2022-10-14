@@ -28,7 +28,7 @@ Professor: Zimányi, Esteban
 
     sqlldr userid=username/password@SID control='item.ctl'
     
-  7. Generate queries. The following command can be used to generate all 99 queries in numerical order (/qualify) for the 1GB scale factor (/scale) using the Oracle    dialect template (/dialect) with the output going to ../queries/query_0.sql (/output_dir). If you are using the official TPC-DS Tools the 'oracle.tpl' file needs to be replaced with the one provided here.
+  7. Generate queries. The following command can be used to generate all 99 queries in numerical order (/qualify) for the 1GB scale factor (/scale) using the Oracle    dialect template (/dialect) with the output going to ../queries/query_0.sql (/output_dir). If you are using the official TPC-DS Tools the 'query_templates\oracle.tpl' file needs to be replaced with the one provided here.
   
     #Windows
     dsqgen /directory ../query_templates /input ../query_templates/templates.lst /verbose y /qualify y /scale 1 /dialect oracle /output_dir ../queries
