@@ -32,4 +32,8 @@ Professor: Zimányi, Esteban
   
     #Windows
     dsqgen /directory ../query_templates /input ../query_templates/templates.lst /verbose y /qualify y /scale 1 /dialect oracle /output_dir ../queries
+    
+    # Linux
+    ./dsqgen -directory ../query_templates -input ../query_templates/templates.lst -verbose y -qualify y -scale 1 -dialect oracle -output_dir ../queries
+    
   
