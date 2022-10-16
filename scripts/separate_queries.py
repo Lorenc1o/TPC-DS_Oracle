@@ -22,13 +22,32 @@ with open(read_path, "r") as f:
     lines_to_read = f.readlines()
     lines_to_write = []
     for line in lines_to_read:
-        lines_to_write.append(line)
         if "-- start query " in line:
+            lines_to_write.append(line)
             query_n = re.search(r'\d+', line).group()
             query_filename = "query_"+str(query_n)+".sql"
             query_path = os.path.join(args.directory, query_filename)
 
+            # timing and outputing the result
+            lines_to_write.append(
+                "WHENEVER SQLERROR EXIT 1\n"
+                "SET LINES 32000\n"
+                "SET TERMOUT OFF ECHO OFF NEWP 0 SPA 0 PAGES 0 FEED OFF HEAD OFF TRIMS ON TAB OFF\n"
+                "SET SERVEROUTPUT OFF\n"
+                "\n"
+                f"spool 'ExecTime/query{str(query_n)}.txt'\n"
+                "timing start t\n\n"
+            )
+
         elif "-- end query " in line:
+            lines_to_write.append(
+                "timing stop\n"
+                "spool off\n"
+                "exit\n"
+            )
+            lines_to_write.append(line)
             with open(query_path, "w") as query_f:
                 query_f.writelines(lines_to_write)
                 lines_to_write = []
+        else:
+            lines_to_write.append(line)
