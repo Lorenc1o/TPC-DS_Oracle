@@ -36,4 +36,7 @@ Professor: Zimányi, Esteban
     # Linux
     ./dsqgen -directory ../query_templates -input ../query_templates/templates.lst -verbose y -qualify y -scale 1 -dialect oracle -output_dir ../queries
     
-  
+  8. Put each query to a separate file and set preferences for execution time recording and saving the results by running:
+    ```python separate_queries ../queries```
+    Run an individual query with the bash script:
+    ```sh execute_query.sh ../queries/query_1.sql```
