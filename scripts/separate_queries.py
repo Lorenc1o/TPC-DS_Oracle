@@ -35,7 +35,7 @@ with open(read_path, "r") as f:
                 "SET TERMOUT OFF ECHO OFF NEWP 0 SPA 0 PAGES 0 FEED OFF HEAD OFF TRIMS ON TAB OFF\n"
                 "SET SERVEROUTPUT OFF\n"
                 "\n"
-                f"spool 'ExecTime/query{str(query_n)}.txt'\n"
+                f"spool &1\n"
                 "timing start t\n\n"
             )
 
