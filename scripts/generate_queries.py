@@ -15,10 +15,14 @@ if not args.filespath or not args.qgenpath or not args.outputdir:
 
 
 def generate_query(file_name):
+    # for windows
     # dsqgen = 'dsqgen /directory %s /input templates.lst /verbose y /qualify y /scale 1 /dialect oracle /output_dir %s /template %s' % (
     #     args.filespath, args.outputdir, file_name)
+    
+    # for linux
     dsqgen = './dsqgen -directory %s -input templates.lst -verbose y -qualify y -scale 1 -dialect oracle -output_dir %s -template %s' % (
          args.filespath, args.outputdir, file_name)
+    
     print(dsqgen)
     system(dsqgen)
 
