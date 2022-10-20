@@ -31,10 +31,10 @@ Professor: Zimányi, Esteban
   7. Generate queries. The following command can be used to generate all 99 queries in numerical order (/qualify) for the 1GB scale factor (/scale) using the Oracle    dialect template (/dialect) with the output going to ../queries/query_0.sql (/output_dir). If you are using the official TPC-DS Tools the 'query_templates\oracle.tpl' file needs to be replaced with the one provided here.
   
     #Windows
-    dsqgen /directory ../query_templates /input ../query_templates/templates.lst /verbose y /qualify y /scale 1 /dialect oracle /output_dir ../queries
+    dsqgen /directory ../oracle_templates /input ../query_templates/templates.lst /verbose y /qualify y /scale 1 /dialect oracle /output_dir ../queries
     
     # Linux
-    ./dsqgen -directory ../query_templates -input ../query_templates/templates.lst -verbose y -qualify y -scale 1 -dialect oracle -output_dir ../queries
+    ./dsqgen -directory ../oracle_templates -input ../query_templates/templates.lst -verbose y -qualify y -scale 1 -dialect oracle -output_dir ../queries
     
   8. Put each query to a separate file and set preferences for execution time recording and saving the results by running:
     ```python separate_queries ../queries```
