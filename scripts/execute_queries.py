@@ -27,5 +27,5 @@ def run_query(file_name):
 
 if __name__ == "__main__":
     for file in listdir(args.filespath):
-        if file.endswith(".sql"):
+        if file.endswith(".sql") & (file != "query_0.sql"):
             run_query(file)
