@@ -15,8 +15,10 @@ if not args.filespath or not args.qgenpath or not args.outputdir:
 
 
 def generate_query(file_name):
-    dsqgen = 'dsqgen /directory %s /input templates.lst /verbose y /qualify y /scale 1 /dialect oracle /output_dir %s /template %s' % (
-        args.filespath, args.outputdir, file_name)
+    # dsqgen = 'dsqgen /directory %s /input templates.lst /verbose y /qualify y /scale 1 /dialect oracle /output_dir %s /template %s' % (
+    #     args.filespath, args.outputdir, file_name)
+    dsqgen = './dsqgen -directory %s -input templates.lst -verbose y -qualify y -scale 1 -dialect oracle -output_dir %s -template %s' % (
+         args.filespath, args.outputdir, file_name)
     print(dsqgen)
     system(dsqgen)
 
@@ -32,11 +34,6 @@ def generate_query(file_name):
 
                 # timing and outputing the result
                 lines_to_write.append(
-                    "WHENEVER SQLERROR EXIT 1\n"
-                    "SET LINES 32000\n"
-                    "SET TERMOUT OFF ECHO OFF NEWP 0 SPA 0 PAGES 0 FEED OFF HEAD OFF TRIMS ON TAB OFF\n"
-                    "SET SERVEROUTPUT OFF\n"
-                    "\n"
                     f"spool &1\n"
                     "timing start t\n\n"
                 )
