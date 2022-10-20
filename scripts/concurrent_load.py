@@ -11,7 +11,7 @@ parser.add_argument('-L', '--filespath', help='UNC path where the data files are
 parser.add_argument('-C', '--ctlpath', help='UNC path where the control files are located', required=True)
 args = parser.parse_args()
 
-if not args.svrinstance or not args.db or not args.username or not args.password or not args.filespath:
+if not args.svrinstance or not args.db or not args.username or not args.password or not args.filespath or not args.ctlpath:
     parser.print_help()
     exit(1)
 
