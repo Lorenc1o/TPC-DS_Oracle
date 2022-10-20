@@ -10,7 +10,7 @@ parser.add_argument('-L', '--filespath', help='UNC path where the queries are lo
 parser.add_argument('-O', '--outputdir', help='UNC path where the query results will be stored', required=True)
 args = parser.parse_args()
 
-if not args.svrinstance or not args.db or not args.username or not args.password or not args.filespath:
+if not args.svrinstance or not args.db or not args.username or not args.password or not args.filespath or not args.outputdir:
     parser.print_help()
     exit(1)
 
@@ -27,5 +27,5 @@ def run_query(file_name):
 
 if __name__ == "__main__":
     for file in listdir(args.filespath):
-        if file.endswith(".sql") & (file != "query_0.sql"):
+        if file.endswith(".sql") and (file != "query_0.sql"):
             run_query(file)
