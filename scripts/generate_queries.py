@@ -2,6 +2,7 @@ from os import listdir, path, getpid, system
 import re
 import os
 import argparse
+import platform
 
 parser = argparse.ArgumentParser(description='TPC-DS Query Generation Script')
 parser.add_argument('-Q', '--qgenpath', help='UNC path where the dsqgen.exe is located', required=True)
@@ -15,14 +16,14 @@ if not args.filespath or not args.qgenpath or not args.outputdir:
 
 
 def generate_query(file_name):
-    # for windows
-    # dsqgen = 'dsqgen /directory %s /input templates.lst /verbose y /qualify y /scale 1 /dialect oracle /output_dir %s /template %s' % (
-    #     args.filespath, args.outputdir, file_name)
-    
-    # for linux
-    dsqgen = './dsqgen -directory %s -input templates.lst -verbose y -qualify y -scale 1 -dialect oracle -output_dir %s -template %s' % (
-         args.filespath, args.outputdir, file_name)
-    
+    if platform.system() == 'Windows':
+        dsqgen = 'dsqgen /directory %s /input templates.lst /verbose y /qualify y /scale 1 /dialect oracle /output_dir %s /template %s' % (
+            args.filespath, args.outputdir, file_name)
+    elif platform.system() == 'Linux':
+        dsqgen = './dsqgen -directory %s -input templates.lst -verbose y -qualify y -scale 1 -dialect oracle -output_dir %s -template %s' % (
+             args.filespath, args.outputdir, file_name)
+    else:
+        return
     print(dsqgen)
     system(dsqgen)
 
