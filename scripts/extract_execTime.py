@@ -4,6 +4,7 @@ import os
 import argparse
 import csv
 from natsort import natsorted
+from datetime import datetime
 
 parser = argparse.ArgumentParser(description='Extracting Execution Time from the Query Outputs')
 parser.add_argument('-F', '--filespath', help='UNC path where query output files are located', required=True)
@@ -25,14 +26,16 @@ def extract_exec(file_name):
             if "timing for: " in line:
                 break
         exec_time = lines_to_read[idx+1:][0][9:-1]
+        td = datetime.strptime(exec_time, '%H:%M:%S.%f') - datetime(1900,1,1)
+        td = td.total_seconds()
         with open(args.execfile, 'a') as file:
             writer = csv.writer(file)
-            writer.writerow([query_n, exec_time])
+            writer.writerow([query_n, td])
 
 if __name__ == "__main__":
     with open(args.execfile, 'w') as file:
         writer = csv.writer(file)
-        writer.writerow(["query_number", "execution_time"])
+        writer.writerow(["query_number", "execution_time(seconds)"])
 
     files = natsorted(listdir(args.filespath))
     for file in files: # sort by query number
