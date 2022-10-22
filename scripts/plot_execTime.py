@@ -24,8 +24,14 @@ with open(args.timefile,'r') as csvfile:
         y.append(float(row[1]))
  
 # creating the bar plot
-plt.bar(x, y, color ='maroon',
+bar_list = plt.bar(x, y, color ='lightgrey',
         width = 0.4)
+
+# queries with no output
+no_output = [8, 23, 24, 25, 29, 37, 41, 44, 54, 58]
+for idx in no_output:
+    bar_list[idx-1].set_color('firebrick')
+
 plt.axhline(y=np.mean(y), color='r', linestyle='-')
 
 plt.tight_layout()
