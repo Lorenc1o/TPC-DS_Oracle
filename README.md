@@ -24,7 +24,11 @@ Professor: Zimányi, Esteban
     # Linux
     dsdgen -scale 1 -dir /tmp
     
-  6. Upload data to DB using Oracle SQL Loader. Control files can be found here in the ctl folder. Running the 'concurrent_load.py' script will load the data to the DB using multiple processor cores or it can be done manually.
+  6. Upload data to DB using Oracle SQL Loader. Control files can be found here in the ctl folder. Running the 'concurrent_load.py' script will load the data to the DB using multiple processor cores:
+
+    python3 concurrent_load.py -S [server] -D [database] -U [user] -P [password] -L [data directory] -C [ctl directory]
+
+Or it can be done manually:
 
     sqlldr userid=username/password@SID control='item.ctl'
     
