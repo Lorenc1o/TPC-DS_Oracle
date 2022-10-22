@@ -1,2 +1,6 @@
 #We don't want log files to be loaded
 *.log
+
+#Sayyor
+*.ipynb
+ExecTime/
