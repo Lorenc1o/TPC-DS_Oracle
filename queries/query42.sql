@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select  dt.d_year
  	,item.i_category_id
@@ -21,6 +21,5 @@ select * from (select  dt.d_year
  		,item.i_category
  ) where rownum <= 100 ;
 
-timing stop
 spool off
 exit

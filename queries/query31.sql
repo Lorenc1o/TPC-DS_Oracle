@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 with ss as
  (select ca_county,d_qoy, d_year,sum(ss_ext_sales_price) as store_sales
@@ -51,6 +51,5 @@ with ss as
        > case when ss2.store_sales > 0 then ss3.store_sales/ss2.store_sales else null end
  order by ss1.d_year;
 
-timing stop
 spool off
 exit

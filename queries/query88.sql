@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select  *
 from
@@ -93,6 +93,5 @@ from
      and store.s_store_name = 'ese') s8
 ;
 
-timing stop
 spool off
 exit

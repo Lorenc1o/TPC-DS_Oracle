@@ -40,12 +40,11 @@ def generate_query(file_name):
                 # timing and outputing the result
                 lines_to_write.append(
                     f"spool &1\n"
-                    "timing start t\n\n"
+                    "set timing on\n\n"
                 )
 
             elif "-- end query " in line:
                 lines_to_write.append(
-                    "timing stop\n"
                     "spool off\n"
                     "exit\n"
                 )

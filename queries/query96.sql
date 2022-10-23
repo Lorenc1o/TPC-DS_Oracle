@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select  count(*) 
 from store_sales
@@ -15,6 +15,5 @@ where ss_sold_time_sk = time_dim.t_time_sk
 order by count(*)
  ) where rownum <= 100;
 
-timing stop
 spool off
 exit

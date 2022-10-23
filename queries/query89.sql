@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select  *
 from(
@@ -27,6 +27,5 @@ where case when (avg_monthly_sales <> 0) then (abs(sum_sales - avg_monthly_sales
 order by sum_sales - avg_monthly_sales, s_store_name
  ) where rownum <= 100;
 
-timing stop
 spool off
 exit

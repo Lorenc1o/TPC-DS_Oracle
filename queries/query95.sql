@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 with ws_wh as
 (select ws1.ws_order_number,ws1.ws_warehouse_sk wh1,ws2.ws_warehouse_sk wh2
@@ -31,6 +31,5 @@ and ws1.ws_order_number in (select wr_order_number
 order by count(distinct ws_order_number)
  ) where rownum <= 100;
 
-timing stop
 spool off
 exit

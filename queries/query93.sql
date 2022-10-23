@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select  ss_customer_sk
             ,sum(act_sales) sumsales
@@ -17,6 +17,5 @@ select * from (select  ss_customer_sk
       order by sumsales, ss_customer_sk
  ) where rownum <= 100;
 
-timing stop
 spool off
 exit

@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 with ssr as
  (select s_store_id,
@@ -127,6 +127,5 @@ with ssr as
          ,id
   ) where rownum <= 100;
 
-timing stop
 spool off
 exit

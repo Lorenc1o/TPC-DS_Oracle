@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select   
          w_warehouse_name
@@ -219,6 +219,5 @@ select * from (select
  order by w_warehouse_name
   ) where rownum <= 100;
 
-timing stop
 spool off
 exit

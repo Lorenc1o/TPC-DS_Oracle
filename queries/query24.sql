@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 with ssales as
 (select c_last_name
@@ -106,6 +106,5 @@ order by c_last_name
         ,s_store_name
 ;
 
-timing stop
 spool off
 exit

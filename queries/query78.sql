@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 with ws as
   (select d_year AS ws_sold_year, ws_item_sk,
@@ -57,6 +57,5 @@ order by
   ratio
  ) where rownum <= 100;
 
-timing stop
 spool off
 exit

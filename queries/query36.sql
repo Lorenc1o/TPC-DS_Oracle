@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select  
     sum(ss_net_profit)/sum(ss_ext_sales_price) as gross_margin
@@ -29,6 +29,5 @@ select * from (select
   ,rank_within_parent
    ) where rownum <= 100;
 
-timing stop
 spool off
 exit

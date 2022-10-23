@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select i_item_id
       ,i_item_desc 
@@ -32,6 +32,5 @@ order by
         ,i_item_desc
         ,revenueratio;
 
-timing stop
 spool off
 exit

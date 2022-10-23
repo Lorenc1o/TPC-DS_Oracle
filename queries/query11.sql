@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 with year_total as (
  select c_customer_id customer_id
@@ -80,6 +80,5 @@ with year_total as (
          ,t_s_secyear.customer_email_address
  ) where rownum <= 100;
 
-timing stop
 spool off
 exit

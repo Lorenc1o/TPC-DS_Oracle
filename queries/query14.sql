@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 with  cross_items as
  (select i_item_sk ss_item_sk
@@ -209,6 +209,5 @@ with  cross_items as
  order by this_year.channel, this_year.i_brand_id, this_year.i_class_id, this_year.i_category_id
   ) where rownum <= 100;
 
-timing stop
 spool off
 exit

@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select  i_item_id, 
         avg(ss_quantity) agg1,
@@ -20,6 +20,5 @@ select * from (select  i_item_id,
  order by i_item_id
   ) where rownum <= 100;
 
-timing stop
 spool off
 exit

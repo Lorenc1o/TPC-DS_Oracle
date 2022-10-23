@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 with customer_total_return as
  (select cr_returning_customer_sk as ctr_customer_sk
@@ -30,6 +30,5 @@ with customer_total_return as
                   ,ca_location_type,ctr_total_return
   ) where rownum <= 100;
 
-timing stop
 spool off
 exit

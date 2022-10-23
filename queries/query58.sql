@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 with ss_items as
  (select i_item_id item_id
@@ -64,6 +64,5 @@ with ss_items as
          ,ss_item_rev
   ) where rownum <= 100;
 
-timing stop
 spool off
 exit

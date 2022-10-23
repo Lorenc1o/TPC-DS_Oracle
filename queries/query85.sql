@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select  substr(r_reason_desc,1,20)
        ,avg(ws_quantity)
@@ -83,6 +83,5 @@ order by substr(r_reason_desc,1,20)
         ,avg(wr_fee)
  ) where rownum <= 100;
 
-timing stop
 spool off
 exit

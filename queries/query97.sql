@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 with ssci as (
 select ss_customer_sk customer_sk
@@ -24,6 +24,5 @@ from ssci full outer join csci on (ssci.customer_sk=csci.customer_sk
                                and ssci.item_sk = csci.item_sk)
  ) where rownum <= 100;
 
-timing stop
 spool off
 exit

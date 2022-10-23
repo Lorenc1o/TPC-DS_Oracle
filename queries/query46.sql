@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select  c_last_name
        ,c_first_name
@@ -22,7 +22,7 @@ select * from (select  c_last_name
          household_demographics.hd_vehicle_count= 3)
     and date_dim.d_dow in (6,0)
     and date_dim.d_year in (1999,1999+1,1999+2) 
-    and store.s_city in ('Midway','Fairview','Fairview','Midway','Fairview') 
+    and store.s_city in ('Midway','Fairview','Midway','Fairview','Fairview') 
     group by ss_ticket_number,ss_customer_sk,ss_addr_sk,ca_city) dn,customer,customer_address current_addr
     where ss_customer_sk = c_customer_sk
       and customer.c_current_addr_sk = current_addr.ca_address_sk
@@ -34,6 +34,5 @@ select * from (select  c_last_name
           ,ss_ticket_number
    ) where rownum <= 100;
 
-timing stop
 spool off
 exit

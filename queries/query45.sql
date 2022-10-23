@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select  ca_zip, ca_county, sum(ws_sales_price)
  from web_sales, customer, customer_address, date_dim, item
@@ -19,6 +19,5 @@ select * from (select  ca_zip, ca_county, sum(ws_sales_price)
  order by ca_zip, ca_county
   ) where rownum <= 100;
 
-timing stop
 spool off
 exit

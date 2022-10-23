@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 with wss as 
  (select d_week_seq,
@@ -43,6 +43,5 @@ with wss as
  order by s_store_name1,s_store_id1,d_week_seq1
  ) where rownum <= 100;
 
-timing stop
 spool off
 exit

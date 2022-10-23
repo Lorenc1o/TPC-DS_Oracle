@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select   
   ca_state,
@@ -57,6 +57,5 @@ select * from (select
           cd_dep_college_count
   ) where rownum <= 100;
 
-timing stop
 spool off
 exit

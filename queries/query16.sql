@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select  
    count(distinct cs_order_number) as "order count"
@@ -30,6 +30,5 @@ and not exists(select *
 order by count(distinct cs_order_number)
  ) where rownum <= 100;
 
-timing stop
 spool off
 exit

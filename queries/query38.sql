@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select  count(*) from (
     select distinct c_last_name, c_first_name, d_date
@@ -22,6 +22,5 @@ select * from (select  count(*) from (
 ) hot_cust
  ) where rownum <= 100;
 
-timing stop
 spool off
 exit

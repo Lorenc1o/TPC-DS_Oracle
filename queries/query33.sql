@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 with ss as (
  select
@@ -74,6 +74,5 @@ where i_category in ('Books'))
  order by total_sales
  ) where rownum <= 100;
 
-timing stop
 spool off
 exit

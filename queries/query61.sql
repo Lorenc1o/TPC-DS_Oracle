@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select  promotions,total,cast(promotions as decimal(15,4))/cast(total as decimal(15,4))*100
 from
@@ -43,6 +43,5 @@ from
 order by promotions, total
  ) where rownum <= 100;
 
-timing stop
 spool off
 exit

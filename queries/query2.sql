@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 with wscs as
  (select sold_date_sk
@@ -59,6 +59,5 @@ with wscs as
  where d_week_seq1=d_week_seq2-53
  order by d_week_seq1;
 
-timing stop
 spool off
 exit

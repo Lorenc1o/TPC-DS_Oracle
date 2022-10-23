@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 WITH all_sales AS (
  SELECT d_year
@@ -69,6 +69,5 @@ select * from ( SELECT  prev_yr.d_year AS prev_year
  ORDER BY sales_cnt_diff,sales_amt_diff
   ) where rownum <= 100;
 
-timing stop
 spool off
 exit

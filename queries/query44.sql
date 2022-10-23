@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select  asceding.rnk, i1.i_product_name best_performing, i2.i_product_name worst_performing
 from(select *
@@ -34,6 +34,5 @@ where asceding.rnk = descending.rnk
 order by asceding.rnk
  ) where rownum <= 100;
 
-timing stop
 spool off
 exit

@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 with ss as (
  select i_item_id,sum(ss_ext_sales_price) total_sales
@@ -68,6 +68,5 @@ where i_color in ('orchid','chiffon','lace'))
           i_item_id
   ) where rownum <= 100;
 
-timing stop
 spool off
 exit

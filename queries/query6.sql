@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select  a.ca_state state, count(*) cnt
  from customer_address a
@@ -25,6 +25,5 @@ select * from (select  a.ca_state state, count(*) cnt
  order by cnt, a.ca_state 
   ) where rownum <= 100;
 
-timing stop
 spool off
 exit

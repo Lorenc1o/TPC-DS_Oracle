@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 with cs_ui as
  (select cs_item_sk
@@ -120,6 +120,5 @@ order by cs1.product_name
        ,cs1.s1
        ,cs2.s1;
 
-timing stop
 spool off
 exit

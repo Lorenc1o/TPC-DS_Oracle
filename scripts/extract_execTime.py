@@ -22,10 +22,7 @@ def extract_exec(file_name):
     query_n = query_n[5:]
     with open(read_path, "r") as f:
         lines_to_read = f.readlines()
-        for idx, line in enumerate(lines_to_read):
-            if "timing for: " in line:
-                break
-        exec_time = re.search(r'\d{2}:\d{2}:\d{2}.\d{2}', lines_to_read[idx+1:][0]).group()
+        exec_time = re.search(r'\d{2}:\d{2}:\d{2}.\d{2}', lines_to_read[-1:][0]).group()
         td = datetime.strptime(exec_time, '%H:%M:%S.%f') - datetime(1900,1,1)
         td = td.total_seconds()
         with open(args.execfile, 'a+') as file:

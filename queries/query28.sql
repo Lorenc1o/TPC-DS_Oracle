@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 select * from (select  *
 from (select avg(ss_list_price) B1_LP
@@ -52,6 +52,5 @@ from (select avg(ss_list_price) B1_LP
           or ss_wholesale_cost between 42 and 42+20)) B6
  ) where rownum <= 100;
 
-timing stop
 spool off
 exit

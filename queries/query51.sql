@@ -1,5 +1,5 @@
 spool &1
-timing start t
+set timing on
 
 WITH web_v1 as (
 select
@@ -44,6 +44,5 @@ order by item_sk
         ,d_date
  ) where rownum <= 100;
 
-timing stop
 spool off
 exit
