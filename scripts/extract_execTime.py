@@ -28,7 +28,7 @@ def extract_exec(file_name):
         exec_time = re.search(r'\d{2}:\d{2}:\d{2}.\d{2}', lines_to_read[idx+1:][0]).group()
         td = datetime.strptime(exec_time, '%H:%M:%S.%f') - datetime(1900,1,1)
         td = td.total_seconds()
-        with open(args.execfile, 'a') as file:
+        with open(args.execfile, 'a+') as file:
             writer = csv.writer(file)
             writer.writerow([query_n, td])
 

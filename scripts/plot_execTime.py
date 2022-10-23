@@ -20,8 +20,9 @@ with open(args.timefile,'r') as csvfile:
     next(plots, None) # the header
     
     for row in plots:
-        x.append(row[0])
-        y.append(float(row[1]))
+        if row:
+            x.append(row[0])
+            y.append(float(row[1]))
  
 # creating the bar plot
 bar_list = plt.bar(x, y, color ='lightgrey',
