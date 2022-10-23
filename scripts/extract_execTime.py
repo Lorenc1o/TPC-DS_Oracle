@@ -25,7 +25,6 @@ def extract_exec(file_name):
         for idx, line in enumerate(lines_to_read):
             if "timing for: " in line:
                 break
-        print(lines_to_read[idx+1:])
         exec_time = re.search(r'\d{2}:\d{2}:\d{2}.\d{2}', lines_to_read[idx+1:][0]).group()
         td = datetime.strptime(exec_time, '%H:%M:%S.%f') - datetime(1900,1,1)
         td = td.total_seconds()
@@ -41,5 +40,4 @@ if __name__ == "__main__":
     files = natsorted(listdir(args.filespath))
     for file in files: # sort by query number
         if file.endswith(".txt") and "query" in file:
-            print(file)
             extract_exec(file)
