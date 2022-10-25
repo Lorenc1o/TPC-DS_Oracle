@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select  *
 from (select i_category
@@ -43,5 +43,6 @@ order by i_category
         ,rk
  ) where rownum <= 100;
 
+timing stop
 spool off
 exit

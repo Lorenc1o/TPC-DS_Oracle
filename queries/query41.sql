@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select  distinct(i_product_name)
  from item i1
@@ -51,5 +51,6 @@ select * from (select  distinct(i_product_name)
  order by i_product_name
   ) where rownum <= 100;
 
+timing stop
 spool off
 exit

@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select  
         cc_call_center_id Call_Center,
@@ -30,5 +30,6 @@ and     ca_gmt_offset           = -7
 group by cc_call_center_id,cc_name,cc_manager,cd_marital_status,cd_education_status
 order by sum(cr_net_loss) desc;
 
+timing stop
 spool off
 exit

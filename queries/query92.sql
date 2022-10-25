@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select  
    sum(ws_ext_discount_amt)  as "Excess Discount Amount" 
@@ -29,5 +29,6 @@ and ws_ext_discount_amt
 order by sum(ws_ext_discount_amt)
  ) where rownum <= 100;
 
+timing stop
 spool off
 exit

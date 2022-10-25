@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select  i_product_name
              ,i_brand
@@ -19,5 +19,6 @@ select * from (select  i_product_name
 order by qoh, i_product_name, i_brand, i_class, i_category
  ) where rownum <= 100;
 
+timing stop
 spool off
 exit

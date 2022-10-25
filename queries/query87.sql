@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select count(*) 
 from ((select distinct c_last_name, c_first_name, d_date
@@ -22,5 +22,6 @@ from ((select distinct c_last_name, c_first_name, d_date
 ) cool_cust
 ;
 
+timing stop
 spool off
 exit

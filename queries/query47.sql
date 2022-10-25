@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 with v1 as(
  select i_category, i_brand,
@@ -50,5 +50,6 @@ with v1 as(
  order by sum_sales - avg_monthly_sales, nsum
   ) where rownum <= 100;
 
+timing stop
 spool off
 exit

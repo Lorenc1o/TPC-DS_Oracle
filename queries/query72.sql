@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select  i_item_desc
       ,w_warehouse_name
@@ -28,5 +28,6 @@ group by i_item_desc,w_warehouse_name,d1.d_week_seq
 order by total_cnt desc, i_item_desc, w_warehouse_name, d_week_seq
  ) where rownum <= 100;
 
+timing stop
 spool off
 exit

@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select  
   cd_gender,
@@ -46,5 +46,6 @@ select * from (select
           cd_credit_rating
   ) where rownum <= 100;
 
+timing stop
 spool off
 exit

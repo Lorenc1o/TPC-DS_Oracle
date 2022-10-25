@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select   
     sum(ws_net_paid) as total_sum
@@ -25,5 +25,6 @@ select * from (select
    rank_within_parent
   ) where rownum <= 100;
 
+timing stop
 spool off
 exit

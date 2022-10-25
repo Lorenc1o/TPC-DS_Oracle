@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select case when (select count(*) 
                   from store_sales 
@@ -50,5 +50,6 @@ from reason
 where r_reason_sk = 1
 ;
 
+timing stop
 spool off
 exit

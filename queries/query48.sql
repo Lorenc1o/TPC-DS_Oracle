@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select sum (ss_quantity)
  from store_sales, store, customer_demographics, customer_address, date_dim
@@ -66,5 +66,6 @@ select sum (ss_quantity)
  )
 ;
 
+timing stop
 spool off
 exit

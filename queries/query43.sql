@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select  s_store_name, s_store_id,
         sum(case when (d_day_name='Sunday') then ss_sales_price else null end) sun_sales,
@@ -18,5 +18,6 @@ select * from (select  s_store_name, s_store_id,
  order by s_store_name, s_store_id,sun_sales,mon_sales,tue_sales,wed_sales,thu_sales,fri_sales,sat_sales
   ) where rownum <= 100;
 
+timing stop
 spool off
 exit

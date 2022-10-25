@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 with frequent_ss_items as 
  (select substr(i_item_desc,1,30) itemdesc,i_item_sk item_sk,d_date solddate,count(*) cnt
@@ -106,5 +106,6 @@ with frequent_ss_items as
      order by c_last_name,c_first_name,sales
    ) where rownum <= 100;
 
+timing stop
 spool off
 exit
