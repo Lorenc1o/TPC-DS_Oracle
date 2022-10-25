@@ -12,9 +12,10 @@ parser.add_argument('-P', '--password', help='Authenticating Password', required
 parser.add_argument('-L', '--filespath', help='UNC path where the data files are located', required=True)
 parser.add_argument('-C', '--ctlpath', help='UNC path where the control files are located', required=True)
 parser.add_argument('-Q', '--querypath', help='UNC path where the query files are located', required=True)
+parser.add_argument('-O', '--outputdir', help='UNC path where the query results will be stored', required=True)
 args = parser.parse_args()
 
-if not args.svrinstance or not args.port or not args.db or not args.username or not args.password or not args.filespath or not args.ctlpath or not args.querypath:
+if not args.svrinstance or not args.port or not args.db or not args.username or not args.password or not args.filespath or not args.ctlpath or not args.querypath or not args.outputdir:
     parser.print_help()
     exit(1)
 
