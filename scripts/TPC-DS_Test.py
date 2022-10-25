@@ -13,7 +13,7 @@ parser.add_argument('-P', '--password', help='Authenticating Password', required
 parser.add_argument('-T', '--tpcdspath', help='UNC path where the tpcds.sql script is located. You should write the full path: [path_to_dir]/tpcds.sql', required=True)
 parser.add_argument('-L', '--filespath', help='UNC path where the data files are located', required=True)
 parser.add_argument('-C', '--ctlpath', help='UNC path where the control files are located', required=True)
-parser.add_argument('-Q', '--querypath', help='UNC path where the query files are located', required=True)
+parser.add_argument('-Q', '--querypath', help='UNC path of query_0.sql. You should write the full path: [path_to_dir]/query_0.sql', required=True)
 parser.add_argument('-O', '--outputdir', help='UNC path where the query results will be stored', required=True)
 parser.add_argument('-DROP', '--drop', help='Should tables be dropped (y/n), default: y', required=False, default='y')
 args = parser.parse_args()
@@ -96,8 +96,8 @@ if __name__ == "__main__":
     for sql_command in sql_commands:
         c.execute(sql_command)
 
-    power_end_time = time.time() # Timestamp for the ending time
-    power_test_time = load_end_time - load_start_time # Measured power test time
+    power_test_end_time = time.time() # Timestamp for the ending time
+    power_test_time = power_test_end_time - power_test_start_time # Measured power test time
 
     output += f'POWER TEST TIME:\n\tPower test start time = {power_test_start_time}\n\tPower test end time = {power_test_end_time}\n\tPower test time = {power_test_time}\n'
 

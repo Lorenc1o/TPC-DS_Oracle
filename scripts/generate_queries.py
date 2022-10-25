@@ -54,7 +54,7 @@ def generate_query(file_name):
                     lines_to_write = []
             else:
                 lines_to_write.append(line)
-    os.remove(read_path)
+    #os.remove(read_path)
 
 
 if __name__ == "__main__":
