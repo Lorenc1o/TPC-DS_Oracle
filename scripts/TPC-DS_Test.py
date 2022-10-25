@@ -1,5 +1,6 @@
 from multiprocessing import Pool, cpu_count
 from os import listdir, path, getpid, system
+import _thread
 import argparse
 import cx_Oracle
 import time
@@ -43,6 +44,25 @@ def load_files(table_name, file_name):
     sqlldr = 'sqlldr userid=%s/%s@%s/%s control=%s data=%s log=%s bad=%s' % (
         args.username, args.password, args.svrinstance, args.db, ctl_path, full_path, log_path, log_path)
     system(sqlldr)
+
+'''
+Function throughput_test
+
+Description
+	this functions connect to the database using the username provided as argument and the thread_id provided as parameter, then executes a batch of queries
+
+Assumptions
+	the users exist prior to execution and have access to the database
+
+Parameters
+	thread_id: integer representing the thread
+'''
+def throughput_test(thread_id):
+    if thread_id == 0:
+        sub_user = argv.username
+    else:
+        sub_user = argv.username + f'{thread_id}'
+#TODO make the query streams
 
 if __name__ == "__main__":
 #Connection to the database
@@ -91,6 +111,8 @@ if __name__ == "__main__":
     #If we don't want to drop tables, we omit the drop commands
     sql_commands = sql_commands[:-1] #we have one extra empty command
 
+    output += '----------------------------------------------------------\n'
+
     power_test_start_time = time.time() # Timestamp for the starting time
 
     for sql_command in sql_commands:
@@ -100,8 +122,21 @@ if __name__ == "__main__":
     power_test_time = power_test_end_time - power_test_start_time # Measured power test time
 
     output += f'POWER TEST TIME:\n\tPower test start time = {power_test_start_time}\n\tPower test end time = {power_test_end_time}\n\tPower test time = {power_test_time}\n'
-
     conn.close()
+
+#Throughput Test 1
+    TP_test_start_time_1 = time.time()
+
+    _thread.start_new_thread(throughput_test, ('0'))
+    _thread.start_new_thread(throughput_test, ('1'))
+    _thread.start_new_thread(throughput_test, ('2'))
+    _thread.start_new_thread(throughput_test, ('3'))
+
+    TP_test_end_time_1 = time.time()
+    TP_test_time_1 = time.time()
+
+    output += '----------------------------------------------------------\n'
+    output += f'THROUGHPUT TEST 1 TIME:\n\tThroughput test 1 start time = {TP_test_start_time_1}\n\tThroughput test 1 end time = {TP_test_end_time_1}\n\tThroughput test 1 time = {TP_test_time_1}\n'
 
 #Output results
     with open(args.outputdir, 'w') as f:
