@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select  channel, item, return_ratio, return_rank, currency_rank from
  (select
@@ -128,5 +128,6 @@ select * from (select  channel, item, return_ratio, return_rank, currency_rank f
  order by 1,4,5,2
   ) where rownum <= 100;
 
+timing stop
 spool off
 exit

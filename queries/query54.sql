@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 with my_customers as (
  select distinct c_customer_sk
@@ -55,5 +55,6 @@ with my_customers as (
  order by segment, num_customers
   ) where rownum <= 100;
 
+timing stop
 spool off
 exit

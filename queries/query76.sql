@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select  channel, col_name, d_year, d_qoy, i_category, COUNT(*) sales_cnt, SUM(ext_sales_price) sales_amt FROM (
         SELECT 'store' as channel, 'ss_addr_sk' col_name, d_year, d_qoy, i_category, ss_ext_sales_price ext_sales_price
@@ -23,5 +23,6 @@ GROUP BY channel, col_name, d_year, d_qoy, i_category
 ORDER BY channel, col_name, d_year, d_qoy, i_category
  ) where rownum <= 100;
 
+timing stop
 spool off
 exit

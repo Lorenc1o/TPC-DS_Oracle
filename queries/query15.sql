@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select  ca_zip
        ,sum(cs_sales_price)
@@ -19,5 +19,6 @@ select * from (select  ca_zip
  order by ca_zip
   ) where rownum <= 100;
 
+timing stop
 spool off
 exit

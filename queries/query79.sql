@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select 
   c_last_name,c_first_name,substr(s_city,1,30),ss_ticket_number,amt,profit
@@ -22,5 +22,6 @@ select * from (select
  order by c_last_name,c_first_name,substr(s_city,1,30), profit
  ) where rownum <= 100;
 
+timing stop
 spool off
 exit

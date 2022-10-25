@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select c_last_name
        ,c_first_name
@@ -27,5 +27,6 @@ select c_last_name
       and cnt between 1 and 5
     order by cnt desc, c_last_name asc;
 
+timing stop
 spool off
 exit

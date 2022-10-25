@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select  * from 
 (select i_manufact_id,
@@ -27,5 +27,6 @@ order by avg_quarterly_sales,
 	 i_manufact_id
  ) where rownum <= 100;
 
+timing stop
 spool off
 exit

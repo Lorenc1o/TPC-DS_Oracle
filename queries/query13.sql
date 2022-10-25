@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select avg(ss_quantity)
        ,avg(ss_ext_sales_price)
@@ -51,5 +51,6 @@ select avg(ss_quantity)
      ))
 ;
 
+timing stop
 spool off
 exit

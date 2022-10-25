@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 with customer_total_return as
 (select sr_customer_sk as ctr_customer_sk
@@ -24,5 +24,6 @@ and ctr1.ctr_customer_sk = c_customer_sk
 order by c_customer_id
  ) where rownum <= 100;
 
+timing stop
 spool off
 exit

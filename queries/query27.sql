@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select  i_item_id,
         s_state, grouping(s_state) g_state,
@@ -22,5 +22,6 @@ select * from (select  i_item_id,
          ,s_state
   ) where rownum <= 100;
 
+timing stop
 spool off
 exit

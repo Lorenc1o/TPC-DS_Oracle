@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select  s_store_name
       ,sum(ss_net_profit)
@@ -107,5 +107,6 @@ select * from (select  s_store_name
  order by s_store_name
   ) where rownum <= 100;
 
+timing stop
 spool off
 exit

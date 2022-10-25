@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 with year_total as (
  select c_customer_id customer_id
@@ -60,5 +60,6 @@ with year_total as (
  order by 2,1,3
  ) where rownum <= 100;
 
+timing stop
 spool off
 exit

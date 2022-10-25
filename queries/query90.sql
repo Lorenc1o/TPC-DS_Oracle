@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select  cast(amc as decimal(15,4))/cast(pmc as decimal(15,4)) am_pm_ratio
  from ( select count(*) amc
@@ -21,5 +21,6 @@ select * from (select  cast(amc as decimal(15,4))/cast(pmc as decimal(15,4)) am_
  order by am_pm_ratio
   ) where rownum <= 100;
 
+timing stop
 spool off
 exit

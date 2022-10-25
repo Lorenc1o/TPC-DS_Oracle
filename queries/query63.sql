@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select  * 
 from (select i_manager_id
@@ -28,5 +28,6 @@ order by i_manager_id
         ,sum_sales
  ) where rownum <= 100;
 
+timing stop
 spool off
 exit

@@ -1,5 +1,5 @@
 spool &1
-set timing on
+timing start t
 
 select * from (select  
    substr(w_warehouse_name,1,20)
@@ -34,5 +34,6 @@ order by substr(w_warehouse_name,1,20)
         ,cc_name
  ) where rownum <= 100;
 
+timing stop
 spool off
 exit
