@@ -68,9 +68,9 @@ if __name__ == "__main__":
 
 #Load test
 #	done from flat files, so we only account for strictly loading time
-    p = Pool(processes=2*cpu_count())
-
     load_start_time = time.time() # Timestamp for the starting time
+
+    p = Pool(processes=2*cpu_count())
 
     for file in listdir(args.filespath):
         if file.endswith(".dat"):
@@ -81,11 +81,25 @@ if __name__ == "__main__":
 
     load_end_time = time.time() # Timestamp for the ending time
     load_time = load_end_time - load_start_time # Measured load time
-    output = f'LOAD TIME:\n\tLoad start time = {load_start_time}\n\tLoad end time = {load_end_time}\n\tLoad time = {load_time}'
+    output = f'LOAD TIME:\n\tLoad start time = {load_start_time}\n\tLoad end time = {load_end_time}\n\tLoad time = {load_time}\n'
 
 #Power test
-    #for row in c.execute('select count(*) as num from call_center'):
-    #    print(row)
+    f = open(f'{args.querypath}')
+    full_sql = f.read()
+    sql_commands = full_sql.split(';')
+    
+    #If we don't want to drop tables, we omit the drop commands
+    sql_commands = sql_commands[:-1] #we have one extra empty command
+
+    power_test_start_time = time.time() # Timestamp for the starting time
+
+    for sql_command in sql_commands:
+        c.execute(sql_command)
+
+    power_end_time = time.time() # Timestamp for the ending time
+    power_test_time = load_end_time - load_start_time # Measured power test time
+
+    output += f'POWER TEST TIME:\n\tPower test start time = {power_test_start_time}\n\tPower test end time = {power_test_end_time}\n\tPower test time = {power_test_time}\n'
 
     conn.close()
 
