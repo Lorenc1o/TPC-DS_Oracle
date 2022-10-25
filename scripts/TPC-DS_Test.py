@@ -40,8 +40,8 @@ def load_files(table_name, file_name):
     full_path = path.join(args.filespath, file_name)
     ctl_path = path.join(args.ctlpath, table_name + '.ctl')
     log_path = path.join(args.filespath, file_name[:-3] + 'log')
-    sqlldr = 'sqlldr userid=%s/%s@%s/%s control=%s data=%s log=%s' % (
-        args.username, args.password, args.svrinstance, args.db, ctl_path, full_path, log_path)
+    sqlldr = 'sqlldr userid=%s/%s@%s/%s control=%s data=%s log=%s bad=%s' % (
+        args.username, args.password, args.svrinstance, args.db, ctl_path, full_path, log_path, log_path)
     system(sqlldr)
 
 if __name__ == "__main__":
