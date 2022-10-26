@@ -12,11 +12,15 @@ parser.add_argument('-D', '--db', help='Database Name', required=True)
 parser.add_argument('-U', '--username', help='Username', required=True)
 parser.add_argument('-P', '--password', help='Authenticating Password', required=True)
 parser.add_argument('-T', '--tpcdspath', help='UNC path where the tpcds.sql script is located. You should write the full path: [path_to_dir]/tpcds.sql', required=True)
+parser.add_argument('-TRI', '--tpcdsripath', help='UNC path where the tpcds_ri.sql script is located. You should write the full path: [path_to_dir]/tpcds_ri.sql', required=True)
 parser.add_argument('-L', '--filespath', help='UNC path where the data files are located', required=True)
 parser.add_argument('-C', '--ctlpath', help='UNC path where the control files are located', required=True)
 parser.add_argument('-Q', '--querypath', help='UNC path of query_0.sql. You should write the full path: [path_to_dir]/query_0.sql', required=True)
 parser.add_argument('-O', '--outputdir', help='UNC path where the query results will be stored', required=True)
 parser.add_argument('-DROP', '--drop', help='Should tables be dropped (y/n), default: y', required=False, default='y')
+parser.add_argument('-RL', '--run_load', help='Should we run load test (y/n), default: y', required=False, default='y')
+parser.add_argument('-RP', '--run_power', help='Should we run power test (y/n), default: y', required=False, default='y')
+parser.add_argument('-RT', '--run_throughput', help='Should we run throughput test (y/n), default: y', required=False, default='y')
 args = parser.parse_args()
 
 if not args.svrinstance or not args.port or not args.db or not args.username or not args.password or not args.tpcdspath or not args.filespath or not args.ctlpath or not args.querypath or not args.outputdir:
@@ -59,9 +63,20 @@ Parameters
 '''
 def throughput_test(thread_id):
     if thread_id == 0:
-        sub_user = argv.username
+        sub_user = args.username
     else:
-        sub_user = argv.username + f'{thread_id}'
+        sub_user = args.username + f'{thread_id}'
+
+def run_query(filepath, output=None):
+    if output != None:
+        sqlplus = 'sqlplus %s/%s@%s/%s @%s %s' % (
+            args.username, args.password, args.svrinstance, args.db, filepath, output)
+    else:
+        sqlplus = 'sqlplus %s/%s@%s/%s @%s' % (
+            args.username, args.password, args.svrinstance, args.db, filepath)
+    print(sqlplus)
+    system(sqlplus)
+
 #TODO make the query streams
 
 if __name__ == "__main__":
@@ -75,69 +90,78 @@ if __name__ == "__main__":
 #	we execute a modified version of the provided sql script tpcds
 #	which drops all the tables and creates them again
 
-    f = open(f'{args.tpcdspath}')
-    full_sql = f.read()
-    sql_commands = full_sql.split(';')
+    if args.run_load == 'y':
     
-    #If we don't want to drop tables, we omit the drop commands
-    if args.drop == 'n':
-        sql_commands = [com for com in sql_commands if 'drop table' not in com ]
-    sql_commands = sql_commands[:-1] #we have one extra empty command
-    for sql_command in sql_commands:
-        c.execute(sql_command)
+        f = open(f'{args.tpcdspath}')
+        full_sql = f.read()
+        sql_commands = full_sql.split(';')
+        
+        #If we don't want to drop tables, we omit the drop commands
+        if args.drop == 'n':
+            sql_commands = [com for com in sql_commands if 'drop table' not in com ]
+        sql_commands = sql_commands[:-1] #we have one extra empty command
+        for sql_command in sql_commands:
+            c.execute(sql_command)
 
-#Load test
-#	done from flat files, so we only account for strictly loading time
-    load_start_time = time.time() # Timestamp for the starting time
+        output = ""
+        
+        #Load test
+        #	done from flat files, so we only account for strictly loading time
+        load_start_time = time.time() # Timestamp for the starting time
 
-    p = Pool(processes=2*cpu_count())
+        p = Pool(processes=1)
 
-    for file in listdir(args.filespath):
-        if file.endswith(".dat"):
-            table_name = ''.join([i for i in path.splitext(file)[0] if not i.isdigit()]).rstrip('_')
-            p.apply_async(load_files, [table_name, file])
-    p.close()
-    p.join()
+        for file in listdir(args.filespath):
+            if file.endswith(".dat"):
+                table_name = ''.join([i for i in path.splitext(file)[0] if not i.isdigit()]).rstrip('_')
+                p.apply_async(load_files, [table_name, file])
+        p.close()
+        p.join()
 
-    load_end_time = time.time() # Timestamp for the ending time
-    load_time = load_end_time - load_start_time # Measured load time
-    output = f'LOAD TIME:\n\tLoad start time = {load_start_time}\n\tLoad end time = {load_end_time}\n\tLoad time = {load_time}\n'
-
-#Power test
-    f = open(f'{args.querypath}')
-    full_sql = f.read()
-    sql_commands = full_sql.split(';')
-    
-    #If we don't want to drop tables, we omit the drop commands
-    sql_commands = sql_commands[:-1] #we have one extra empty command
-
-    output += '----------------------------------------------------------\n'
-
-    power_test_start_time = time.time() # Timestamp for the starting time
-
-    for sql_command in sql_commands:
-        c.execute(sql_command)
-
-    power_test_end_time = time.time() # Timestamp for the ending time
-    power_test_time = power_test_end_time - power_test_start_time # Measured power test time
-
-    output += f'POWER TEST TIME:\n\tPower test start time = {power_test_start_time}\n\tPower test end time = {power_test_end_time}\n\tPower test time = {power_test_time}\n'
+        load_end_time = time.time() # Timestamp for the ending time
+        load_time = load_end_time - load_start_time # Measured load time
+        output += f'LOAD TIME:\n\tLoad start time = {load_start_time}\n\tLoad end time = {load_end_time}\n\tLoad time = {load_time}\n'
     conn.close()
 
-#Throughput Test 1
-    TP_test_start_time_1 = time.time()
+    run_query(args.tpcdsripath)
 
-    _thread.start_new_thread(throughput_test, ('0'))
-    _thread.start_new_thread(throughput_test, ('1'))
-    _thread.start_new_thread(throughput_test, ('2'))
-    _thread.start_new_thread(throughput_test, ('3'))
+    if args.run_power == 'y':
+    #Power test
+        f = open(f'{args.querypath}')
+        full_sql = f.read()
+        sql_commands = full_sql.split('-- end')
+        
+        #If we don't want to drop tables, we omit the drop commands
+        sql_commands = sql_commands[:-1] #we have one extra empty command
 
-    TP_test_end_time_1 = time.time()
-    TP_test_time_1 = time.time()
+        output += '----------------------------------------------------------\n'
 
-    output += '----------------------------------------------------------\n'
-    output += f'THROUGHPUT TEST 1 TIME:\n\tThroughput test 1 start time = {TP_test_start_time_1}\n\tThroughput test 1 end time = {TP_test_end_time_1}\n\tThroughput test 1 time = {TP_test_time_1}\n'
+        power_test_start_time = time.time() # Timestamp for the starting time
+
+        output = path.join(args.outputdir, 'queries_times.txt')
+        run_query(args.querypath, output=output)
+
+        power_test_end_time = time.time() # Timestamp for the ending time
+        power_test_time = power_test_end_time - power_test_start_time # Measured power test time
+
+        output += f'POWER TEST TIME:\n\tPower test start time = {power_test_start_time}\n\tPower test end time = {power_test_end_time}\n\tPower test time = {power_test_time}\n'
+
+    if args.run_throughput == 'y':
+    #Throughput Test 1
+        TP_test_start_time_1 = time.time()
+
+        _thread.start_new_thread(throughput_test, ('0'))
+        _thread.start_new_thread(throughput_test, ('1'))
+        _thread.start_new_thread(throughput_test, ('2'))
+        _thread.start_new_thread(throughput_test, ('3'))
+
+        TP_test_end_time_1 = time.time()
+        TP_test_time_1 = time.time()
+
+        output += '----------------------------------------------------------\n'
+        output += f'THROUGHPUT TEST 1 TIME:\n\tThroughput test 1 start time = {TP_test_start_time_1}\n\tThroughput test 1 end time = {TP_test_end_time_1}\n\tThroughput test 1 time = {TP_test_time_1}\n'
 
 #Output results
-    with open(args.outputdir, 'w') as f:
+    output2 = path.join(args.outputdir, "load_power_results.txt")
+    with open(output2, 'w') as f:
         print(output, file=f)
