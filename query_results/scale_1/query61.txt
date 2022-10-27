@@ -1,0 +1,11 @@
+
+PROMOTIONS      TOTAL                                                           
+---------- ----------                                                           
+CAST(PROMOTIONSASDECIMAL(15,4))/CAST(TOTALASDECIMAL(15,4))*100                  
+--------------------------------------------------------------                  
+                                                                                
+                                                                                
+                                                                                
+
+timing for: t
+Elapsed: 00:00:00.03

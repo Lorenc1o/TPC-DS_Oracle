@@ -1,0 +1,1405 @@
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5153 
+           .724504266            1.28846368            .654770922               
+            .91637714            1.08773563            1.43069333               
+           1.05683221                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5154 
+           1.10336567             .89695468            1.02153382               
+           1.15692946            1.10648153            .896274075               
+           1.69446893                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+S_STORE_NAME1                                      S_STORE_ID1      D_WEEK_SEQ1 
+-------------------------------------------------- ---------------- ----------- 
+SUN_SALES1/SUN_SALES2 MON_SALES1/MON_SALES2 TUE_SALES1/TUE_SALES2               
+--------------------- --------------------- ---------------------               
+WED_SALES1/WED_SALES2 THU_SALES1/THU_SALES2 FRI_SALES1/FRI_SALES2               
+--------------------- --------------------- ---------------------               
+SAT_SALES1/SAT_SALES2                                                           
+---------------------                                                           
+able                                               AAAAAAAACAAAAAAA        5155 
+           1.09503945            1.19368764            .518867985               
+           .892348622            1.13277085            .727839945               
+            1.0343724                                                           
+                                                                                
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:00.56

@@ -18,7 +18,7 @@ if not args.filespath:
 
 def extract_exec(file_name):
     read_path = os.path.join(args.filespath, file_name)
-    query_n = re.search(r'query\d+', file_name).group()
+    query_n = re.search(r'query\d+(-\d+)?', file_name).group()
     query_n = query_n[5:]
     with open(read_path, "r") as f:
         lines_to_read = f.readlines()
