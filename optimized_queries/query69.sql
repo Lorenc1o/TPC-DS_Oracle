@@ -1,3 +1,6 @@
+spool &1
+timing start t
+
 select * from ( select cd_gender,
  cd_marital_status,
  cd_education_status,
@@ -63,3 +66,7 @@ select * from ( select cd_gender,
      cd_credit_rating
  ) where rownum <= 100;
 
+  
+timing stop
+spool off
+exit
