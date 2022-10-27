@@ -3,6 +3,8 @@ import argparse
 import numpy as np
 import csv
 
+plt.style.use('ggplot')
+
 parser = argparse.ArgumentParser(description='Extracting Execution Time from the Query Outputs')
 parser.add_argument('-E', '--timefile', help='UNC path of the csv file of execution times', required=True)
 parser.add_argument('-O', '--outputfile', help='UNC path of the jpg file where to save the graph', required=True)
@@ -25,15 +27,15 @@ with open(args.timefile,'r') as csvfile:
             y.append(float(row[1]))
  
 # creating the bar plot
-bar_list = plt.bar(x, y, color ='lightgrey',
+bar_list = plt.bar(x, y, color ='firebrick',
         width = 0.4)
 
-# queries with no output
-no_output = [8, 23, 24, 25, 29, 37, 41, 44, 54, 58]
-for idx in no_output:
-    bar_list[idx-1].set_color('firebrick')
+# # queries with no output
+# no_output = [8, 23, 24, 25, 29, 37, 41, 44, 54, 58]
+# for idx in no_output:
+#     bar_list[idx-1].set_color('firebrick')
 
-plt.axhline(y=np.mean(y), color='r', linestyle='-')
+plt.axhline(y=np.mean(y), linestyle='-')
 
 plt.tight_layout()
 plt.xticks(fontsize=4, rotation=90)
