@@ -1,0 +1,44 @@
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAABIJBAAAA James                White                                     
+James.White@DI8oHLVIxJer5MMljj.org                                              
+                                                                                
+AAAAAAAADIIOAAAA David                Carroll                                   
+David.Carroll@fm.edu                                                            
+                                                                                
+AAAAAAAAIJCIBAAA Thomas               Oneal                                     
+Thomas.Oneal@YhHzOk6o3RiKc1AREv.edu                                             
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAAKJBLAAAA Kerry                Davis                                     
+Kerry.Davis@i.com                                                               
+                                                                                
+AAAAAAAAMFPFBAAA Jamie                Woods                                     
+Jamie.Woods@zjTJlz.edu                                                          
+                                                                                
+AAAAAAAANJAMAAAA Thaddeus             Griffin                                   
+                                                                                
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAANJOLAAAA Debra                Underwood                                 
+Debra.Underwood@f3193uX.org                                                     
+                                                                                
+AAAAAAAAPEHEBAAA Edith                Molina                                    
+Edith.Molina@q9CS0P.com                                                         
+                                                                                
+
+8 rows selected.
+
+timing for: t
+Elapsed: 00:00:01.82

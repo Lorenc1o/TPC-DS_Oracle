@@ -1,0 +1,7 @@
+
+Excess Discount Amount                                                          
+----------------------                                                          
+              27418.73                                                          
+
+timing for: t
+Elapsed: 00:00:00.01

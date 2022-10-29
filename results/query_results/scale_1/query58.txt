@@ -1,0 +1,5 @@
+
+no rows selected
+
+timing for: t
+Elapsed: 00:00:00.74

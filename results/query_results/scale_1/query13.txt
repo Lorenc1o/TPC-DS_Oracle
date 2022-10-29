@@ -1,0 +1,11 @@
+
+AVG(SS_QUANTITY) AVG(SS_EXT_SALES_PRICE) AVG(SS_EXT_WHOLESALE_COST)             
+---------------- ----------------------- --------------------------             
+SUM(SS_EXT_WHOLESALE_COST)                                                      
+--------------------------                                                      
+            35.6                2850.286                 2695.31733             
+                  40429.76                                                      
+                                                                                
+
+timing for: t
+Elapsed: 00:00:00.88

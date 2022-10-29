@@ -1,0 +1,10 @@
+
+SUM(SALES)                                                                      
+----------                                                                      
+                                                                                
+
+
+no rows selected
+
+timing for: t
+Elapsed: 00:00:08.83

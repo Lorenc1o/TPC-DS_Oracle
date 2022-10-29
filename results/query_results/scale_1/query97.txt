@@ -1,0 +1,7 @@
+
+STORE_ONLY CATALOG_ONLY STORE_AND_CATALOG                                       
+---------- ------------ -----------------                                       
+    533121       285845               156                                       
+
+timing for: t
+Elapsed: 00:00:00.76
