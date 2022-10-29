@@ -1,0 +1,7 @@
+query_number,execution_time(seconds)
+9,2.25
+10,0.97
+35,0.93
+69-2,0.76
+69,0.92
+88,0.65
