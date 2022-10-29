@@ -1,0 +1,135 @@
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAAAEAPBAAA Turner                        , Melissa                        
+AAAAAAAAAGNDAAAA Bartlett                      , Homer                          
+AAAAAAAAAHPDAAAA Lewis                         , Charles                        
+AAAAAAAAAHPDAAAA Lewis                         , Charles                        
+AAAAAAAAANGPBAAA Larkin                        , Martin                         
+AAAAAAAAAOACBAAA Miller                        , Ken                            
+AAAAAAAAAOFLAAAA Fernandez                     , Cheryl                         
+AAAAAAAABEKHBAAA Love                          , Thomas                         
+AAAAAAAABFKIBAAA Handy                         , Michael                        
+AAAAAAAABIMEBAAA Denton                        , Zachary                        
+AAAAAAAABKOKAAAA Flowers                       , Rogelio                        
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAABKOKAAAA Flowers                       , Rogelio                        
+AAAAAAAABNPEBAAA Hunt                          , Rosemary                       
+AAAAAAAACDOKBAAA Jones                         , Edward                         
+AAAAAAAACDOKBAAA Jones                         , Edward                         
+AAAAAAAACODABAAA Morley                        , David                          
+AAAAAAAACOGNCAAA Lester                        , John                           
+AAAAAAAACPDGBAAA Rincon                        , Jay                            
+AAAAAAAADBKEBAAA Louis                         , Amanda                         
+AAAAAAAADDPBCAAA Bacon                         , Steven                         
+AAAAAAAADDPBCAAA Bacon                         , Steven                         
+AAAAAAAADFPMCAAA Henry                         , Betty                          
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAADFPMCAAA Henry                         , Betty                          
+AAAAAAAADIPMCAAA Sullivan                      , Paul                           
+AAAAAAAADIPMCAAA Sullivan                      , Paul                           
+AAAAAAAADKOGCAAA Harman                        , Vincenzo                       
+AAAAAAAADMMNBAAA Collins                       , Julia                          
+AAAAAAAAEAOICAAA Starkey                       , Pamela                         
+AAAAAAAAEGEBBAAA Bryant                        , Shawn                          
+AAAAAAAAEGJPBAAA Lopez                         , Garry                          
+AAAAAAAAEIJNCAAA Myers                         , Calvin                         
+AAAAAAAAELCFBAAA Jacob                         , Peggy                          
+AAAAAAAAELCFBAAA Jacob                         , Peggy                          
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAAEMALBAAA Thompson                      , William                        
+AAAAAAAAEMALBAAA Thompson                      , William                        
+AAAAAAAAEPKDBAAA Scott                         , Gregory                        
+AAAAAAAAEPKDBAAA Scott                         , Gregory                        
+AAAAAAAAFIOPAAAA Wright                        , Gilbert                        
+AAAAAAAAFKOGAAAA Francisco                     , Jude                           
+AAAAAAAAFMFLCAAA Barrett                       , Brenda                         
+AAAAAAAAFMJBCAAA Gray                          , Manuel                         
+AAAAAAAAFNALBAAA Caraway                       , Jason                          
+AAAAAAAAFNALBAAA Caraway                       , Jason                          
+AAAAAAAAFNALBAAA Caraway                       , Jason                          
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAAFOANAAAA Harris                        , Mark                           
+AAAAAAAAGBFGAAAA Weaver                        , Jacquelyn                      
+AAAAAAAAGDKDCAAA Galvan                        , Robert                         
+AAAAAAAAGEAOBAAA Lyon                          , Harold                         
+AAAAAAAAGEAOBAAA Lyon                          , Harold                         
+AAAAAAAAGEJFCAAA Humphrey                      , Jeanne                         
+AAAAAAAAGFJDCAAA Chase                         , Emilio                         
+AAAAAAAAGIDLBAAA Johnson                       , Bessie                         
+AAAAAAAAGOCKCAAA Lee                           , James                          
+AAAAAAAAHBENBAAA Sanchez                       , Christopher                    
+AAAAAAAAHBINCAAA Carter                        , Juan                           
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAAHBKCCAAA Green                         , Christopher                    
+AAAAAAAAHCDJAAAA Clark                         , Sally                          
+AAAAAAAAHCGEBAAA Rowan                         , Viola                          
+AAAAAAAAHCHKBAAA Jackson                       , Donna                          
+AAAAAAAAHCPHAAAA Anderson                      , Randy                          
+AAAAAAAAHGIMBAAA Clark                         , Ivan                           
+AAAAAAAAHIFBBAAA Drake                         , Lonnie                         
+AAAAAAAAHMEEAAAA Roach                         , Stella                         
+AAAAAAAAHMEEAAAA Roach                         , Stella                         
+AAAAAAAAHOAGCAAA Smalls                        , Natasha                        
+AAAAAAAAHOAGCAAA Smalls                        , Natasha                        
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAAHOBLBAAA Soto                          , Holly                          
+AAAAAAAAHOGHBAAA Wilson                        , George                         
+AAAAAAAAIAEJBAAA Baker                         , Justin                         
+AAAAAAAAIBNNAAAA Tyner                         , Craig                          
+AAAAAAAAICFNBAAA Perez                         , Kenneth                        
+AAAAAAAAICFNBAAA Perez                         , Kenneth                        
+AAAAAAAAICFNBAAA Perez                         , Kenneth                        
+AAAAAAAAIIPOAAAA Davis                         , James                          
+AAAAAAAAIMINBAAA Blair                         , Lillian                        
+AAAAAAAAIMLJCAAA Dill                          , Bennie                         
+AAAAAAAAIOFLCAAA Oliphant                      , Arvilla                        
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAAJCFJAAAA Johnson                       , Daniel                         
+AAAAAAAAJIKCCAAA Marsh                         , Paula                          
+AAAAAAAAJJHDAAAA Jaramillo                     , Margaret                       
+AAAAAAAAJKPBAAAA Arnold                        , Sally                          
+AAAAAAAAJMIKAAAA Thorpe                        , Billy                          
+AAAAAAAAJNEACAAA Gonzalez                      , Charlotte                      
+AAAAAAAAJNEACAAA Gonzalez                      , Charlotte                      
+AAAAAAAAJNGMCAAA Mackey                        , Curtis                         
+AAAAAAAAJNGMCAAA Mackey                        , Curtis                         
+AAAAAAAAJOICCAAA Barker                        , Faith                          
+AAAAAAAAJONBAAAA Hill                          , Clarence                       
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAAJPOHAAAA Becker                        , Dina                           
+AAAAAAAAKAIICAAA Echevarria                    , Phyllis                        
+AAAAAAAAKGLNCAAA Hynes                         , Benjamin                       
+AAAAAAAAKGLNCAAA Hynes                         , Benjamin                       
+AAAAAAAAKOOOAAAA ,                                                              
+AAAAAAAALBIACAAA Mcnabb                        , Patrick                        
+AAAAAAAALLAFBAAA Santos                        , Heather                        
+AAAAAAAAMAJFAAAA Smith                         , Shantay                        
+AAAAAAAAMCMMBAAA Walling                       , Melissa                        
+AAAAAAAAMNDLAAAA Livingston                    , Alfred                         
+AAAAAAAAMNDLAAAA Livingston                    , Alfred                         
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAAMOGBCAAA Odonnell                      , Laura                          
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:00.21

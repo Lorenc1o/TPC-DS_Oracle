@@ -1,0 +1,83 @@
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Ball                           Michael              Dr.        N                
+          531329          5                                                     
+                                                                                
+Burrell                        Renee                Mrs.       Y                
+          670916          5                                                     
+                                                                                
+Cooper                         Samuel               Sir        Y                
+          283353          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Fernandez                      Ora                  Ms.        N                
+          131068          5                                                     
+                                                                                
+Frazier                        David                Dr.        Y                
+          104962          5                                                     
+                                                                                
+Gaines                         Christina            Miss       N                
+           86207          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Hill                           Pauline              Miss       Y                
+          139138          5                                                     
+                                                                                
+Hobbs                          Danielle             Dr.        Y                
+          203358          5                                                     
+                                                                                
+Jarrell                        Alex                 Ms.        Y                
+          556366          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Johnson                        Darren               Dr.        N                
+          464525          5                                                     
+                                                                                
+Lewis                          Douglas              Mr.        N                
+           92639          5                                                     
+                                                                                
+Reed                           Kevin                Sir        Y                
+          631265          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Sloan                          Dennis               Dr.        Y                
+          352386          5                                                     
+                                                                                
+Stewart                        Jonathan             Sir        N                
+           47551          5                                                     
+                                                                                
+Worthy                         Gary                 Mr.        Y                
+           86396          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Augustine                      Kathleen             Ms.        N                
+          113766          4                                                     
+                                                                                
+
+16 rows selected.
+
+timing for: t
+Elapsed: 00:00:01.62

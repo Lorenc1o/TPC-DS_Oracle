@@ -1,0 +1,33 @@
+
+CALL_CENTER      CALL_CENTER_NAME                                               
+---------------- --------------------------------------------------             
+MANAGER                                  RETURNS_LOSS                           
+---------------------------------------- ------------                           
+AAAAAAAACAAAAAAA Mid Atlantic                                                   
+Felipe Perkins                                 690.24                           
+                                                                                
+AAAAAAAABAAAAAAA NY Metro                                                       
+Bob Belcher                                    601.66                           
+                                                                                
+AAAAAAAAEAAAAAAA North Midwest                                                  
+Larry Mccray                                   455.66                           
+                                                                                
+
+CALL_CENTER      CALL_CENTER_NAME                                               
+---------------- --------------------------------------------------             
+MANAGER                                  RETURNS_LOSS                           
+---------------------------------------- ------------                           
+AAAAAAAAKAAAAAAA Hawaii/Alaska                                                  
+Gregory Altman                                 119.86                           
+                                                                                
+AAAAAAAABAAAAAAA NY Metro                                                       
+Bob Belcher                                      80.3                           
+                                                                                
+AAAAAAAAKAAAAAAA Hawaii/Alaska                                                  
+Gregory Altman                                  68.29                           
+                                                                                
+
+6 rows selected.
+
+timing for: t
+Elapsed: 00:00:00.20

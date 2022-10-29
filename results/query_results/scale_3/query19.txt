@@ -1,0 +1,475 @@
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+  10015004 scholaramalgamalg #4                                         545     
+antieseanti                                          63200.68                   
+                                                                                
+   8011007 amalgmaxi #7                                                 291     
+oughtn stable                                        61192.48                   
+                                                                                
+   6015002 scholarbrand #2                                               21     
+oughtable                                            59011.82                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   3001001 amalgexporti #1                                              193     
+prin stought                                         52670.28                   
+                                                                                
+   9013009 exportiunivamalg #9                                          535     
+antiprianti                                          52214.28                   
+                                                                                
+   2004002 edu packimporto #2                                           481     
+oughteingese                                         51824.22                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   6016006 corpbrand #6                                                 965     
+anticallyn st                                        51376.56                   
+                                                                                
+   8001007 amalgnameless #7                                             154     
+eseantiought                                         48870.84                   
+                                                                                
+   2003001 exportiimporto #1                                            914     
+eseoughtn st                                         47724.56                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   8002007 importonameless #7                                           562     
+ablecallyanti                                        46180.89                   
+                                                                                
+   1002001 importoamalg #1                                               75     
+antiation                                             46161.1                   
+                                                                                
+   3003002 exportiexporti #2                                            490     
+barn stese                                           45756.37                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   4001001 amalgedu pack #1                                             232     
+ablepriable                                          45664.46                   
+                                                                                
+   2002002 importoimporto #2                                            608     
+eingbarcally                                         45355.42                   
+                                                                                
+   4003002 exportiedu pack #2                                           825     
+antiableeing                                         45103.44                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   7008006 namelessbrand #6                                             130     
+barpriought                                          44894.45                   
+                                                                                
+   1001002 amalgamalg #2                                                 71     
+oughtation                                           44808.54                   
+                                                                                
+   3003001 exportiexporti #1                                            550     
+barantianti                                          44514.44                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   3002001 importoexporti #1                                             83     
+prieing                                              43554.61                   
+                                                                                
+   6005001 scholarcorp #1                                               251     
+oughtantiable                                        43344.48                   
+                                                                                
+  10008016 namelessunivamalg #16                                        543     
+prieseanti                                           43119.49                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   4001002 amalgedu pack #2                                             669     
+n stcallycally                                       42337.61                   
+                                                                                
+   9008005 namelessmaxi #5                                               34     
+esepri                                               42027.18                   
+                                                                                
+   1001002 amalgamalg #2                                                185     
+antieingought                                        41191.71                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   6006001 corpcorp #1                                                  268     
+eingcallyable                                        41155.77                   
+                                                                                
+   7014005 edu packnameless #5                                          142     
+ableeseought                                          41135.1                   
+                                                                                
+   9005003 scholarmaxi #3                                               605     
+antibarcally                                         40983.85                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   1001001 amalgamalg #1                                                180     
+bareingought                                         40461.07                   
+                                                                                
+   5002001 importoscholar #1                                            164     
+esecallyought                                        40337.71                   
+                                                                                
+   3001001 amalgexporti #1                                               18     
+eingought                                            40300.23                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   9008005 namelessmaxi #5                                              385     
+antieingpri                                           39930.4                   
+                                                                                
+   9008005 namelessmaxi #5                                              439     
+n stpriese                                           39672.18                   
+                                                                                
+   2004001 edu packimporto #1                                           222     
+ableableable                                         39053.16                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+  10009009 maxiunivamalg #9                                              72     
+ableation                                            38978.36                   
+                                                                                
+   7012009 importonameless #9                                           269     
+n stcallyable                                        38802.99                   
+                                                                                
+  10001009 amalgunivamalg #9                                            142     
+ableeseought                                         38305.42                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   8007010 brandnameless #10                                            774     
+eseationation                                        38228.83                   
+                                                                                
+   5003002 exportischolar #2                                            323     
+priablepri                                           37911.27                   
+                                                                                
+  10006012 corpunivamalg #12                                            232     
+ablepriable                                          37839.09                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   8001008 amalgnameless #8                                             293     
+prin stable                                          37620.92                   
+                                                                                
+   2004001 edu packimporto #1                                           166     
+callycallyought                                      37612.56                   
+                                                                                
+   9015008 scholarunivamalg #8                                          474     
+eseationese                                          37377.94                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   5003001 exportischolar #1                                            380     
+bareingpri                                           36941.74                   
+                                                                                
+   5004002 edu packscholar #2                                           910     
+baroughtn st                                         36886.41                   
+                                                                                
+   9007008 brandmaxi #8                                                 316     
+callyoughtpri                                        36821.36                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   8002004 importonameless #4                                           309     
+n stbarpri                                           36690.42                   
+                                                                                
+   7002010 importobrand #10                                              48     
+eingese                                               36331.7                   
+                                                                                
+  10013006 exportiamalgamalg #6                                          13     
+priought                                              36267.8                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   3002002 importoexporti #2                                            215     
+antioughtable                                        36261.46                   
+                                                                                
+  10009009 maxiunivamalg #9                                             503     
+pribaranti                                           36168.75                   
+                                                                                
+   1004001 edu packamalg #1                                             311     
+oughtoughtpri                                        36026.18                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   6004005 edu packcorp #5                                              139     
+n stpriought                                         36014.83                   
+                                                                                
+   4003001 exportiedu pack #1                                           219     
+n stoughtable                                        35976.54                   
+                                                                                
+   2002002 importoimporto #2                                            312     
+ableoughtpri                                         35971.03                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   5001002 amalgscholar #2                                               52     
+ableanti                                             35908.42                   
+                                                                                
+   5004001 edu packscholar #1                                           158     
+eingantiought                                        35830.31                   
+                                                                                
+   3002002 importoexporti #2                                             36     
+callypri                                              35665.7                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   4004001 edu packedu pack #1                                          854     
+eseantieing                                          35582.06                   
+                                                                                
+   6015006 scholarbrand #6                                              294     
+esen stable                                          35235.48                   
+                                                                                
+   8016005 corpmaxi #5                                                  408     
+eingbarese                                           34813.92                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   9004008 edu packmaxi #8                                              325     
+antiablepri                                          34760.03                   
+                                                                                
+   7014007 edu packnameless #7                                          934     
+eseprin st                                           34619.56                   
+                                                                                
+   4004001 edu packedu pack #1                                          183     
+prieingought                                         34612.23                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   5003001 exportischolar #1                                            491     
+oughtn stese                                         34143.43                   
+                                                                                
+   5004001 edu packscholar #1                                           176     
+callyationought                                      33971.65                   
+                                                                                
+   1001002 amalgamalg #2                                                 21     
+oughtable                                            33958.58                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   6007007 brandcorp #7                                                 416     
+callyoughtese                                        33906.01                   
+                                                                                
+   3001001 amalgexporti #1                                               47     
+ationese                                              33842.9                   
+                                                                                
+  10008004 namelessunivamalg #4                                          23     
+priable                                              33752.47                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   1002001 importoamalg #1                                              256     
+callyantiable                                        33333.21                   
+                                                                                
+   1004001 edu packamalg #1                                             622     
+ableablecally                                         33232.1                   
+                                                                                
+   6016001 corpbrand #1                                                 664     
+esecallycally                                        33134.64                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   3002002 importoexporti #2                                             52     
+ableanti                                             33048.51                   
+                                                                                
+   8004005 edu packnameless #5                                          172     
+ableationought                                       32945.55                   
+                                                                                
+   7009009 maxibrand #9                                                 585     
+antieinganti                                         32841.43                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   8004007 edu packnameless #7                                           65     
+antically                                            32576.13                   
+                                                                                
+   3002001 importoexporti #1                                           1000     
+barbarbarought                                       32499.73                   
+                                                                                
+   8013003 exportimaxi #3                                               578     
+eingationanti                                        32134.41                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   9003009 exportimaxi #9                                                20     
+barable                                              32004.79                   
+                                                                                
+   5001002 amalgscholar #2                                              393     
+prin stpri                                           31796.69                   
+                                                                                
+   7008002 namelessbrand #2                                             610     
+baroughtcally                                        31708.52                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   5002002 importoscholar #2                                            544     
+eseeseanti                                           31689.54                   
+                                                                                
+   7009002 maxibrand #2                                                 233     
+pripriable                                           31613.57                   
+                                                                                
+  10005006 scholarunivamalg #6                                          263     
+pricallyable                                         31478.82                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   4004002 edu packedu pack #2                                          204     
+esebarable                                           31388.74                   
+                                                                                
+   7012006 importonameless #6                                           268     
+eingcallyable                                        31367.58                   
+                                                                                
+   1001001 amalgamalg #1                                                135     
+antipriought                                         30961.45                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   3004001 edu packexporti #1                                            45     
+antiese                                              30856.64                   
+                                                                                
+   8006009 corpnameless #9                                               83     
+prieing                                              30778.79                   
+                                                                                
+   6016001 corpbrand #1                                                 641     
+oughtesecally                                        30723.32                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   4004002 edu packedu pack #2                                          384     
+eseeingpri                                           30533.21                   
+                                                                                
+  10004002 edu packunivamalg #2                                          51     
+oughtanti                                            30499.77                   
+                                                                                
+   8010003 univmaxi #3                                                  314     
+eseoughtpri                                          30351.22                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   8016002 corpmaxi #2                                                   81     
+oughteing                                            30116.01                   
+                                                                                
+   2002001 importoimporto #1                                            692     
+ablen stcally                                         30086.6                   
+                                                                                
+   8014002 edu packmaxi #2                                              257     
+ationantiable                                        30075.64                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   7012007 importonameless #7                                           543     
+prieseanti                                           30013.26                   
+                                                                                
+   4002001 importoedu pack #1                                           250     
+barantiable                                          29967.56                   
+                                                                                
+   9014011 edu packunivamalg #11                                        683     
+prieingcally                                         29849.22                   
+                                                                                
+
+  BRAND_ID BRAND                                              I_MANUFACT_ID     
+---------- -------------------------------------------------- -------------     
+I_MANUFACT                                          EXT_PRICE                   
+-------------------------------------------------- ----------                   
+   5003001 exportischolar #1                                            887     
+ationeingeing                                        29739.78                   
+                                                                                
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:11.16

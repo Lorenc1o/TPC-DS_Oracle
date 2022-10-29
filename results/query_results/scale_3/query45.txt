@@ -1,0 +1,57 @@
+
+CA_ZIP     CA_COUNTY                      SUM(WS_SALES_PRICE)                   
+---------- ------------------------------ -------------------                   
+07134      Tolland County                               65.34                   
+18222      Erie County                                  84.23                   
+25281      Yancey County                                67.35                   
+26098      Cherokee County                             108.23                   
+26557      Chesapeake city                              47.84                   
+29431      Wayne County                                  6.75                   
+30150      Wilcox County                                 7.71                   
+30169      Bradley County                              107.62                   
+30268      Cannon County                                45.42                   
+34338      Collier County                               77.53                   
+43511      Gallia County                                  7.2                   
+
+CA_ZIP     CA_COUNTY                      SUM(WS_SALES_PRICE)                   
+---------- ------------------------------ -------------------                   
+44107      Clinton County                               15.54                   
+45464      Kalamazoo County                               .85                   
+46787      Ingham County                                85.96                   
+47746      Nelson County                                10.15                   
+48579      Marion County                                11.85                   
+49089      Madison County                               11.98                   
+50525      Oneida County                                 8.81                   
+53451      Beadle County                                63.48                   
+56192      Corson County                               195.47                   
+56192      Montgomery County                            46.73                   
+56787      Crawford County                              47.69                   
+
+CA_ZIP     CA_COUNTY                      SUM(WS_SALES_PRICE)                   
+---------- ------------------------------ -------------------                   
+58054      Brown County                                  4.22                   
+59310      Wapello County                               25.23                   
+60411      Osage County                                 28.86                   
+65804      Jasper County                                35.21                   
+67683      Bourbon County                               70.81                   
+68721      Garden County                                 1.52                   
+69672      Dunklin County                                3.32                   
+75038      Hemphill County                               1.39                   
+76060      Jefferson Parish                                 0                   
+78222      West Feliciana Parish                        71.92                   
+78354      Washington County                            48.59                   
+
+CA_ZIP     CA_COUNTY                      SUM(WS_SALES_PRICE)                   
+---------- ------------------------------ -------------------                   
+78605      Runnels County                               22.91                   
+78828      Jackson County                               79.62                   
+78828      Morris County                               110.51                   
+79583      Titus County                                 33.62                   
+79840      Uvalde County                                 5.25                   
+84338      Pershing County                              26.46                   
+           Conecuh County                               45.06                   
+
+40 rows selected.
+
+timing for: t
+Elapsed: 00:00:01.01

@@ -1,0 +1,475 @@
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1998          1                                   
+Books                                                      41   69020.24        
+                                                                                
+catalog cs_warehouse_sk       1998          1                                   
+Children                                                   30   58986.36        
+                                                                                
+catalog cs_warehouse_sk       1998          1                                   
+Electronics                                                28   43233.69        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1998          1                                   
+Home                                                       32   13358.73        
+                                                                                
+catalog cs_warehouse_sk       1998          1                                   
+Jewelry                                                    31   29662.39        
+                                                                                
+catalog cs_warehouse_sk       1998          1                                   
+Men                                                        27   13478.72        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1998          1                                   
+Music                                                      37   47197.02        
+                                                                                
+catalog cs_warehouse_sk       1998          1                                   
+Shoes                                                      38   68414.11        
+                                                                                
+catalog cs_warehouse_sk       1998          1                                   
+Sports                                                     31   51414.14        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1998          1                                   
+Women                                                      37   42590.88        
+                                                                                
+catalog cs_warehouse_sk       1998          1                                   
+                                                            3    4178.89        
+                                                                                
+catalog cs_warehouse_sk       1998          2                                   
+Books                                                      36   30331.56        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1998          2                                   
+Children                                                   25   23336.71        
+                                                                                
+catalog cs_warehouse_sk       1998          2                                   
+Electronics                                                33      72805        
+                                                                                
+catalog cs_warehouse_sk       1998          2                                   
+Home                                                       37   43795.45        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1998          2                                   
+Jewelry                                                    26   47352.58        
+                                                                                
+catalog cs_warehouse_sk       1998          2                                   
+Men                                                        30   75216.51        
+                                                                                
+catalog cs_warehouse_sk       1998          2                                   
+Music                                                      32   66382.08        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1998          2                                   
+Shoes                                                      25   38031.97        
+                                                                                
+catalog cs_warehouse_sk       1998          2                                   
+Sports                                                     41   46712.35        
+                                                                                
+catalog cs_warehouse_sk       1998          2                                   
+Women                                                      33   31463.88        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1998          3                                   
+Books                                                      53   59713.53        
+                                                                                
+catalog cs_warehouse_sk       1998          3                                   
+Children                                                   48   78478.49        
+                                                                                
+catalog cs_warehouse_sk       1998          3                                   
+Electronics                                                56   96120.35        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1998          3                                   
+Home                                                       54   78219.15        
+                                                                                
+catalog cs_warehouse_sk       1998          3                                   
+Jewelry                                                    50  105372.73        
+                                                                                
+catalog cs_warehouse_sk       1998          3                                   
+Men                                                        44   60984.01        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1998          3                                   
+Music                                                      51   51911.54        
+                                                                                
+catalog cs_warehouse_sk       1998          3                                   
+Shoes                                                      56   55132.81        
+                                                                                
+catalog cs_warehouse_sk       1998          3                                   
+Sports                                                     56   92128.82        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1998          3                                   
+Women                                                      66  104569.12        
+                                                                                
+catalog cs_warehouse_sk       1998          3                                   
+                                                            1                   
+                                                                                
+catalog cs_warehouse_sk       1998          4                                   
+Books                                                      92  134691.61        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1998          4                                   
+Children                                                   95  122315.75        
+                                                                                
+catalog cs_warehouse_sk       1998          4                                   
+Electronics                                               112   125911.6        
+                                                                                
+catalog cs_warehouse_sk       1998          4                                   
+Home                                                       75   94437.42        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1998          4                                   
+Jewelry                                                    83  150051.84        
+                                                                                
+catalog cs_warehouse_sk       1998          4                                   
+Men                                                        97  127238.73        
+                                                                                
+catalog cs_warehouse_sk       1998          4                                   
+Music                                                      91  102081.76        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1998          4                                   
+Shoes                                                      99  115786.08        
+                                                                                
+catalog cs_warehouse_sk       1998          4                                   
+Sports                                                     92  134799.48        
+                                                                                
+catalog cs_warehouse_sk       1998          4                                   
+Women                                                      84  112442.06        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1998          4                                   
+                                                            3     1198.8        
+                                                                                
+catalog cs_warehouse_sk       1999          1                                   
+Books                                                      27    74613.6        
+                                                                                
+catalog cs_warehouse_sk       1999          1                                   
+Children                                                   34   46029.47        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1999          1                                   
+Electronics                                                30   41306.74        
+                                                                                
+catalog cs_warehouse_sk       1999          1                                   
+Home                                                       40   35273.53        
+                                                                                
+catalog cs_warehouse_sk       1999          1                                   
+Jewelry                                                    30   26738.51        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1999          1                                   
+Men                                                        28   36001.09        
+                                                                                
+catalog cs_warehouse_sk       1999          1                                   
+Music                                                      29   24710.17        
+                                                                                
+catalog cs_warehouse_sk       1999          1                                   
+Shoes                                                      26     9905.8        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1999          1                                   
+Sports                                                     28   43415.45        
+                                                                                
+catalog cs_warehouse_sk       1999          1                                   
+Women                                                      27   15263.73        
+                                                                                
+catalog cs_warehouse_sk       1999          1                                   
+                                                            1     686.25        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1999          2                                   
+Books                                                      25    24874.1        
+                                                                                
+catalog cs_warehouse_sk       1999          2                                   
+Children                                                   28   36099.87        
+                                                                                
+catalog cs_warehouse_sk       1999          2                                   
+Electronics                                                30   60122.54        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1999          2                                   
+Home                                                       34   89964.56        
+                                                                                
+catalog cs_warehouse_sk       1999          2                                   
+Jewelry                                                    42   28640.41        
+                                                                                
+catalog cs_warehouse_sk       1999          2                                   
+Men                                                        36   34236.87        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1999          2                                   
+Music                                                      30    23717.6        
+                                                                                
+catalog cs_warehouse_sk       1999          2                                   
+Shoes                                                      37   45903.02        
+                                                                                
+catalog cs_warehouse_sk       1999          2                                   
+Sports                                                     40      48258        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1999          2                                   
+Women                                                      31    68200.2        
+                                                                                
+catalog cs_warehouse_sk       1999          2                                   
+                                                            1    3350.37        
+                                                                                
+catalog cs_warehouse_sk       1999          3                                   
+Books                                                      62   70797.85        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1999          3                                   
+Children                                                   61   55378.63        
+                                                                                
+catalog cs_warehouse_sk       1999          3                                   
+Electronics                                                54   61576.69        
+                                                                                
+catalog cs_warehouse_sk       1999          3                                   
+Home                                                       68   56514.55        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1999          3                                   
+Jewelry                                                    50  103465.07        
+                                                                                
+catalog cs_warehouse_sk       1999          3                                   
+Men                                                        60   49511.19        
+                                                                                
+catalog cs_warehouse_sk       1999          3                                   
+Music                                                      67   60574.97        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1999          3                                   
+Shoes                                                      63   82319.54        
+                                                                                
+catalog cs_warehouse_sk       1999          3                                   
+Sports                                                     49   75930.09        
+                                                                                
+catalog cs_warehouse_sk       1999          3                                   
+Women                                                      63   84368.81        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1999          3                                   
+                                                            3      20.65        
+                                                                                
+catalog cs_warehouse_sk       1999          4                                   
+Books                                                      95  116729.54        
+                                                                                
+catalog cs_warehouse_sk       1999          4                                   
+Children                                                  101  113173.83        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1999          4                                   
+Electronics                                                92  105294.27        
+                                                                                
+catalog cs_warehouse_sk       1999          4                                   
+Home                                                      102   86826.45        
+                                                                                
+catalog cs_warehouse_sk       1999          4                                   
+Jewelry                                                    89  120670.24        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1999          4                                   
+Men                                                        75  141021.61        
+                                                                                
+catalog cs_warehouse_sk       1999          4                                   
+Music                                                     120  140321.59        
+                                                                                
+catalog cs_warehouse_sk       1999          4                                   
+Shoes                                                      98  108394.64        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       1999          4                                   
+Sports                                                    112  141347.47        
+                                                                                
+catalog cs_warehouse_sk       1999          4                                   
+Women                                                     101  104565.77        
+                                                                                
+catalog cs_warehouse_sk       1999          4                                   
+                                                            2                   
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       2000          1                                   
+Books                                                      28   15470.62        
+                                                                                
+catalog cs_warehouse_sk       2000          1                                   
+Children                                                   35   43684.83        
+                                                                                
+catalog cs_warehouse_sk       2000          1                                   
+Electronics                                                42   64257.09        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       2000          1                                   
+Home                                                       27   41131.03        
+                                                                                
+catalog cs_warehouse_sk       2000          1                                   
+Jewelry                                                    27   53368.53        
+                                                                                
+catalog cs_warehouse_sk       2000          1                                   
+Men                                                        37   39625.81        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       2000          1                                   
+Music                                                      39   41334.04        
+                                                                                
+catalog cs_warehouse_sk       2000          1                                   
+Shoes                                                      26   36131.49        
+                                                                                
+catalog cs_warehouse_sk       2000          1                                   
+Sports                                                     22   11227.01        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       2000          1                                   
+Women                                                      25   37115.56        
+                                                                                
+catalog cs_warehouse_sk       2000          1                                   
+                                                            1     1073.5        
+                                                                                
+catalog cs_warehouse_sk       2000          2                                   
+Books                                                      33   68699.68        
+                                                                                
+
+CHANNEL COL_NAME            D_YEAR      D_QOY                                   
+------- --------------- ---------- ----------                                   
+I_CATEGORY                                          SALES_CNT  SALES_AMT        
+-------------------------------------------------- ---------- ----------        
+catalog cs_warehouse_sk       2000          2                                   
+Children                                                   28   30265.67        
+                                                                                
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:03.35

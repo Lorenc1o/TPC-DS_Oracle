@@ -1,0 +1,7 @@
+
+order count total shipping cost total net profit                                
+----------- ------------------- ----------------                                
+        476          2079389.36       -531173.68                                
+
+timing for: t
+Elapsed: 00:00:02.48

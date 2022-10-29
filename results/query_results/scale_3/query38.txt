@@ -1,0 +1,7 @@
+
+  COUNT(*)                                                                      
+----------                                                                      
+       282                                                                      
+
+timing for: t
+Elapsed: 00:00:03.57

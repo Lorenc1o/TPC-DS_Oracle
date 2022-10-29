@@ -1,0 +1,41 @@
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_STORE_ID       S_STORE_NAME                                                   
+---------------- --------------------------------------------------             
+STORE_SALES_QUANTITY STORE_RETURNS_QUANTITY CATALOG_SALES_QUANTITY              
+-------------------- ---------------------- ----------------------              
+AAAAAAAADAABAAAA                                                                
+                                                                                
+AAAAAAAANAAAAAAA pri                                                            
+                  45                     11                     74              
+                                                                                
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_STORE_ID       S_STORE_NAME                                                   
+---------------- --------------------------------------------------             
+STORE_SALES_QUANTITY STORE_RETURNS_QUANTITY CATALOG_SALES_QUANTITY              
+-------------------- ---------------------- ----------------------              
+AAAAAAAAMKGGAAAA                                                                
+Women keep little increased, responsible signs. Novels will not become easy righ
+ts. Grounds shall not finance potentially. Organizations could admit.           
+AAAAAAAAKBAAAAAA cally                                                          
+                  39                     32                     40              
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_STORE_ID       S_STORE_NAME                                                   
+---------------- --------------------------------------------------             
+STORE_SALES_QUANTITY STORE_RETURNS_QUANTITY CATALOG_SALES_QUANTITY              
+-------------------- ---------------------- ----------------------              
+                                                                                
+
+timing for: t
+Elapsed: 00:00:06.82

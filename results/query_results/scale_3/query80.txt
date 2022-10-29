@@ -1,0 +1,135 @@
+
+CHANNEL         ID                                SALES    RETURNS     PROFIT   
+--------------- ---------------------------- ---------- ---------- ----------   
+catalog channel catalog_pageAAAAAAAAAABAAAAA   34203.82    1758.72  -15365.26   
+catalog channel catalog_pageAAAAAAAAAADAAAAA   39567.69    2799.04   -6100.27   
+catalog channel catalog_pageAAAAAAAAABBAAAAA   86458.27    7593.48   12701.67   
+catalog channel catalog_pageAAAAAAAAABDAAAAA   37263.24    4040.96    4697.22   
+catalog channel catalog_pageAAAAAAAAACBAAAAA   21028.84          0     509.31   
+catalog channel catalog_pageAAAAAAAAACDAAAAA   31715.55    1517.05  -14650.69   
+catalog channel catalog_pageAAAAAAAAADBAAAAA   41994.13    1708.99      -73.6   
+catalog channel catalog_pageAAAAAAAAADDAAAAA   47894.36          0     986.58   
+catalog channel catalog_pageAAAAAAAAAEBAAAAA    53953.8          0   -4721.33   
+catalog channel catalog_pageAAAAAAAAAEDAAAAA   30462.65          0    -8817.1   
+catalog channel catalog_pageAAAAAAAAAFDAAAAA   30715.27     193.79    4198.17   
+
+CHANNEL         ID                                SALES    RETURNS     PROFIT   
+--------------- ---------------------------- ---------- ---------- ----------   
+catalog channel catalog_pageAAAAAAAAAGDAAAAA    7726.46     839.96   -7014.92   
+catalog channel catalog_pageAAAAAAAAAHAAAAAA   29837.82     1858.2    2026.47   
+catalog channel catalog_pageAAAAAAAAAIAAAAAA   66039.82       16.4    4327.42   
+catalog channel catalog_pageAAAAAAAAAJAAAAAA    58202.4    9187.03  -15911.63   
+catalog channel catalog_pageAAAAAAAAAJCAAAAA    4080.07          0     682.91   
+catalog channel catalog_pageAAAAAAAAAKAAAAAA   86878.31    6888.45    15070.6   
+catalog channel catalog_pageAAAAAAAAAKCAAAAA     845.75          0   -1727.27   
+catalog channel catalog_pageAAAAAAAAALAAAAAA   78858.11    2957.42   -6198.77   
+catalog channel catalog_pageAAAAAAAAALCAAAAA     2066.4          0      247.2   
+catalog channel catalog_pageAAAAAAAAAMAAAAAA   72254.53      472.5    -455.11   
+catalog channel catalog_pageAAAAAAAAAMCAAAAA     1623.6          0     670.78   
+
+CHANNEL         ID                                SALES    RETURNS     PROFIT   
+--------------- ---------------------------- ---------- ---------- ----------   
+catalog channel catalog_pageAAAAAAAAANAAAAAA    37164.2    1284.77  -19073.53   
+catalog channel catalog_pageAAAAAAAAANCAAAAA    3036.12          0    1339.31   
+catalog channel catalog_pageAAAAAAAAAOAAAAAA   10355.49    1265.64   -5464.96   
+catalog channel catalog_pageAAAAAAAAAOCAAAAA    5160.24          0   -1280.94   
+catalog channel catalog_pageAAAAAAAAAPAAAAAA   29999.56    2181.18   -2708.05   
+catalog channel catalog_pageAAAAAAAABABAAAAA   20096.53          0   -5840.45   
+catalog channel catalog_pageAAAAAAAABADAAAAA   26633.62     1856.1  -11077.19   
+catalog channel catalog_pageAAAAAAAABBBAAAAA   28527.81          0   -1555.21   
+catalog channel catalog_pageAAAAAAAABBDAAAAA   19376.87     199.26   -5268.34   
+catalog channel catalog_pageAAAAAAAABCBAAAAA   17755.97    2883.76   -14545.9   
+catalog channel catalog_pageAAAAAAAABCDAAAAA   28317.99      81.96   -4260.05   
+
+CHANNEL         ID                                SALES    RETURNS     PROFIT   
+--------------- ---------------------------- ---------- ---------- ----------   
+catalog channel catalog_pageAAAAAAAABDBAAAAA   32800.29          0  -10513.76   
+catalog channel catalog_pageAAAAAAAABDDAAAAA   44845.26    14621.7    8741.28   
+catalog channel catalog_pageAAAAAAAABEBAAAAA   10858.41          0   -9746.18   
+catalog channel catalog_pageAAAAAAAABEDAAAAA   20476.38     478.17   -9779.69   
+catalog channel catalog_pageAAAAAAAABFDAAAAA   20200.52        294   -8808.69   
+catalog channel catalog_pageAAAAAAAABHAAAAAA   43842.77     705.74   -6365.73   
+catalog channel catalog_pageAAAAAAAABIAAAAAA   79058.61     1595.2   20574.52   
+catalog channel catalog_pageAAAAAAAABJAAAAAA   15160.89      119.7  -13869.48   
+catalog channel catalog_pageAAAAAAAABKAAAAAA    55311.3    4989.17   -3918.32   
+catalog channel catalog_pageAAAAAAAABLAAAAAA   78244.93    8561.22   -9517.07   
+catalog channel catalog_pageAAAAAAAABLCAAAAA    1189.76     549.12     187.55   
+
+CHANNEL         ID                                SALES    RETURNS     PROFIT   
+--------------- ---------------------------- ---------- ---------- ----------   
+catalog channel catalog_pageAAAAAAAABMAAAAAA   113803.7      46.82   39884.45   
+catalog channel catalog_pageAAAAAAAABMCAAAAA     2049.3          0   -1823.85   
+catalog channel catalog_pageAAAAAAAABNAAAAAA   41524.46    1005.15  -13047.79   
+catalog channel catalog_pageAAAAAAAABOAAAAAA   60769.31     511.35  -13062.12   
+catalog channel catalog_pageAAAAAAAABPAAAAAA   25107.08          0    1181.28   
+catalog channel catalog_pageAAAAAAAABPCAAAAA    2353.18          0   -6543.95   
+catalog channel catalog_pageAAAAAAAACABAAAAA   12560.64     541.32   -7676.41   
+catalog channel catalog_pageAAAAAAAACADAAAAA   20865.42          0   -1797.92   
+catalog channel catalog_pageAAAAAAAACBBAAAAA    26864.3          0    2407.05   
+catalog channel catalog_pageAAAAAAAACBDAAAAA   35867.82      483.6   -6448.28   
+catalog channel catalog_pageAAAAAAAACCBAAAAA   14369.26          0    2652.69   
+
+CHANNEL         ID                                SALES    RETURNS     PROFIT   
+--------------- ---------------------------- ---------- ---------- ----------   
+catalog channel catalog_pageAAAAAAAACCDAAAAA   23800.02          0    8325.92   
+catalog channel catalog_pageAAAAAAAACDBAAAAA   15140.99    5375.88  -11416.04   
+catalog channel catalog_pageAAAAAAAACDDAAAAA     4748.9    1147.45   -5891.92   
+catalog channel catalog_pageAAAAAAAACEBAAAAA   14014.72    3900.56   -7612.35   
+catalog channel catalog_pageAAAAAAAACEDAAAAA   19784.95     1423.5  -10458.32   
+catalog channel catalog_pageAAAAAAAACFDAAAAA    3044.01          0   -4771.56   
+catalog channel catalog_pageAAAAAAAACHAAAAAA   74597.04    3613.61  -11574.82   
+catalog channel catalog_pageAAAAAAAACIAAAAAA   80504.13    5478.27   -9524.37   
+catalog channel catalog_pageAAAAAAAACJAAAAAA   61750.46     208.75  -21575.17   
+catalog channel catalog_pageAAAAAAAACKAAAAAA    67986.5     464.76    -324.39   
+catalog channel catalog_pageAAAAAAAACKCAAAAA       3954          0     1749.2   
+
+CHANNEL         ID                                SALES    RETURNS     PROFIT   
+--------------- ---------------------------- ---------- ---------- ----------   
+catalog channel catalog_pageAAAAAAAACLAAAAAA   62282.18        876   -7762.22   
+catalog channel catalog_pageAAAAAAAACMAAAAAA   54445.47    1484.52  -12889.35   
+catalog channel catalog_pageAAAAAAAACMCAAAAA      68.12          0     -49.14   
+catalog channel catalog_pageAAAAAAAACNAAAAAA   63960.09    2469.64    4427.76   
+catalog channel catalog_pageAAAAAAAACNCAAAAA       95.2          0    -982.24   
+catalog channel catalog_pageAAAAAAAACOAAAAAA   36795.71          0    6134.55   
+catalog channel catalog_pageAAAAAAAACOCAAAAA       9.72          0      -5.11   
+catalog channel catalog_pageAAAAAAAACPAAAAAA   80641.69    1619.54    13654.9   
+catalog channel catalog_pageAAAAAAAACPCAAAAA    2307.64          0    -1085.3   
+catalog channel catalog_pageAAAAAAAADABAAAAA   16883.24    4038.06   -2627.87   
+catalog channel catalog_pageAAAAAAAADADAAAAA   10925.74          0   -3539.22   
+
+CHANNEL         ID                                SALES    RETURNS     PROFIT   
+--------------- ---------------------------- ---------- ---------- ----------   
+catalog channel catalog_pageAAAAAAAADBBAAAAA   35018.62     567.42   -1425.42   
+catalog channel catalog_pageAAAAAAAADBDAAAAA   27552.49   11000.79   -9519.19   
+catalog channel catalog_pageAAAAAAAADCBAAAAA   39155.04          0     821.11   
+catalog channel catalog_pageAAAAAAAADCDAAAAA   13912.03    1905.96   -8012.88   
+catalog channel catalog_pageAAAAAAAADDBAAAAA   38942.24    3194.34  -22232.34   
+catalog channel catalog_pageAAAAAAAADDDAAAAA   21018.83     1390.2   -2820.75   
+catalog channel catalog_pageAAAAAAAADEBAAAAA   32998.33    4189.64   -5751.59   
+catalog channel catalog_pageAAAAAAAADEDAAAAA    5554.48    1348.34    -973.74   
+catalog channel catalog_pageAAAAAAAADFDAAAAA    7183.45     220.32      420.9   
+catalog channel catalog_pageAAAAAAAADHAAAAAA   60259.88     509.25   -1089.49   
+catalog channel catalog_pageAAAAAAAADIAAAAAA   75353.76    8498.27  -13976.29   
+
+CHANNEL         ID                                SALES    RETURNS     PROFIT   
+--------------- ---------------------------- ---------- ---------- ----------   
+catalog channel catalog_pageAAAAAAAADJAAAAAA   83859.53    5782.81    -264.64   
+catalog channel catalog_pageAAAAAAAADJCAAAAA      82.65          0      25.46   
+catalog channel catalog_pageAAAAAAAADKAAAAAA   94585.49   11407.28  -18600.21   
+catalog channel catalog_pageAAAAAAAADKCAAAAA     4591.5          0     1310.5   
+catalog channel catalog_pageAAAAAAAADLAAAAAA   40171.75        956   -6537.86   
+catalog channel catalog_pageAAAAAAAADLCAAAAA       1872          0     -77.43   
+catalog channel catalog_pageAAAAAAAADMAAAAAA   38390.46     2515.5  -10212.28   
+catalog channel catalog_pageAAAAAAAADMCAAAAA      64.17          0     -18.63   
+catalog channel catalog_pageAAAAAAAADNAAAAAA   45223.82    2086.18   -6927.05   
+catalog channel catalog_pageAAAAAAAADOAAAAAA    48149.9    1165.51  -10830.85   
+catalog channel catalog_pageAAAAAAAADOCAAAAA     617.91          0    -541.37   
+
+CHANNEL         ID                                SALES    RETURNS     PROFIT   
+--------------- ---------------------------- ---------- ---------- ----------   
+catalog channel catalog_pageAAAAAAAADPAAAAAA   35927.05    5366.68   -5143.97   
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:03.60

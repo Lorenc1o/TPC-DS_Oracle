@@ -1,0 +1,11 @@
+
+ITEM_ID          SS_ITEM_REV     SS_DEV CS_ITEM_REV     CS_DEV WS_ITEM_REV      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WS_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAMNIEAAAA     1254.72 102.832415        1176 96.3808025     1229.76      
+100.786782    1220.16                                                           
+                                                                                
+
+timing for: t
+Elapsed: 00:00:03.40
