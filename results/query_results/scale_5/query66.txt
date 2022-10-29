@@ -1,0 +1,2021 @@
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Bad cards must make.            621234                                          
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Fairview                                                                        
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Williamson County              TN United States        DIAMOND,AIRBORNE         
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+      2002 75827606.1 68628280.9 78578015.7 74669934.4 66948308.5 74422048.1    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+  87620996  174230438  178769624  174329987  262948919  252846442               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           122.059652            110.470903            126.486985               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           120.196149            107.766652            119.797127               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           141.043465            280.458632            287.765358               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           280.618877            423.268718            407.006768  144239396    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+ 134136774  153989509  140430396  124055548  146319463  152521093  329392654    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+ 331805801  334128296  501162027  485632311                                     
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+                                                                                
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Conventional childr             977787                                          
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Oak Grove                                                                       
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Williamson County              TN United States        DIAMOND,AIRBORNE         
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+      2002 79629127.8 65084907.7 74848549.3 72725029.1 74902681.2 66882609.8    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+82913819.9  172748681  162875310  168533903  261779730  256329838               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           81.4381126            66.5634823            76.5489307               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           74.3771692            76.6042923             68.402024               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           84.7974251            176.673121            166.575451               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           172.362593            267.726744            262.153044  161853389    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+ 124579624  141942100  143444878  135637550  125313001  147040487  321091295    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+ 320938671  323412744  505285949  502895681                                     
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+                                                                                
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Doors canno                     294242                                          
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Oak Grove                                                                       
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Williamson County              TN United States        DIAMOND,AIRBORNE         
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+      2002   90933399 76810216.2   72363038 78237269.5 78512129.1 78375356.5    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+66727350.2  180829303  175629203  170267497  248579461  266985483               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           309.042893            261.044365             245.93035               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           265.894296            266.828424            266.363593               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           226.777109            614.559794            596.886927               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           578.664829            844.812981            907.367008  168866451    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+ 148022742  154545515  147666240  150992471  152612120  138006324  338806677    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+ 339411998  330195333  473753484  511293030                                     
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+                                                                                
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Important issues liv            138504                                          
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Fairview                                                                        
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Williamson County              TN United States        DIAMOND,AIRBORNE         
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+      2002 59976866.9 74470654.2 76696437.4 66040756.8 68636114.5   66468363    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+67374991.8  161815355  194767667  186746389  250630611  288261653               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           433.033464            537.678725            553.748898               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           476.814798            495.553302            479.902118               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           486.447986            1168.30817            1406.22413               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           1348.31044            1809.55504            2081.25147  138031036    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+ 153016084  148262900  130831491  146280817  129756202  129339746  325901153    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+ 346724865  362452069  488952812  531499833                                     
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+                                                                                
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Local, mass universi            838797                                          
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Oak Grove                                                                       
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Williamson County              TN United States        DIAMOND,AIRBORNE         
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+      2002 73415349.3   71527008 73002445.1 71740851.7 89208948.4 88241000.1    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+76431370.9  168067089  185432705  146266461  272564331  260864833               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           87.5245731            85.2733236            87.0323154               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           85.5282645            106.353442             105.19947               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           91.1202244            200.366822            221.069824               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           174.376472            324.946717            310.998768  139835086    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+ 132855818  135617061  142101382  162306757  162652593  145124208  331303485    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+ 347978837  289276390  511922497  483401539                                     
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+                                                                                
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Quite effectiv                  662475                                          
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Fairview                                                                        
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Williamson County              TN United States        DIAMOND,AIRBORNE         
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+      2002 83934148.5 68400320.5 63946600.3 78591377.8 82655112.4 80341790.1    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+  81771484  168962572  161341791  176381181  257492286  270643556               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           126.697835            103.249663            96.5268128               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           118.632971            124.767142            121.275203               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           123.433313            255.047469            243.543968               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+           266.245792            388.682269            408.533992  157735610    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+ 127522320  123917275  152565881  151707814  148389784  147191224  324414485    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+ 323770933  326591386  478109551  513768407                                     
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+                                                                                
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+                                                                                
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Oak Grove                                                                       
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+Williamson County              TN United States        DIAMOND,AIRBORNE         
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+      2002 71258918.4 73751293.6 79869199.1 80994154.7 82952037.6 78116637.6    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+74056109.5  176158855  162598627  193099840  252170869  287483033               
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+                                                                                
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+                                                                                
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+                                                                                
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+                                                                   147887016    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+ 136769292  143878375  146127583  166705245  143024417  136868387  333034016    
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+ 306767387  350551966  485765714  523984346                                     
+
+W_WAREHOUSE_NAME     W_WAREHOUSE_SQ_FT                                          
+-------------------- -----------------                                          
+W_CITY                                                                          
+------------------------------------------------------------                    
+W_COUNTY                       W_ W_COUNTRY            SHIP_CARRIERS            
+------------------------------ -- -------------------- ----------------         
+      YEAR  JAN_SALES  FEB_SALES  MAR_SALES  APR_SALES  MAY_SALES  JUN_SALES    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+ JUL_SALES  AUG_SALES  SEP_SALES  OCT_SALES  NOV_SALES  DEC_SALES               
+---------- ---------- ---------- ---------- ---------- ----------               
+JAN_SALES_PER_SQ_FOOT FEB_SALES_PER_SQ_FOOT MAR_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+APR_SALES_PER_SQ_FOOT MAY_SALES_PER_SQ_FOOT JUN_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+JUL_SALES_PER_SQ_FOOT AUG_SALES_PER_SQ_FOOT SEP_SALES_PER_SQ_FOOT               
+--------------------- --------------------- ---------------------               
+OCT_SALES_PER_SQ_FOOT NOV_SALES_PER_SQ_FOOT DEC_SALES_PER_SQ_FOOT    JAN_NET    
+--------------------- --------------------- --------------------- ----------    
+   FEB_NET    MAR_NET    APR_NET    MAY_NET    JUN_NET    JUL_NET    AUG_NET    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+   SEP_NET    OCT_NET    NOV_NET    DEC_NET                                     
+---------- ---------- ---------- ----------                                     
+                                                                                
+
+7 rows selected.
+
+timing for: t
+Elapsed: 00:00:03.39

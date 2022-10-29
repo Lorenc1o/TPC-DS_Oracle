@@ -1,0 +1,811 @@
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+AAAAAAAAAAIBDAAA Dr.        Leon                 Hall                           
+Y          28             4         1971 DOMINICA                               
+Leon.Hall@nNq.com                                  2452283             1896.12  
+                                                                                
+AAAAAAAAACAHDAAA                                 Pritchett                      
+N                        12         1978                                        
+                                                                       3209.42  
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+                                                                                
+AAAAAAAAACDHBAAA Dr.        David                Barton                         
+N          17             3         1984 ARMENIA                                
+David.Barton@rQfnsl3kJuf2hlS.com                   2452423             3373.29  
+                                                                                
+AAAAAAAAACJICAAA Mrs.       Marian               Jones                          
+Y           7            12         1966 BERMUDA                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Marian.Jones@lTMh0PdHdVRvvl.com                    2452484              4245.6  
+                                                                                
+AAAAAAAAADAEBAAA Dr.        David                Martinez                       
+Y          28            10         1962 JERSEY                                 
+David.Martinez@5.com                               2452365             7630.02  
+                                                                                
+AAAAAAAAADCICAAA                                                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Y          24             7                                                     
+Cheryl.Wilson@F3pbFmgL5YB0t.edu                    2452589             3842.38  
+                                                                                
+AAAAAAAAADHBEAAA Dr.        Beth                 King                           
+N          25             7         1958 HONDURAS                               
+Beth.King@am.org                                   2452376             7648.88  
+                                                                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+AAAAAAAAADJNCAAA Dr.        Ernest               Hicks                          
+Y          28            12         1934 SPAIN                                  
+Ernest.Hicks@aCxZ27DunkDSiRt4cp.edu                2452631              4668.3  
+                                                                                
+AAAAAAAAAEBJBAAA Dr.        Angela               Martin                         
+N           2             9         1965 FRENCH GUIANA                          
+Angela.Martin@cyQh.com                             2452355             2441.88  
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+                                                                                
+AAAAAAAAAGLKDAAA Ms.        Michelle             Nguyen                         
+N          11             3         1948 GHANA                                  
+Michelle.Nguyen@AI8Nro1OFHlRDXm.edu                2452367             2067.52  
+                                                                                
+AAAAAAAAAHFODAAA Mr.        Emil                 Levin                          
+Y           7            10         1952 FRENCH POLYNESIA                       
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Emil.Levin@pTBb11.edu                              2452367             2396.42  
+                                                                                
+AAAAAAAAAHHGBAAA Dr.        Rosa                 Mccracken                      
+Y           8             3         1975 UGANDA                                 
+Rosa.Mccracken@HK4YMBkS.org                        2452360                5843  
+                                                                                
+AAAAAAAAAIDKAAAA Sir        James                Porter                         
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+N          13            12         1973 MACAO                                  
+James.Porter@257AYSNg4NmJ.com                      2452484             3226.08  
+                                                                                
+AAAAAAAAAIHMBAAA Mr.        Orlando              Mcconnell                      
+N           7             3         1963 GUATEMALA                              
+Orlando.Mcconnell@Bb6MIP9JDnsLCxE.edu              2452438             6688.07  
+                                                                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+AAAAAAAAAIOBEAAA Ms.        Antonio              Williams                       
+N          28             7         1964 CZECH REPUBLIC                         
+Antonio.Williams@UZYYcPGNZy.org                    2452529              4425.3  
+                                                                                
+AAAAAAAAAKKJAAAA Miss       Vickie               Hendricks                      
+Y          16             4         1940 BELARUS                                
+Vickie.Hendricks@70Ft.com                          2452500             5068.17  
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+                                                                                
+AAAAAAAAAKOKCAAA Mr.        Jerry                Williams                       
+Y           7             1         1938 AFGHANISTAN                            
+Jerry.Williams@z3lNv9d6hJ5RU4l.org                 2452466             4719.38  
+                                                                                
+AAAAAAAAALOKBAAA Dr.        Marcelo              Wood                           
+N          24             2         1939 CÔTE D'IVOIRE                          
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Marcelo.Wood@lbrq2IOy9.org                         2452346            11946.66  
+                                                                                
+AAAAAAAAANFECAAA                                 Hart                           
+           28            12              CYPRUS                                 
+Joyce.Hart@aLo25y2MfUt7.org                        2452470             7425.18  
+                                                                                
+AAAAAAAAANFIBAAA Miss       Gracie               Sanders                        
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Y                         5                                                     
+                                                                       8408.45  
+                                                                                
+AAAAAAAAANKBBAAA Mr.        Eddie                Robinson                       
+Y          21             5         1985 MADAGASCAR                             
+Eddie.Robinson@42U9qZ99SFzvN2.edu                  2452495             3540.32  
+                                                                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+AAAAAAAAAOACDAAA Sir        Wayne                Frame                          
+N          13            10         1992 ISRAEL                                 
+Wayne.Frame@Mi0G9SSyz.com                          2452526              8430.8  
+                                                                                
+AAAAAAAAAOCEBAAA Sir        Ricky                Nelson                         
+N           3             1         1936 BOTSWANA                               
+Ricky.Nelson@VNDkXJ3IDE.org                        2452440             4356.66  
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+                                                                                
+AAAAAAAAAPJCCAAA Mrs.       Jacqueline           Burgess                        
+N           8             6         1924 TURKEY                                 
+Jacqueline.Burgess@JDsPoSoxzgds7.org               2452620             1581.37  
+                                                                                
+AAAAAAAABAJBCAAA Mrs.       Peggy                Burns                          
+N          10            10         1957 UZBEKISTAN                             
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Peggy.Burns@ILqKy1DtF0d8.com                       2452544             2211.52  
+                                                                                
+AAAAAAAABALFAAAA Mr.        Chad                 Reed                           
+N          15            12         1946 BRAZIL                                 
+Chad.Reed@PPOC7bJxkFhk5IJj.edu                     2452529             2136.96  
+                                                                                
+AAAAAAAABAPBCAAA Mr.        Dean                 Summerlin                      
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+N          15            11         1990 ICELAND                                
+Dean.Summerlin@Ja.com                              2452293             2292.95  
+                                                                                
+AAAAAAAABBCAAAAA Sir        Michael              Herring                        
+Y          20             9         1932 AMERICAN SAMOA                         
+Michael.Herring@jl5PTAS.com                        2452300             1920.27  
+                                                                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+AAAAAAAABBCBAAAA Sir        Jose                 Dodge                          
+Y          16            11         1988 GAMBIA                                 
+Jose.Dodge@5mRQbY8Un1.edu                          2452518             2803.47  
+                                                                                
+AAAAAAAABBCHDAAA Miss       Anna                 Solano                         
+N           2             4         1954 ITALY                                  
+Anna.Solano@KDVTBgUjf.org                          2452523             1705.82  
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+                                                                                
+AAAAAAAABBEIAAAA Dr.        William              Wheeler                        
+N          22            12         1964 VANUATU                                
+William.Wheeler@k9qlcyZTkmtt.edu                   2452368             1704.99  
+                                                                                
+AAAAAAAABCCLCAAA Mr.        Bruce                Steward                        
+Y          22             5         1967 GUINEA                                 
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Bruce.Steward@zGnA5GV.com                          2452629              2332.8  
+                                                                                
+AAAAAAAABCEKAAAA Mr.        Louis                Williams                       
+Y           3             5         1954 PAPUA NEW GUINEA                       
+Louis.Williams@ZI0n.com                            2452405              3157.7  
+                                                                                
+AAAAAAAABCLCAAAA Mr.        Dustin               Scott                          
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Y          11             3         1925 SIERRA LEONE                           
+Dustin.Scott@scTNcChzkZCC.org                      2452620             1668.39  
+                                                                                
+AAAAAAAABDPACAAA Mr.        Gary                 Johnson                        
+Y          29            12         1928 PALAU                                  
+Gary.Johnson@FgZ3pQ4DCf.edu                        2452429              3336.2  
+                                                                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+AAAAAAAABFACBAAA Sir        Daniel               Childs                         
+N          11             1         1985 MACAO                                  
+Daniel.Childs@SFfh29so7fC4IZ.org                   2452573             5060.79  
+                                                                                
+AAAAAAAABGBGDAAA Dr.        Michael              Anderson                       
+N           4             7         1940 NORWAY                                 
+Michael.Anderson@up5oj2P55dNje.com                 2452519             4013.46  
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+                                                                                
+AAAAAAAABGDFAAAA Mrs.       Anthony              Godfrey                        
+N           3             7         1927 SOLOMON ISLANDS                        
+Anthony.Godfrey@xRFe45s3sABcFZI.org                2452285             3189.68  
+                                                                                
+AAAAAAAABHBJBAAA Miss       Tonya                Gomez                          
+Y           8             1         1957 TUNISIA                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Tonya.Gomez@3tnhDfsOCv2.edu                        2452574             3299.76  
+                                                                                
+AAAAAAAABHBNBAAA Mrs.       Marilyn              Williams                       
+N          15             7         1937 JERSEY                                 
+Marilyn.Williams@ROdufPfIKOA1ci.com                2452592             6572.12  
+                                                                                
+AAAAAAAABHKEAAAA Mr.        Franklin             Skinner                        
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+N          24             2         1961 BRUNEI DARUSSALAM                      
+Franklin.Skinner@TAxKnamyxnZmz2G.org               2452329             1651.23  
+                                                                                
+AAAAAAAABIJMDAAA Ms.        Beverly              Marshall                       
+Y          28            10         1931 LEBANON                                
+Beverly.Marshall@YSYkNpiyGx.edu                    2452384              2277.8  
+                                                                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+AAAAAAAABJMHAAAA Dr.        Phillip              Barajas                        
+N          24             6         1931 PITCAIRN                               
+Phillip.Barajas@ffIBLpRKxEI8YR4.org                2452355             4222.94  
+                                                                                
+AAAAAAAABKAFBAAA Miss       Mamie                Kramer                         
+Y          16            10         1951 PALAU                                  
+Mamie.Kramer@dTAGL.org                             2452545                3348  
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+                                                                                
+AAAAAAAABKLGAAAA Dr.        Marie                Mott                           
+Y          27            11         1959 CANADA                                 
+Marie.Mott@Jm2Rv6HIzBcZ07jl.edu                    2452284             4116.64  
+                                                                                
+AAAAAAAABKLMDAAA Mr.        Jeffery              Ray                            
+Y          12             5         1929 CYPRUS                                 
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Jeffery.Ray@LUTjvc2V4Ht.edu                        2452294                3492  
+                                                                                
+AAAAAAAABLBICAAA Dr.        Merna                Romano                         
+N          24             4         1983 LEBANON                                
+Merna.Romano@59C4.com                              2452562             2303.36  
+                                                                                
+AAAAAAAABLCDEAAA Mrs.       Nancy                Bass                           
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+N           7             9         1979 SEYCHELLES                             
+Nancy.Bass@GF9EP8SmJul45pk0.com                    2452534             6398.64  
+                                                                                
+AAAAAAAABLHPAAAA Dr.        Edelmira             Rhodes                         
+N          20             1         1987 NIGER                                  
+Edelmira.Rhodes@GJX6lpzgp.com                      2452630             2779.77  
+                                                                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+AAAAAAAABMHHDAAA Ms.        Heidi                Maynard                        
+Y          15             3         1928 MAURITANIA                             
+Heidi.Maynard@itZF91lx.org                         2452343                3216  
+                                                                                
+AAAAAAAABMIBBAAA Ms.        Karen                Cox                            
+N           4             7         1953 PORTUGAL                               
+Karen.Cox@EA.edu                                   2452459              3484.6  
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+                                                                                
+AAAAAAAABMOEAAAA Ms.        Linda                Gray                           
+N          10             5         1950 PITCAIRN                               
+Linda.Gray@PI.edu                                  2452395             5336.55  
+                                                                                
+AAAAAAAABNMDBAAA Ms.        Deborah              Johnson                        
+N           1             8         1981 THAILAND                               
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Deborah.Johnson@eF5a93.org                         2452467             2054.96  
+                                                                                
+AAAAAAAABODECAAA Sir        Clifford             Brown                          
+Y          28             4         1935 FAROE ISLANDS                          
+Clifford.Brown@2xAQ2AnZTo.com                      2452462             1756.02  
+                                                                                
+AAAAAAAABOLGAAAA Sir        Robert               Kennedy                        
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Y           6             9         1955 ITALY                                  
+Robert.Kennedy@X1BFRgVxm1P0Fso.com                 2452302             1653.57  
+                                                                                
+AAAAAAAABPJDEAAA Mr.        William              Dix                            
+Y          15            12         1973 JAPAN                                  
+William.Dix@kMQAbkFiV4xs.org                       2452443                4179  
+                                                                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+AAAAAAAABPJICAAA Sir        Dennis               Dotson                         
+Y           9            12         1933 SINGAPORE                              
+Dennis.Dotson@8vp.edu                              2452544              3652.5  
+                                                                                
+AAAAAAAACADDAAAA Dr.        Clara                Sanchez                        
+Y           2             8         1930 GUYANA                                 
+Clara.Sanchez@yiQJUa7tFK.org                       2452339             1676.64  
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+                                                                                
+AAAAAAAACAGAEAAA Dr.        Kari                 Garcia                         
+Y          27             6         1962 MARTINIQUE                             
+Kari.Garcia@d0bCBtyp.edu                           2452401             1971.25  
+                                                                                
+AAAAAAAACAJJAAAA Dr.        Alayna               Smith                          
+Y          11             9         1930 GUINEA                                 
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Alayna.Smith@FF8Ly.edu                             2452350             4529.91  
+                                                                                
+AAAAAAAACBAEBAAA Dr.        Michael              Taylor                         
+Y          22             7         1984 SINGAPORE                              
+Michael.Taylor@fTRhFO0Xyrp.com                     2452555             3778.53  
+                                                                                
+AAAAAAAACDJIDAAA Dr.        Jose                 Diamond                        
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Y           1             8         1924 RUSSIAN FEDERATION                     
+Jose.Diamond@UNkCbHCNOuhl.com                      2452460                6604  
+                                                                                
+AAAAAAAACDLEBAAA Mr.        Glenn                Matney                         
+Y          15             5         1974 QATAR                                  
+Glenn.Matney@MXND.com                              2452428             4327.96  
+                                                                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+AAAAAAAACDLEBAAA Mr.        Glenn                Matney                         
+Y          15             5         1974 QATAR                                  
+Glenn.Matney@MXND.com                              2452428             6685.08  
+                                                                                
+AAAAAAAACDLGDAAA Dr.        Alfred               Campbell                       
+Y          27             1         1989 RUSSIAN FEDERATION                     
+Alfred.Campbell@D.com                              2452481             3791.07  
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+                                                                                
+AAAAAAAACEAFBAAA Mrs.       Alexander            Newton                         
+N          30             9         1952 TUNISIA                                
+Alexander.Newton@qCm.com                           2452429              1656.2  
+                                                                                
+AAAAAAAACEFNDAAA Mr.        Jack                 Barnes                         
+N          17             7         1975 SLOVAKIA                               
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Jack.Barnes@pSpU6K.org                             2452521            15403.68  
+                                                                                
+AAAAAAAACEHFBAAA Mr.        Devon                Greenwood                      
+N          31             8         1936 INDIA                                  
+Devon.Greenwood@zZ4az3Yx.edu                       2452323              1734.7  
+                                                                                
+AAAAAAAACFPABAAA Sir        William              Rockwell                       
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Y           9            11         1943 TURKMENISTAN                           
+William.Rockwell@r59tuRGmjkM.org                   2452502             2998.08  
+                                                                                
+AAAAAAAACGIGBAAA Mr.        Robert               Koehler                        
+Y          11            10         1941 GERMANY                                
+Robert.Koehler@qUgmd.edu                           2452408             3619.56  
+                                                                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+AAAAAAAACGMIBAAA Sir        Richard              Ferry                          
+Y          29             8         1949 NORWAY                                 
+Richard.Ferry@R74Xme7tpmL.org                      2452509             3357.97  
+                                                                                
+AAAAAAAACIHEAAAA Ms.        Jeana                Landrum                        
+N           1             8         1930 HUNGARY                                
+Jeana.Landrum@By8.org                              2452457             1928.61  
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+                                                                                
+AAAAAAAACKEJAAAA Dr.        Robert               Dyson                          
+Y          18            10         1925 SEYCHELLES                             
+Robert.Dyson@Mo5mmgBOvRdx.org                      2452426             9124.41  
+                                                                                
+AAAAAAAACKEMCAAA Dr.        Pat                  Egan                           
+Y          20            12         1967 SOMALIA                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Pat.Egan@uaY8.com                                  2452340              3434.4  
+                                                                                
+AAAAAAAACKKGCAAA Dr.        Corrine              Nelson                         
+N          25             4         1924 MYANMAR                                
+Corrine.Nelson@j.org                               2452465             1689.12  
+                                                                                
+AAAAAAAACKKGCAAA Dr.        Corrine              Nelson                         
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+N          25             4         1924 MYANMAR                                
+Corrine.Nelson@j.org                               2452465              2616.2  
+                                                                                
+AAAAAAAACKMCEAAA Mr.        Prince               Murphy                         
+N          29            12         1965 HONG KONG                              
+Prince.Murphy@9PCi1cZ1Ulukn.org                    2452611             3762.38  
+                                                                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+AAAAAAAACLEHAAAA Ms.        Victoria             Smith                          
+N          26            12         1985 TAJIKISTAN                             
+Victoria.Smith@k5ZGNt260tP.com                     2452363             1695.15  
+                                                                                
+AAAAAAAACMFPCAAA Sir        Mark                 Jones                          
+Y          23            12         1978 SWEDEN                                 
+Mark.Jones@Rbt4Spao1ZCFFh3dc0Y.edu                 2452390            13458.56  
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+                                                                                
+AAAAAAAACNIJBAAA Miss       Dixie                Daniel                         
+N                                   1967 GUAM                                   
+Dixie.Daniel@TBfBD0xsNSjj.org                      2452468              2942.8  
+                                                                                
+AAAAAAAACNPBCAAA Miss       Avril                Pike                           
+Y          10             2         1949 VIET NAM                               
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Avril.Pike@5Pf0t5cy6yfqD9m.org                     2452473             1916.82  
+                                                                                
+AAAAAAAACODDDAAA Sir        Charles              Martz                          
+Y           6             3         1987 LIBERIA                                
+Charles.Martz@n5fLgt74YFK.org                      2452438             2603.52  
+                                                                                
+AAAAAAAACOKHDAAA Mr.        Stanley              Berry                          
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+N           1            12         1960 GEORGIA                                
+Stanley.Berry@gz9k10.edu                           2452622             2726.46  
+                                                                                
+AAAAAAAACPBAEAAA Dr.        Richard              Daniel                         
+N          17             6         1965 GERMANY                                
+Richard.Daniel@Ctldtz6StxbX1OZ.com                 2452312             4468.88  
+                                                                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+AAAAAAAACPEABAAA Dr.        Randall              Bryant                         
+Y          17             5         1975 CAPE VERDE                             
+Randall.Bryant@3UaG0ts.com                         2452376             1717.47  
+                                                                                
+AAAAAAAACPPEDAAA Mr.        Brad                 Beam                           
+N          15             4         1969 GUATEMALA                              
+Brad.Beam@eAu5a87nXK.org                           2452496             6205.76  
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+                                                                                
+AAAAAAAADBCHAAAA Sir        Michael              Paul                           
+N           3            10         1948 NETHERLANDS ANTILLES                   
+Michael.Paul@fDZLgO4hjdjj.edu                      2452613             7040.88  
+                                                                                
+AAAAAAAADBDODAAA Mrs.       Cynthia              Humphrey                       
+N          18             5         1933 GUADELOUPE                             
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Cynthia.Humphrey@lqfJSJUe.org                      2452438             7929.18  
+                                                                                
+AAAAAAAADCCFDAAA Mr.        Mark                 Mack                           
+N          15             4         1962 CUBA                                   
+Mark.Mack@BgAP30jIbYPM.com                         2452301            10196.56  
+                                                                                
+AAAAAAAADCDFDAAA Mr.        Keith                Sheffield                      
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Y          26            11         1947 GUATEMALA                              
+Keith.Sheffield@7kbCcrPFG7JBZOFzX.com              2452297             2813.36  
+                                                                                
+AAAAAAAADCDLCAAA Miss       Regina               Mckinney                       
+N          16             9         1937 SYRIAN ARAB REPUBLIC                   
+Regina.Mckinney@Q9.org                             2452404              3190.6  
+                                                                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+AAAAAAAADDLEBAAA Mrs.       Bridget              Mason                          
+Y           4             1         1953 SURINAME                               
+Bridget.Mason@B.edu                                2452588             1736.16  
+                                                                                
+AAAAAAAADECOAAAA Dr.        John                 Johnson                        
+N          15            12         1941 POLAND                                 
+John.Johnson@LJFA3m6KkbcVf.com                     2452408                3355  
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+                                                                                
+AAAAAAAADEHECAAA Mrs.       Clara                Soper                          
+Y           7            12         1964 AFGHANISTAN                            
+Clara.Soper@XFurvu39T0mcz.edu                      2452521             2144.38  
+                                                                                
+AAAAAAAADEJFDAAA Dr.        Hubert               Stovall                        
+Y           5             2         1954 RUSSIAN FEDERATION                     
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+Hubert.Stovall@nRZ450mn1Dm7z.edu                   2452291             1772.88  
+                                                                                
+AAAAAAAADEJODAAA Dr.        Edgar                Schofield                      
+Y          28             3         1933 TOKELAU                                
+Edgar.Schofield@8K.org                             2452519             2775.96  
+                                                                                
+AAAAAAAADFDCDAAA Mr.        James                Rodriguez                      
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+N          23            11         1988 BARBADOS                               
+James.Rodriguez@G4C1.edu                           2452455             6464.76  
+                                                                                
+AAAAAAAADFMAAAAA Dr.        Lance                Sparks                         
+Y          18             2         1961 KIRIBATI                               
+Lance.Sparks@TKkkVEs5ofqqdx.edu                    2452547             2072.14  
+                                                                                
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+AAAAAAAADGGDDAAA Dr.        Betty                Gutierrez                      
+N          24             5         1944 PORTUGAL                               
+Betty.Gutierrez@SYAxQ8q0V.org                      2452519                4221  
+                                                                                
+AAAAAAAADHHKAAAA Ms.        Christine            Jeffrey                        
+Y           7             6         1969 GUYANA                                 
+Christine.Jeffrey@lN.com                           2452483             2517.21  
+
+C_CUSTOMER_ID    C_SALUTATI C_FIRST_NAME         C_LAST_NAME                    
+---------------- ---------- -------------------- ------------------------------ 
+C C_BIRTH_DAY C_BIRTH_MONTH C_BIRTH_YEAR C_BIRTH_COUNTRY      C_LOGIN           
+- ----------- ------------- ------------ -------------------- -------------     
+C_EMAIL_ADDRESS                                    C_LAST_REV CTR_TOTAL_RETURN  
+-------------------------------------------------- ---------- ----------------  
+                                                                                
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:01.50

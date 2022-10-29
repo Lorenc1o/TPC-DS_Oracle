@@ -1,0 +1,135 @@
+
+W_WAREHOUSE_NAME     I_ITEM_ID        INV_BEFORE  INV_AFTER                     
+-------------------- ---------------- ---------- ----------                     
+Bad cards must make. AAAAAAAAAAANAAAA       1956       2673                     
+Bad cards must make. AAAAAAAAAACDAAAA       2465       2527                     
+Bad cards must make. AAAAAAAAAALAAAAA       2512       1939                     
+Bad cards must make. AAAAAAAAAALMAAAA       2649       2111                     
+Bad cards must make. AAAAAAAAAANDAAAA       1285       1824                     
+Bad cards must make. AAAAAAAAAANKAAAA       1827       2608                     
+Bad cards must make. AAAAAAAAAAOCAAAA       1902       1942                     
+Bad cards must make. AAAAAAAAABBDAAAA       2533       2059                     
+Bad cards must make. AAAAAAAAABDAAAAA       2421       3407                     
+Bad cards must make. AAAAAAAAABIHAAAA       3110       2108                     
+Bad cards must make. AAAAAAAAABPEAAAA       1832       1877                     
+
+W_WAREHOUSE_NAME     I_ITEM_ID        INV_BEFORE  INV_AFTER                     
+-------------------- ---------------- ---------- ----------                     
+Bad cards must make. AAAAAAAAACHCAAAA       2101       2134                     
+Bad cards must make. AAAAAAAAACLDAAAA       2034       1773                     
+Bad cards must make. AAAAAAAAACLGAAAA       2301       2453                     
+Bad cards must make. AAAAAAAAACOBAAAA       2292       2236                     
+Bad cards must make. AAAAAAAAACPDAAAA       2161       2887                     
+Bad cards must make. AAAAAAAAADAFAAAA       1876       2084                     
+Bad cards must make. AAAAAAAAADCMAAAA       2344       2221                     
+Bad cards must make. AAAAAAAAADIJAAAA       2689       2104                     
+Bad cards must make. AAAAAAAAADJFAAAA       1242       1652                     
+Bad cards must make. AAAAAAAAADNKAAAA       1492       1846                     
+Bad cards must make. AAAAAAAAAEAGAAAA       1909       1630                     
+
+W_WAREHOUSE_NAME     I_ITEM_ID        INV_BEFORE  INV_AFTER                     
+-------------------- ---------------- ---------- ----------                     
+Bad cards must make. AAAAAAAAAEBFAAAA       2940       2510                     
+Bad cards must make. AAAAAAAAAEOCAAAA       1763       2536                     
+Bad cards must make. AAAAAAAAAFEHAAAA       2117       1747                     
+Bad cards must make. AAAAAAAAAFJMAAAA       3036       2407                     
+Bad cards must make. AAAAAAAAAFPJAAAA       1432       1041                     
+Bad cards must make. AAAAAAAAAGIDAAAA       2311       2459                     
+Bad cards must make. AAAAAAAAAGLFAAAA       2483       2370                     
+Bad cards must make. AAAAAAAAAHCNAAAA       1522       2230                     
+Bad cards must make. AAAAAAAAAHDEAAAA       1784       2460                     
+Bad cards must make. AAAAAAAAAHDMAAAA       2088       2233                     
+Bad cards must make. AAAAAAAAAHKMAAAA       2605       2567                     
+
+W_WAREHOUSE_NAME     I_ITEM_ID        INV_BEFORE  INV_AFTER                     
+-------------------- ---------------- ---------- ----------                     
+Bad cards must make. AAAAAAAAAHNCAAAA       2624       2512                     
+Bad cards must make. AAAAAAAAAIECAAAA       1807       1964                     
+Bad cards must make. AAAAAAAAAIGIAAAA       2793       2600                     
+Bad cards must make. AAAAAAAAAIHEAAAA       2155       2070                     
+Bad cards must make. AAAAAAAAAIJJAAAA       1895       2520                     
+Bad cards must make. AAAAAAAAAIJLAAAA       2107       2013                     
+Bad cards must make. AAAAAAAAAINEAAAA       2535       1843                     
+Bad cards must make. AAAAAAAAAIPIAAAA       1870       2734                     
+Bad cards must make. AAAAAAAAAJALAAAA       2390       3071                     
+Bad cards must make. AAAAAAAAAJBAAAAA       2017       2238                     
+Bad cards must make. AAAAAAAAAJCAAAAA       1790       2385                     
+
+W_WAREHOUSE_NAME     I_ITEM_ID        INV_BEFORE  INV_AFTER                     
+-------------------- ---------------- ---------- ----------                     
+Bad cards must make. AAAAAAAAAJEDAAAA       2455       3594                     
+Bad cards must make. AAAAAAAAAJILAAAA       2507       2450                     
+Bad cards must make. AAAAAAAAAJKGAAAA       2622       2511                     
+Bad cards must make. AAAAAAAAAJMKAAAA       1984       2953                     
+Bad cards must make. AAAAAAAAAJNEAAAA       1520       1626                     
+Bad cards must make. AAAAAAAAAJNHAAAA       2514       2401                     
+Bad cards must make. AAAAAAAAAKAHAAAA       2605       3329                     
+Bad cards must make. AAAAAAAAAKCLAAAA       2201       2938                     
+Bad cards must make. AAAAAAAAAKFBAAAA       2026       1697                     
+Bad cards must make. AAAAAAAAAKHFAAAA       2148       2884                     
+Bad cards must make. AAAAAAAAAKMHAAAA       2049       1873                     
+
+W_WAREHOUSE_NAME     I_ITEM_ID        INV_BEFORE  INV_AFTER                     
+-------------------- ---------------- ---------- ----------                     
+Bad cards must make. AAAAAAAAALFMAAAA       1439       1425                     
+Bad cards must make. AAAAAAAAALHFAAAA       2066       1527                     
+Bad cards must make. AAAAAAAAALJMAAAA       2090       2451                     
+Bad cards must make. AAAAAAAAALPFAAAA       1864       1888                     
+Bad cards must make. AAAAAAAAAMBEAAAA       2243       3333                     
+Bad cards must make. AAAAAAAAAMEKAAAA       2591       2247                     
+Bad cards must make. AAAAAAAAAMOFAAAA       2611       1867                     
+Bad cards must make. AAAAAAAAANAJAAAA       2189       2300                     
+Bad cards must make. AAAAAAAAANMHAAAA       2226       2457                     
+Bad cards must make. AAAAAAAAANPGAAAA       2455       2036                     
+Bad cards must make. AAAAAAAAAOAGAAAA       2477       3018                     
+
+W_WAREHOUSE_NAME     I_ITEM_ID        INV_BEFORE  INV_AFTER                     
+-------------------- ---------------- ---------- ----------                     
+Bad cards must make. AAAAAAAAAOFJAAAA       2094       1595                     
+Bad cards must make. AAAAAAAAAOKKAAAA       2436       2549                     
+Bad cards must make. AAAAAAAAAOPIAAAA       2051       2035                     
+Bad cards must make. AAAAAAAAAPLAAAAA       2392       2622                     
+Bad cards must make. AAAAAAAAAPLDAAAA       2437       2811                     
+Bad cards must make. AAAAAAAAAPPLAAAA       2707       2914                     
+Bad cards must make. AAAAAAAABAEIAAAA       2193       2111                     
+Bad cards must make. AAAAAAAABAIKAAAA       2258       2197                     
+Bad cards must make. AAAAAAAABBIDAAAA       1972       2320                     
+Bad cards must make. AAAAAAAABCMKAAAA       2343       2887                     
+Bad cards must make. AAAAAAAABCNGAAAA       2299       2652                     
+
+W_WAREHOUSE_NAME     I_ITEM_ID        INV_BEFORE  INV_AFTER                     
+-------------------- ---------------- ---------- ----------                     
+Bad cards must make. AAAAAAAABCNJAAAA       1722       1580                     
+Bad cards must make. AAAAAAAABDBLAAAA       2868       2079                     
+Bad cards must make. AAAAAAAABDCEAAAA       2180       2450                     
+Bad cards must make. AAAAAAAABDDDAAAA       1782       2554                     
+Bad cards must make. AAAAAAAABDHIAAAA       1831       1996                     
+Bad cards must make. AAAAAAAABDJAAAAA       2733       3067                     
+Bad cards must make. AAAAAAAABDMMAAAA       2402       2405                     
+Bad cards must make. AAAAAAAABEFDAAAA       2258       2318                     
+Bad cards must make. AAAAAAAABEHEAAAA       2285       2081                     
+Bad cards must make. AAAAAAAABEODAAAA       1566       2145                     
+Bad cards must make. AAAAAAAABFCCAAAA       1327       1468                     
+
+W_WAREHOUSE_NAME     I_ITEM_ID        INV_BEFORE  INV_AFTER                     
+-------------------- ---------------- ---------- ----------                     
+Bad cards must make. AAAAAAAABFEGAAAA       2182       1974                     
+Bad cards must make. AAAAAAAABFILAAAA       2225       3236                     
+Bad cards must make. AAAAAAAABFMBAAAA       2495       1753                     
+Bad cards must make. AAAAAAAABFOCAAAA       2343       1979                     
+Bad cards must make. AAAAAAAABHFJAAAA       1354       1276                     
+Bad cards must make. AAAAAAAABHIJAAAA       2052       2116                     
+Bad cards must make. AAAAAAAABHNEAAAA       2478       2463                     
+Bad cards must make. AAAAAAAABHPFAAAA       1989       2866                     
+Bad cards must make. AAAAAAAABIAHAAAA       1284       1543                     
+Bad cards must make. AAAAAAAABIANAAAA       1688       2461                     
+Bad cards must make. AAAAAAAABIGBAAAA       1471       1606                     
+
+W_WAREHOUSE_NAME     I_ITEM_ID        INV_BEFORE  INV_AFTER                     
+-------------------- ---------------- ---------- ----------                     
+Bad cards must make. AAAAAAAABIJBAAAA       3090       2699                     
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:01.95

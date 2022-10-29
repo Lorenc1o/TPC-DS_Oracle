@@ -1,0 +1,380 @@
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAAAEKAAAA           1                     67                             
+                                                                                
+                                                                                
+AAAAAAAAABEJAAAA          15 8.62068966          18 10.3448276          25      
+14.3678161 19.3333333                                                           
+                                                                                
+AAAAAAAAABILAAAA          59 21.8518519          30 11.1111111           1      
+ .37037037         30                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAACIJAAAA           1                     18                             
+                                                                                
+                                                                                
+AAAAAAAAAEKFAAAA          16  4.9382716          74 22.8395062          18      
+5.55555556         36                                                           
+                                                                                
+AAAAAAAAAGBDAAAA           1 .595238095           1 .595238095          54      
+32.1428571 18.6666667                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAAHNDAAAA           6 4.87804878          32 26.0162602           3      
+2.43902439 13.6666667                                                           
+                                                                                
+AAAAAAAAAIBLAAAA          74 16.4444444          57 12.6666667          19      
+4.22222222         50                                                           
+                                                                                
+AAAAAAAAAIMJAAAA          41 7.89980732          72 13.8728324          60      
+11.5606936 57.6666667                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAABADDAAAA          58 10.0172712          71 12.2625216          64      
+11.0535406 64.3333333                                                           
+                                                                                
+AAAAAAAABBHBAAAA          75 18.2481752          47 11.4355231          15      
+3.64963504 45.6666667                                                           
+                                                                                
+AAAAAAAABBJIAAAA           1 .724637681           3 2.17391304          42      
+30.4347826 15.3333333                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAABCMHAAAA          14 19.4444444           4 5.55555556           6      
+8.33333333          8                                                           
+                                                                                
+AAAAAAAABFFCAAAA          26 18.0555556           2 1.38888889          20      
+13.8888889         16                                                           
+                                                                                
+AAAAAAAABIKDAAAA          70 14.4032922          61 12.5514403          31      
+6.37860082         54                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAACJJGAAAA          21       17.5           3        2.5          16      
+13.3333333 13.3333333                                                           
+                                                                                
+AAAAAAAACKJCAAAA          91 15.1666667          33        5.5          76      
+12.6666667 66.6666667                                                           
+                                                                                
+AAAAAAAACOAHAAAA          75 25.7731959          11 3.78006873          11      
+3.78006873 32.3333333                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAACOMKAAAA          15     15.625           8 8.33333333           9      
+     9.375 10.6666667                                                           
+                                                                                
+AAAAAAAADABMAAAA          26 8.17610063          28 8.80503145          52      
+16.3522013 35.3333333                                                           
+                                                                                
+AAAAAAAADJLIAAAA                                106                      5      
+                                                                                
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAADLBEAAAA          36 9.75609756          13 3.52303523          74      
+20.0542005         41                                                           
+                                                                                
+AAAAAAAADLBKAAAA          70 18.3727034           1 .262467192          56      
+14.6981627 42.3333333                                                           
+                                                                                
+AAAAAAAAEBKHAAAA          52 18.4397163          35 12.4113475           7      
+ 2.4822695 31.3333333                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAEBLEAAAA                                  4                      4      
+                                                                                
+                                                                                
+AAAAAAAAEDNAAAAA          15 10.8695652          26 18.8405797           5      
+3.62318841 15.3333333                                                           
+                                                                                
+AAAAAAAAEHLHAAAA          55 20.8333333           8 3.03030303          25      
+9.46969697 29.3333333                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAEJOLAAAA          33 19.2982456          22 12.8654971           2      
+1.16959064         19                                                           
+                                                                                
+AAAAAAAAEMBLAAAA          10 5.74712644          30 17.2413793          18      
+10.3448276 19.3333333                                                           
+                                                                                
+AAAAAAAAENCJAAAA          61 14.1203704          67 15.5092593          16      
+ 3.7037037         48                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAENMLAAAA          63 14.3835616          18 4.10958904          65      
+14.8401826 48.6666667                                                           
+                                                                                
+AAAAAAAAEOMEAAAA          23 15.6462585          16 10.8843537          10      
+6.80272109 16.3333333                                                           
+                                                                                
+AAAAAAAAEPBGAAAA          60  18.018018           6  1.8018018          45      
+13.5135135         37                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAFAPLAAAA           5 1.16550117          80 18.6480186          58      
+13.5198135 47.6666667                                                           
+                                                                                
+AAAAAAAAGMAEAAAA          34 20.9876543          19 11.7283951           1      
+.617283951         18                                                           
+                                                                                
+AAAAAAAAHKHBAAAA          63 16.6666667          15 3.96825397          48      
+12.6984127         42                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAHMBFAAAA          18         25           5 6.94444444           1      
+1.38888889          8                                                           
+                                                                                
+AAAAAAAAIABHAAAA          39 15.1162791          15 5.81395349          32      
+12.4031008 28.6666667                                                           
+                                                                                
+AAAAAAAAICMJAAAA          10 3.08641975          80  24.691358          18      
+5.55555556         36                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAIDCAAAAA          32 11.9850187          34 12.7340824          23      
+8.61423221 29.6666667                                                           
+                                                                                
+AAAAAAAAIECFAAAA          70 21.2121212          16 4.84848485          24      
+7.27272727 36.6666667                                                           
+                                                                                
+AAAAAAAAIEKKAAAA          38 17.1171171           2 .900900901          34      
+15.3153153 24.6666667                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAIGKFAAAA          81 20.1492537          21  5.2238806          32      
+  7.960199 44.6666667                                                           
+                                                                                
+AAAAAAAAILBGAAAA          55 15.8045977          15 4.31034483          46      
+13.2183908 38.6666667                                                           
+                                                                                
+AAAAAAAAIOPGAAAA           8 12.6984127          12  19.047619           1      
+1.58730159          7                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAIPMAAAAA           9         10          19 21.1111111           2      
+2.22222222         10                                                           
+                                                                                
+AAAAAAAAJDDHAAAA          10 4.90196078          32 15.6862745          26      
+ 12.745098 22.6666667                                                           
+                                                                                
+AAAAAAAAJDEAAAAA          42  14.893617          50 17.7304965           2      
+.709219858 31.3333333                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAJFKHAAAA           2 .995024876          51 25.3731343          14      
+6.96517413 22.3333333                                                           
+                                                                                
+AAAAAAAAJGPBAAAA           2 1.28205128          24 15.3846154          26      
+16.6666667 17.3333333                                                           
+                                                                                
+AAAAAAAAJJGBAAAA          47 9.32539683          42 8.33333333          79      
+15.6746032         56                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAKFEHAAAA          17  26.984127           1 1.58730159           3      
+4.76190476          7                                                           
+                                                                                
+AAAAAAAAKHEEAAAA          30 9.00900901           9  2.7027027          72      
+21.6216216         37                                                           
+                                                                                
+AAAAAAAAKHPLAAAA          12 4.81927711          52 20.8835341          19      
+7.63052209 27.6666667                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAKLKAAAAA          96 16.9312169           6 1.05820106          87      
+15.3439153         63                                                           
+                                                                                
+AAAAAAAAKNECAAAA          83 22.4932249          34 9.21409214           6      
+1.62601626         41                                                           
+                                                                                
+AAAAAAAAKPCBAAAA          17 4.92753623          76 22.0289855          22      
+6.37681159 38.3333333                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAKPPGAAAA          33 8.33333333          91  22.979798           8      
+2.02020202         44                                                           
+                                                                                
+AAAAAAAALCNLAAAA          49 10.4700855          27 5.76923077          80      
+17.0940171         52                                                           
+                                                                                
+AAAAAAAALGJFAAAA          69 28.0487805           5 2.03252033           8      
+3.25203252 27.3333333                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAALIFHAAAA          61 21.1805556           4 1.38888889          31      
+10.7638889         32                                                           
+                                                                                
+AAAAAAAALINIAAAA           2 .995024876          31 15.4228856          34      
+16.9154229 22.3333333                                                           
+                                                                                
+AAAAAAAAMCGCAAAA           3 2.38095238           5 3.96825397          34      
+ 26.984127         14                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAMCJMAAAA           5 1.66666667          82 27.3333333          13      
+4.33333333 33.3333333                                                           
+                                                                                
+AAAAAAAAMEBIAAAA          10 10.1010101          17 17.1717172           6      
+6.06060606         11                                                           
+                                                                                
+AAAAAAAAMJNAAAAA          26 7.73809524          33 9.82142857          53      
+15.7738095 37.3333333                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAMMACAAAA         156 27.8074866          16 2.85204991          15      
+2.67379679 62.3333333                                                           
+                                                                                
+AAAAAAAAMMPEAAAA          13 11.4035088          21 18.4210526           4      
+3.50877193 12.6666667                                                           
+                                                                                
+AAAAAAAAMOKHAAAA          36 14.1176471          22 8.62745098          27      
+10.5882353 28.3333333                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAANBJCAAAA          13 4.33333333          80 26.6666667           7      
+2.33333333 33.3333333                                                           
+                                                                                
+AAAAAAAANDGGAAAA          64 27.7056277          12 5.19480519           1      
+.432900433 25.6666667                                                           
+                                                                                
+AAAAAAAANFEGAAAA          53  14.021164          27 7.14285714          46      
+12.1693122         42                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAOABKAAAA           1 .653594771          28 18.3006536          22      
+ 14.379085         17                                                           
+                                                                                
+AAAAAAAAOAFMAAAA          30 11.9047619          41 16.2698413          13      
+5.15873016         28                                                           
+                                                                                
+AAAAAAAAOFKJAAAA          11 9.16666667          17 14.1666667          12      
+        10 13.3333333                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAOGGMAAAA           4 13.3333333           5 16.6666667           1      
+3.33333333 3.33333333                                                           
+                                                                                
+AAAAAAAAOOAGAAAA           1 .432900433           7 3.03030303          69      
+29.8701299 25.6666667                                                           
+                                                                                
+AAAAAAAAPBDDAAAA          30 8.69565217           4 1.15942029          81      
+23.4782609 38.3333333                                                           
+                                                                                
+
+ITEM_ID          SR_ITEM_QTY     SR_DEV CR_ITEM_QTY     CR_DEV WR_ITEM_QTY      
+---------------- ----------- ---------- ----------- ---------- -----------      
+    WR_DEV    AVERAGE                                                           
+---------- ----------                                                           
+AAAAAAAAPFPFAAAA          47 9.85324948          14 2.93501048          98      
+20.5450734         53                                                           
+                                                                                
+AAAAAAAAPGDBAAAA           7 4.76190476          17 11.5646259          25      
+17.0068027 16.3333333                                                           
+                                                                                
+
+80 rows selected.
+
+timing for: t
+Elapsed: 00:00:00.72

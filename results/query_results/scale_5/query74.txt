@@ -1,0 +1,135 @@
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+AAAAAAAAAMKPDAAA Aaron                Greene                                    
+AAAAAAAAFEEDEAAA Aaron                Walters                                   
+AAAAAAAAHNJMBAAA Aaron                Warner                                    
+AAAAAAAALLKECAAA Aaron                Espinoza                                  
+AAAAAAAAPFFCAAAA Aaron                Collins                                   
+AAAAAAAANJKDAAAA Ada                  Johnston                                  
+AAAAAAAAHAFIDAAA Adah                 Watt                                      
+AAAAAAAABDOIDAAA Adam                 White                                     
+AAAAAAAAFNNCCAAA Addie                Waterman                                  
+AAAAAAAANLPMDAAA Adela                Flores                                    
+AAAAAAAAOAMEAAAA Adela                Harman                                    
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+AAAAAAAAOFNIAAAA Adela                Wood                                      
+AAAAAAAAENDGBAAA Aida                 Baxter                                    
+AAAAAAAACDKACAAA Aileen               Sessions                                  
+AAAAAAAACAEAEAAA Alan                 Christian                                 
+AAAAAAAAHEFNBAAA Alan                 Warren                                    
+AAAAAAAAMBPFCAAA Alan                 Collins                                   
+AAAAAAAABGNAEAAA Alanna               Ventura                                   
+AAAAAAAABLMJAAAA Albert               Kenney                                    
+AAAAAAAAINKCEAAA Albert               Bills                                     
+AAAAAAAAJHLBBAAA Albert               Scarbrough                                
+AAAAAAAANMCMCAAA Albert               Simmons                                   
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+AAAAAAAAHBLFAAAA Alec                 Mead                                      
+AAAAAAAALIGFCAAA Alec                 Davidson                                  
+AAAAAAAAOMEPDAAA Alejandro            Crandall                                  
+AAAAAAAAAFCFDAAA Aleshia              Pease                                     
+AAAAAAAAJPFHBAAA Alex                 Shirley                                   
+AAAAAAAAOFAAEAAA Alexander            Nelson                                    
+AAAAAAAABIJFCAAA Alfred               Miller                                    
+AAAAAAAAHLHAAAAA Alfred               Kern                                      
+AAAAAAAAPECKAAAA Alfred               Ng                                        
+AAAAAAAAAPEEBAAA Alice                Freeman                                   
+AAAAAAAABOIOBAAA Alice                Goulet                                    
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+AAAAAAAAFHIDBAAA Alice                Furman                                    
+AAAAAAAAEPLMDAAA Alicia               Laroche                                   
+AAAAAAAAOKKECAAA Alicia               Robertson                                 
+AAAAAAAAGFFIAAAA Alisha               Deloach                                   
+AAAAAAAAFCIEBAAA Allan                Venable                                   
+AAAAAAAAGBFNDAAA Allen                Bauman                                    
+AAAAAAAAENPHDAAA Allie                Huffman                                   
+AAAAAAAAIHLAEAAA Allyson              Lawton                                    
+AAAAAAAAIKDFAAAA Alma                 Pape                                      
+AAAAAAAABFKBCAAA Alta                 Lewis                                     
+AAAAAAAAHBECAAAA Altagracia           Phillips                                  
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+AAAAAAAAOCGKBAAA Alvaro               Giles                                     
+AAAAAAAACNAJCAAA Alyse                Mcdermott                                 
+AAAAAAAADLJPBAAA Amanda               Randall                                   
+AAAAAAAAJCBKBAAA Amanda               Brooks                                    
+AAAAAAAAKGKLAAAA Amanda               Collins                                   
+AAAAAAAAOFJMDAAA Amanda               Rizzo                                     
+AAAAAAAAFPJMBAAA Amber                Watts                                     
+AAAAAAAABMMCAAAA Amy                  Stubblefield                              
+AAAAAAAACAJHBAAA Amy                  Gann                                      
+AAAAAAAACJBDEAAA Amy                  Ridenour                                  
+AAAAAAAAEGDAEAAA Amy                  Hahn                                      
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+AAAAAAAAKMHDBAAA Amy                  Mcdonald                                  
+AAAAAAAAMBKFAAAA Amy                  Bullock                                   
+AAAAAAAANIPPDAAA Amy                  Miller                                    
+AAAAAAAAHCJKBAAA An                   Valentin                                  
+AAAAAAAAJOKFAAAA Ana                  Cole                                      
+AAAAAAAAOEMNAAAA Andre                Barnes                                    
+AAAAAAAAEOPEAAAA Andrea               Nelson                                    
+AAAAAAAAFBGEBAAA Andrew               Reyes                                     
+AAAAAAAAFCLNDAAA Andrew               Jackson                                   
+AAAAAAAALGLAEAAA Andrew               Sims                                      
+AAAAAAAAPEIECAAA Andrew               Ruby                                      
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+AAAAAAAABCGHBAAA Andy                 Charles                                   
+AAAAAAAAKELBBAAA Angel                                                          
+AAAAAAAAAAMIBAAA Angela               Walters                                   
+AAAAAAAABHELDAAA Angela               Weaver                                    
+AAAAAAAADJOKAAAA Angela               Duffy                                     
+AAAAAAAADKLLCAAA Angela               Hall                                      
+AAAAAAAALHMMBAAA Angela               Maldonado                                 
+AAAAAAAAOFJFAAAA Angela               Irving                                    
+AAAAAAAAOLNPAAAA Angela               Smith                                     
+AAAAAAAAJPCJAAAA Angelina             Harvey                                    
+AAAAAAAAIBIDDAAA Angelita             Gomes                                     
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+AAAAAAAAJPNAEAAA Angelo               Nguyen                                    
+AAAAAAAANCDCDAAA Angelo               White                                     
+AAAAAAAAIFMABAAA Angie                Dixon                                     
+AAAAAAAAFPBPBAAA Anita                Garrison                                  
+AAAAAAAAGMCJCAAA Anita                Beauchamp                                 
+AAAAAAAAKEEBBAAA Anita                Vincent                                   
+AAAAAAAAOKMBEAAA Anita                Adams                                     
+AAAAAAAAPPGOCAAA Anita                Hutcheson                                 
+AAAAAAAAFBPACAAA Ann                  Stanford                                  
+AAAAAAAABAIACAAA Anna                 Garcia                                    
+AAAAAAAAIEDKAAAA Anna                 Jimenez                                   
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+AAAAAAAACJJDBAAA Anne                 Paredes                                   
+AAAAAAAADBKMDAAA Anne                 Cabrera                                   
+AAAAAAAANNGFCAAA Anne                 Jaeger                                    
+AAAAAAAAPOCCEAAA Anne                 Miller                                    
+AAAAAAAAHEOBEAAA Annette              Estes                                     
+AAAAAAAABKLCAAAA Annie                Schroeder                                 
+AAAAAAAAODJFDAAA Annie                Roy                                       
+AAAAAAAAIDGFAAAA Annmarie             Gray                                      
+AAAAAAAAAPDMBAAA Anthony              Wolf                                      
+AAAAAAAACKGGBAAA Anthony              Fletcher                                  
+AAAAAAAAGBKCAAAA Anthony              Miller                                    
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+AAAAAAAAHBEADAAA Anthony              Wallace                                   
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:05.40

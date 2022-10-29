@@ -1,0 +1,14 @@
+
+C_LAST_NAME                    C_FIRST_NAME                                     
+------------------------------ --------------------                             
+S_STORE_NAME                                             PAID                   
+-------------------------------------------------- ----------                   
+Cross                          Christopher                                      
+able                                                    15.85                   
+                                                                                
+
+
+no rows selected
+
+timing for: t
+Elapsed: 00:01:28.95

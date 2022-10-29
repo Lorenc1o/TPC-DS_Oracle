@@ -1,0 +1,135 @@
+
+W_ I_ITEM_ID        SALES_BEFORE SALES_AFTER                                    
+-- ---------------- ------------ -----------                                    
+TN AAAAAAAAAAANAAAA        -3.63      117.41                                    
+TN AAAAAAAAAACDAAAA       175.38        23.9                                    
+TN AAAAAAAAAAFLAAAA       362.52      119.97                                    
+TN AAAAAAAAAAHMAAAA         8.47        49.2                                    
+TN AAAAAAAAAAIIAAAA         6.47      328.19                                    
+TN AAAAAAAAAALAAAAA       170.61      -45.16                                    
+TN AAAAAAAAAALMAAAA       153.52        7.92                                    
+TN AAAAAAAAAANDAAAA        101.4       98.21                                    
+TN AAAAAAAAAANKAAAA        37.19      103.57                                    
+TN AAAAAAAAAAOCAAAA        70.96      -97.24                                    
+TN AAAAAAAAABBDAAAA        150.3       11.61                                    
+
+W_ I_ITEM_ID        SALES_BEFORE SALES_AFTER                                    
+-- ---------------- ------------ -----------                                    
+TN AAAAAAAAABCFAAAA       157.25       12.77                                    
+TN AAAAAAAAABDAAAAA       158.64      195.19                                    
+TN AAAAAAAAABDHAAAA        39.33       94.07                                    
+TN AAAAAAAAABEFAAAA       231.95       115.3                                    
+TN AAAAAAAAABGMAAAA        77.12       24.65                                    
+TN AAAAAAAAABIHAAAA       169.99       90.39                                    
+TN AAAAAAAAABLFAAAA         13.7    -1231.06                                    
+TN AAAAAAAAABPEAAAA      -314.02      -14.28                                    
+TN AAAAAAAAACGLAAAA       119.61       107.4                                    
+TN AAAAAAAAACHCAAAA            0      135.11                                    
+TN AAAAAAAAACJIAAAA        59.03      157.06                                    
+
+W_ I_ITEM_ID        SALES_BEFORE SALES_AFTER                                    
+-- ---------------- ------------ -----------                                    
+TN AAAAAAAAACKCAAAA        62.64      423.29                                    
+TN AAAAAAAAACLDAAAA       116.67       -2386                                    
+TN AAAAAAAAACLGAAAA        85.98      187.15                                    
+TN AAAAAAAAACOBAAAA        18.55      163.06                                    
+TN AAAAAAAAACPDAAAA         6.15     -134.78                                    
+TN AAAAAAAAACPGAAAA       -31.61      406.84                                    
+TN AAAAAAAAADAFAAAA        32.96      308.99                                    
+TN AAAAAAAAADCMAAAA        95.27       16.57                                    
+TN AAAAAAAAADIJAAAA       210.94      -29.24                                    
+TN AAAAAAAAADJFAAAA        32.34      -39.02                                    
+TN AAAAAAAAADKBAAAA        95.11     -183.42                                    
+
+W_ I_ITEM_ID        SALES_BEFORE SALES_AFTER                                    
+-- ---------------- ------------ -----------                                    
+TN AAAAAAAAADNKAAAA        11.35       63.15                                    
+TN AAAAAAAAAEAGAAAA       185.66      153.68                                    
+TN AAAAAAAAAEFBAAAA       253.55           0                                    
+TN AAAAAAAAAEMAAAAA         2.29      196.71                                    
+TN AAAAAAAAAEOCAAAA       141.56       26.31                                    
+TN AAAAAAAAAFADAAAA        58.33       60.95                                    
+TN AAAAAAAAAFEHAAAA       155.86       32.99                                    
+TN AAAAAAAAAFGJAAAA       176.83      135.09                                    
+TN AAAAAAAAAFJLAAAA        92.33       82.08                                    
+TN AAAAAAAAAFJMAAAA        55.45       45.62                                    
+TN AAAAAAAAAFKEAAAA       116.93      164.25                                    
+
+W_ I_ITEM_ID        SALES_BEFORE SALES_AFTER                                    
+-- ---------------- ------------ -----------                                    
+TN AAAAAAAAAFKHAAAA      -127.65       71.58                                    
+TN AAAAAAAAAFNFAAAA        50.28     -755.01                                    
+TN AAAAAAAAAFPCAAAA       124.22      449.46                                    
+TN AAAAAAAAAFPJAAAA        82.24      139.03                                    
+TN AAAAAAAAAGANAAAA        123.1       61.99                                    
+TN AAAAAAAAAGIDAAAA        76.81       44.57                                    
+TN AAAAAAAAAGLFAAAA        31.83      -51.24                                    
+TN AAAAAAAAAGNMAAAA        57.05       16.94                                    
+TN AAAAAAAAAHCNAAAA        73.56      189.65                                    
+TN AAAAAAAAAHDEAAAA       223.32       89.16                                    
+TN AAAAAAAAAHDMAAAA     -1013.99       14.34                                    
+
+W_ I_ITEM_ID        SALES_BEFORE SALES_AFTER                                    
+-- ---------------- ------------ -----------                                    
+TN AAAAAAAAAHGHAAAA        179.4     -127.11                                    
+TN AAAAAAAAAHHAAAAA            0        8.47                                    
+TN AAAAAAAAAHJBAAAA         14.6      113.85                                    
+TN AAAAAAAAAHJHAAAA        25.97       132.7                                    
+TN AAAAAAAAAHJJAAAA        75.11       31.52                                    
+TN AAAAAAAAAHKMAAAA      -624.05       91.97                                    
+TN AAAAAAAAAHNCAAAA        43.55      321.48                                    
+TN AAAAAAAAAHOEAAAA         74.7     -626.74                                    
+TN AAAAAAAAAICKAAAA        59.13           0                                    
+TN AAAAAAAAAIECAAAA       -63.76      146.35                                    
+TN AAAAAAAAAIGIAAAA        89.41       27.85                                    
+
+W_ I_ITEM_ID        SALES_BEFORE SALES_AFTER                                    
+-- ---------------- ------------ -----------                                    
+TN AAAAAAAAAIHEAAAA       115.67      207.97                                    
+TN AAAAAAAAAIHLAAAA       -45.46     -215.92                                    
+TN AAAAAAAAAIJJAAAA       124.71           0                                    
+TN AAAAAAAAAIJLAAAA            0      121.75                                    
+TN AAAAAAAAAILJAAAA       189.98    -3935.84                                    
+TN AAAAAAAAAINEAAAA        64.23        44.4                                    
+TN AAAAAAAAAIOEAAAA       109.24       151.7                                    
+TN AAAAAAAAAIPIAAAA            0        2.56                                    
+TN AAAAAAAAAJACAAAA         2.43        1.33                                    
+TN AAAAAAAAAJAIAAAA            0       70.46                                    
+TN AAAAAAAAAJALAAAA        34.65        7.17                                    
+
+W_ I_ITEM_ID        SALES_BEFORE SALES_AFTER                                    
+-- ---------------- ------------ -----------                                    
+TN AAAAAAAAAJBAAAAA        77.05      143.73                                    
+TN AAAAAAAAAJCAAAAA       106.88       69.86                                    
+TN AAAAAAAAAJCIAAAA        95.42       76.49                                    
+TN AAAAAAAAAJEDAAAA        70.73      212.69                                    
+TN AAAAAAAAAJFIAAAA     -5065.92        4.88                                    
+TN AAAAAAAAAJILAAAA         8.28       43.45                                    
+TN AAAAAAAAAJKBAAAA      -102.56       35.07                                    
+TN AAAAAAAAAJKGAAAA       220.94      -88.65                                    
+TN AAAAAAAAAJMKAAAA        94.24     -145.45                                    
+TN AAAAAAAAAJMLAAAA        74.83      137.75                                    
+TN AAAAAAAAAJNEAAAA        20.87      230.58                                    
+
+W_ I_ITEM_ID        SALES_BEFORE SALES_AFTER                                    
+-- ---------------- ------------ -----------                                    
+TN AAAAAAAAAJNHAAAA            0       211.4                                    
+TN AAAAAAAAAKAAAAAA       160.94           0                                    
+TN AAAAAAAAAKAHAAAA        16.08       23.52                                    
+TN AAAAAAAAAKCLAAAA         -.82      127.69                                    
+TN AAAAAAAAAKDHAAAA        38.19       67.71                                    
+TN AAAAAAAAAKFBAAAA        36.07       91.73                                    
+TN AAAAAAAAAKHFAAAA       325.92       23.44                                    
+TN AAAAAAAAAKLKAAAA        217.7     -369.33                                    
+TN AAAAAAAAAKMHAAAA        40.66       72.81                                    
+TN AAAAAAAAALCEAAAA         47.4      162.83                                    
+TN AAAAAAAAALECAAAA        69.65           0                                    
+
+W_ I_ITEM_ID        SALES_BEFORE SALES_AFTER                                    
+-- ---------------- ------------ -----------                                    
+TN AAAAAAAAALFMAAAA         6.96        36.2                                    
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:01.87

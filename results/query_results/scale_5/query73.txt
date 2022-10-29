@@ -1,0 +1,117 @@
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Atkinson                       Ezra                 Mr.        Y                
+          670916          5                                                     
+                                                                                
+Blake                          James                Sir        Y                
+         1149722          5                                                     
+                                                                                
+Bowman                         Brian                Sir        N                
+          556366          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Boyce                          Debra                Dr.        Y                
+          352386          5                                                     
+                                                                                
+Carlson                        Judy                 Dr.        Y                
+          131068          5                                                     
+                                                                                
+Collier                        Michelle             Miss       N                
+          283353          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Dillon                         Louis                Mr.        N                
+          631265          5                                                     
+                                                                                
+Duarte                         Thomas               Mr.        N                
+          464525          5                                                     
+                                                                                
+Duke                                                Dr.                         
+           92639          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Gantt                          Tina                 Mrs.       Y                
+         1071542          5                                                     
+                                                                                
+Hunter                         Jeffrey              Dr.        Y                
+          104962          5                                                     
+                                                                                
+Kirchner                       Bonnie               Miss       N                
+          139138          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Leonard                        Sara                 Ms.        Y                
+          203358          5                                                     
+                                                                                
+Martinez                       Anne                 Dr.        Y                
+           86207          5                                                     
+                                                                                
+Mason                          Henry                Sir        Y                
+         1159951          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Mcnally                        Thomas               Dr.        Y                
+           47551          5                                                     
+                                                                                
+Russell                        Sarah                Dr.        N                
+         1145285          5                                                     
+                                                                                
+Trotter                        Michael              Dr.        Y                
+          956484          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Willson                        James                Dr.        Y                
+          730425          5                                                     
+                                                                                
+Young                          Kristina             Dr.        Y                
+           86396          5                                                     
+                                                                                
+                                                               Y                
+          531329          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Cowan                          Shawn                Mr.        Y                
+          958658          4                                                     
+                                                                                
+Phillips                       Mike                 Mr.        N                
+          113766          4                                                     
+                                                                                
+Richard                        Shane                Sir        Y                
+          906927          4                                                     
+                                                                                
+
+24 rows selected.
+
+timing for: t
+Elapsed: 00:00:02.01

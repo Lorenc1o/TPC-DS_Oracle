@@ -1,0 +1,475 @@
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAACJDGAAAA United States        AL Autauga County                         
+        38      51.49          0      22.65     -71.06       1955          6    
+                                                                                
+AAAAAAAADGHGAAAA United States        AL Autauga County                         
+        12     102.96          0      93.69     316.68       1955          6    
+                                                                                
+AAAAAAAAEBLBAAAA United States        AL Autauga County                         
+        90      139.2     1691.1      37.58    -2527.2       1955          6    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAEIHKAAAA United States        AL Autauga County                         
+        88      53.63          0      39.14    1642.96       1955          6    
+                                                                                
+AAAAAAAAFAPFAAAA United States        AL Autauga County                         
+        11      72.67          0      66.85     455.84       1955          6    
+                                                                                
+AAAAAAAAGCHFAAAA United States        AL Autauga County                         
+        43      11.91          0        2.5     -85.14       1955          6    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAHEJCAAAA United States        AL Autauga County                         
+        73     186.84     245.49     168.15     5209.8       1955          6    
+                                                                                
+AAAAAAAAJCEKAAAA United States        AL Autauga County                         
+        26       75.4          0      31.66    -177.06       1955          6    
+                                                                                
+AAAAAAAANMGMAAAA United States        AL Autauga County                         
+        51     149.81          0       76.4    -469.71       1955          6    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAOIIIAAAA United States        AL Autauga County                         
+        59       5.21          0       1.19      -88.5       1955          6    
+                                                                                
+AAAAAAAAPNMGAAAA United States        AL Autauga County                         
+        57     193.96          0     137.71    3814.44       1955          6    
+                                                                                
+AAAAAAAAAIJLAAAA United States        AL Baldwin County                         
+        39      67.13          0      59.74     390.39       1990          0    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAAPPLAAAA United States        AL Baldwin County                         
+        30      82.93          0      11.61    -1934.4       1990          0    
+                                                                                
+AAAAAAAACGOGAAAA United States        AL Baldwin County                         
+       100      66.97          0      28.12       -303       1990          0    
+                                                                                
+AAAAAAAACPKLAAAA United States        AL Baldwin County                         
+        45      14.96          0       2.39     -224.1       1990          0    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAIBKBAAAA United States        AL Baldwin County                         
+        80      198.4          0     128.96     4607.2       1990          0    
+                                                                                
+AAAAAAAAIEEKAAAA United States        AL Baldwin County                         
+        38     156.76     431.87      45.46   -1166.03       1990          0    
+                                                                                
+AAAAAAAAIMOAAAAA United States        AL Baldwin County                         
+        84       5.93          0       5.21       7.56       1990          0    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAMCFJAAAA United States        AL Baldwin County                         
+        91     189.65          0      15.17    -5751.2       1990          0    
+                                                                                
+AAAAAAAAOFGAAAAA United States        AL Baldwin County                         
+        26      23.42      57.37       3.74    -360.79       1990          0    
+                                                                                
+AAAAAAAAOPDCAAAA United States        AL Baldwin County                         
+        41     224.62          0     128.03    1505.52       1990          0    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAACACMAAAA United States        AL Barbour County                         
+        61     137.15    2744.09     109.72    -255.29       1962          3    
+                                                                                
+AAAAAAAAEEOEAAAA United States        AL Barbour County                         
+       100      10.32          0        .82       -515       1962          3    
+                                                                                
+AAAAAAAAEHECAAAA United States        AL Barbour County                         
+        39     243.44    2320.23     114.41   -1348.74       1962          3    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAJMJHAAAA United States        AL Barbour County                         
+        15     191.36          0      55.49    -541.05       1962          3    
+                                                                                
+AAAAAAAAJMMEAAAA United States        AL Barbour County                         
+        48      93.52          0      61.72    1159.68       1962          3    
+                                                                                
+AAAAAAAANIKMAAAA United States        AL Barbour County                         
+        13      38.32          0      30.27     166.01       1962          3    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAACCBMAAAA United States        AL Blount County                          
+        87     110.82        829      11.08   -3646.06       1929          4    
+                                                                                
+AAAAAAAACGJCAAAA United States        AL Blount County                          
+        25      89.02     942.48      48.96   -1035.48       1929          4    
+                                                                                
+AAAAAAAACHCIAAAA United States        AL Blount County                          
+        96      88.91          0         40       -4.8       1989          6    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAACIAMAAAA United States        AL Blount County                          
+         2     124.45      89.79     102.04       4.15       1929          4    
+                                                                                
+AAAAAAAACNHBAAAA United States        AL Blount County                          
+        86      125.6     138.25      80.38    1654.85       1989          6    
+                                                                                
+AAAAAAAADNADAAAA United States        AL Blount County                          
+        87      76.28      79.51       4.57   -4598.29       1929          4    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAFGEHAAAA United States        AL Blount County                          
+         7     187.71          0     150.16     410.13       1929          4    
+                                                                                
+AAAAAAAAGEKAAAAA United States        AL Blount County                          
+        11      48.55          0      31.55     119.79       1989          6    
+                                                                                
+AAAAAAAAGJPIAAAA United States        AL Blount County                          
+        59     100.44          0       47.2    -367.57       1929          4    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAGMEKAAAA United States        AL Blount County                          
+        85      69.26          0      11.08   -3730.65       1929          4    
+                                                                                
+AAAAAAAAIHDLAAAA United States        AL Blount County                          
+        91     138.79          0      62.45     -418.6       1929          4    
+                                                                                
+AAAAAAAAIJOEAAAA United States        AL Blount County                          
+        61      89.82    2224.34      62.87    -961.64       1989          6    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAIKEMAAAA United States        AL Blount County                          
+        61      57.23          0       6.29   -2733.41       1989          6    
+                                                                                
+AAAAAAAAJCOJAAAA United States        AL Blount County                          
+        24      73.86          0      13.29    -432.24       1929          4    
+                                                                                
+AAAAAAAAKJDHAAAA United States        AL Blount County                          
+         3     130.56      47.61      41.77     -99.54       1929          4    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAMNADAAAA United States        AL Blount County                          
+        54      81.65    3386.01      78.38   -3434.61       1929          4    
+                                                                                
+AAAAAAAANFBMAAAA United States        AL Blount County                          
+        93      96.51          0      53.08     536.61       1989          6    
+                                                                                
+AAAAAAAANIFCAAAA United States        AL Blount County                          
+        24     160.92          0     138.39       2034       1989          6    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAANJEIAAAA United States        AL Blount County                          
+        44     127.84          0      56.24     -14.52       1929          4    
+                                                                                
+AAAAAAAAOPMLAAAA United States        AL Blount County                          
+        47     219.81          0     140.67    2511.68       1929          4    
+                                                                                
+AAAAAAAAAFJJAAAA United States        AL Bullock County                         
+        44      21.16          0        .84    -825.44       1956          2    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAAHCEAAAA United States        AL Bullock County                         
+        74     117.12    2152.64      53.87   -4492.52       1940          4    
+                                                                                
+AAAAAAAAALBLAAAA United States        AL Bullock County                         
+       100     113.96          0      96.86       -224       1950          0    
+                                                                                
+AAAAAAAAALCDAAAA United States        AL Bullock County                         
+        80     177.04          0     169.95     8626.4       1950          0    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAAPJBAAAA United States        AL Bullock County                         
+         9      54.32          0       1.08    -447.21       1940          4    
+                                                                                
+AAAAAAAABAAMAAAA United States        AL Bullock County                         
+        52     181.83    2740.04      83.64   -1743.72       1987          5    
+                                                                                
+AAAAAAAABAIBAAAA United States        AL Bullock County                         
+        97      44.79          0      18.81       58.2       1956          2    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAABDGDAAAA United States        AL Bullock County                         
+         7     164.77          0     156.53     507.22       1926          4    
+                                                                                
+AAAAAAAABHEEAAAA United States        AL Bullock County                         
+        62      27.37     396.92      10.67    -532.08       1926          4    
+                                                                                
+AAAAAAAABHGIAAAA United States        AL Bullock County                         
+        58     114.87          0      32.16   -2148.32       1950          0    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAACFDMAAAA United States        AL Bullock County                         
+        95     108.77          0      75.05    -1071.6       1950          0    
+                                                                                
+AAAAAAAACONMAAAA United States        AL Bullock County                         
+         4      95.97      186.2      73.89       -110       1926          4    
+                                                                                
+AAAAAAAADLOAAAAA United States        AL Bullock County                         
+        20      57.83          0      46.26      322.8       1950          0    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAADNECAAAA United States        AL Bullock County                         
+        42     133.27          0      82.62     411.18       1926          4    
+                                                                                
+AAAAAAAAEAPEAAAA United States        AL Bullock County                         
+        95     131.52          0      27.61    -3784.8       1926          4    
+                                                                                
+AAAAAAAAEEGDAAAA United States        AL Bullock County                         
+        57      95.81          0      41.19    -703.38       1956          2    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAEFIIAAAA United States        AL Bullock County                         
+        24     143.23          0     118.88     888.72       1987          5    
+                                                                                
+AAAAAAAAEGOBAAAA United States        AL Bullock County                         
+        89       4.36     233.49       2.65    -308.25       1926          4    
+                                                                                
+AAAAAAAAEJMKAAAA United States        AL Bullock County                         
+        90     129.33          0      82.77     -806.4       1940          4    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAEKPDAAAA United States        AL Bullock County                         
+        84     234.38          0      82.03     -66.36       1940          4    
+                                                                                
+AAAAAAAAGJDEAAAA United States        AL Bullock County                         
+        98       8.71          0       2.96    -120.54       1950          0    
+                                                                                
+AAAAAAAAHIGEAAAA United States        AL Bullock County                         
+        93      84.69          0      37.26     250.17       1940          4    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAHLCLAAAA United States        AL Bullock County                         
+        59     123.16          0       66.5     764.05       1950          0    
+                                                                                
+AAAAAAAAHLOFAAAA United States        AL Bullock County                         
+        24      86.95     706.14      81.73      293.7       1926          4    
+                                                                                
+AAAAAAAAICHJAAAA United States        AL Bullock County                         
+        84     135.81          0     130.37    6905.64       1987          5    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAIFMAAAAA United States        AL Bullock County                         
+        55        239          0     152.96       3718       1926          4    
+                                                                                
+AAAAAAAAIGCMAAAA United States        AL Bullock County                         
+        37     100.51          0      81.41     628.26       1950          0    
+                                                                                
+AAAAAAAAIOPKAAAA United States        AL Bullock County                         
+        97      30.03          0      15.31   -1399.71       1987          5    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAJHPDAAAA United States        AL Bullock County                         
+        93      38.17          0      18.32    -313.41       1956          2    
+                                                                                
+AAAAAAAAKAANAAAA United States        AL Bullock County                         
+        40     186.18      40.21      11.17   -2608.61       1987          5    
+                                                                                
+AAAAAAAAKACNAAAA United States        AL Bullock County                         
+        42     136.18          0      68.09     456.54       1926          4    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAKBGGAAAA United States        AL Bullock County                         
+        73     150.72          0      76.86    1918.44       1987          5    
+                                                                                
+AAAAAAAAKCJLAAAA United States        AL Bullock County                         
+        75     130.53    1092.42      80.92     -43.92       1940          4    
+                                                                                
+AAAAAAAAKCLCAAAA United States        AL Bullock County                         
+         2     128.62          0     124.76      84.62       1956          2    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAKLNKAAAA United States        AL Bullock County                         
+        13     124.66          0      99.72     606.71       1950          0    
+                                                                                
+AAAAAAAAKOHDAAAA United States        AL Bullock County                         
+        63      30.29          0      29.07     926.73       1926          4    
+                                                                                
+AAAAAAAALADIAAAA United States        AL Bullock County                         
+        60     144.36          0      60.63      544.2       1950          0    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAALKJEAAAA United States        AL Bullock County                         
+        76      35.96          0      12.94    -123.12       1926          4    
+                                                                                
+AAAAAAAAMEPAAAAA United States        AL Bullock County                         
+        11      68.88          0      50.28      37.62       1956          2    
+                                                                                
+AAAAAAAAMGAFAAAA United States        AL Bullock County                         
+        74      38.67     497.87      33.64     436.01       1926          4    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAMGAHAAAA United States        AL Bullock County                         
+        14      212.4          0     208.15     1881.6       1940          4    
+                                                                                
+AAAAAAAAMKBCAAAA United States        AL Bullock County                         
+        11      60.36          0      35.61      72.49       1987          5    
+                                                                                
+AAAAAAAAMLFDAAAA United States        AL Bullock County                         
+        70     216.17          0     175.09       6391       1956          2    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAANCFCAAAA United States        AL Bullock County                         
+        74      17.67          0       6.71      31.08       1940          4    
+                                                                                
+AAAAAAAANIANAAAA United States        AL Bullock County                         
+        60       56.1          0      24.12      100.8       1950          0    
+                                                                                
+AAAAAAAANMIKAAAA United States        AL Bullock County                         
+        15     133.96          0      13.39   -1156.95       1950          0    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAOECFAAAA United States        AL Bullock County                         
+        64      93.11          0      82.86    3269.12       1950          0    
+                                                                                
+AAAAAAAAOFIKAAAA United States        AL Bullock County                         
+        22     153.37          0      30.67     -628.1       1956          2    
+                                                                                
+AAAAAAAAOHGCAAAA United States        AL Bullock County                         
+        53       16.7          0       6.01     -18.02       1926          4    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAOLGBAAAA United States        AL Bullock County                         
+        80     121.73          0      90.08     2501.6       1940          4    
+                                                                                
+AAAAAAAAOLJAAAAA United States        AL Bullock County                         
+        21      37.94          0      28.83     155.19       1956          2    
+                                                                                
+AAAAAAAAOLNCAAAA United States        AL Bullock County                         
+        18     169.74          0      32.25     -730.8       1940          4    
+                                                                                
+
+I_ITEM_ID        CA_COUNTRY           CA CA_COUNTY                              
+---------------- -------------------- -- ------------------------------         
+      AGG1       AGG2       AGG3       AGG4       AGG5       AGG6       AGG7    
+---------- ---------- ---------- ---------- ---------- ---------- ----------    
+AAAAAAAAOOMGAAAA United States        AL Bullock County                         
+        11      91.63          0      88.88     164.78       1987          5    
+                                                                                
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:02.43

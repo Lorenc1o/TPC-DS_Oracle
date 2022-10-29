@@ -1,0 +1,55 @@
+
+CALL_CENTER      CALL_CENTER_NAME                                               
+---------------- --------------------------------------------------             
+MANAGER                                  RETURNS_LOSS                           
+---------------------------------------- ------------                           
+AAAAAAAAOAAAAAAA Mid Atlantic_1                                                 
+Clyde Scott                                                                     
+                                                                                
+AAAAAAAACAAAAAAA Mid Atlantic                                                   
+Felipe Perkins                                4704.24                           
+                                                                                
+AAAAAAAAKAAAAAAA Hawaii/Alaska                                                  
+Gregory Altman                                1548.99                           
+                                                                                
+
+CALL_CENTER      CALL_CENTER_NAME                                               
+---------------- --------------------------------------------------             
+MANAGER                                  RETURNS_LOSS                           
+---------------------------------------- ------------                           
+AAAAAAAAEAAAAAAA North Midwest                                                  
+Larry Mccray                                  1236.43                           
+                                                                                
+AAAAAAAAIAAAAAAA California                                                     
+Wayne Ray                                       869.4                           
+                                                                                
+AAAAAAAAHAAAAAAA Pacific Northwest                                              
+Alden Snyder                                   661.48                           
+                                                                                
+
+CALL_CENTER      CALL_CENTER_NAME                                               
+---------------- --------------------------------------------------             
+MANAGER                                  RETURNS_LOSS                           
+---------------------------------------- ------------                           
+AAAAAAAAEAAAAAAA North Midwest                                                  
+Larry Mccray                                   168.64                           
+                                                                                
+AAAAAAAAIAAAAAAA California                                                     
+Wayne Ray                                       93.65                           
+                                                                                
+AAAAAAAACAAAAAAA Mid Atlantic                                                   
+Felipe Perkins                                   63.8                           
+                                                                                
+
+CALL_CENTER      CALL_CENTER_NAME                                               
+---------------- --------------------------------------------------             
+MANAGER                                  RETURNS_LOSS                           
+---------------------------------------- ------------                           
+AAAAAAAABAAAAAAA NY Metro                                                       
+Bob Belcher                                     40.97                           
+                                                                                
+
+10 rows selected.
+
+timing for: t
+Elapsed: 00:00:00.54

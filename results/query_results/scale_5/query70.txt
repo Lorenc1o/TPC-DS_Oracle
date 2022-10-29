@@ -1,0 +1,10 @@
+
+ TOTAL_SUM S_ S_COUNTY                       LOCHIERARCHY RANK_WITHIN_PARENT    
+---------- -- ------------------------------ ------------ ------------------    
+-2.190E+09                                              2                  1    
+-2.190E+09 TN                                           1                  1    
+ -80341250 TN                                           0                  1    
+-2.109E+09 TN Williamson County                         0                  2    
+
+timing for: t
+Elapsed: 00:00:04.06

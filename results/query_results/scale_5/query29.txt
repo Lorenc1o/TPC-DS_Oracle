@@ -1,0 +1,43 @@
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_STORE_ID       S_STORE_NAME                                                   
+---------------- --------------------------------------------------             
+STORE_SALES_QUANTITY STORE_RETURNS_QUANTITY CATALOG_SALES_QUANTITY              
+-------------------- ---------------------- ----------------------              
+AAAAAAAAFDLGAAAA                                                                
+Handsome, physical games can see very still due subjects. Inherent windows used 
+to consider engines. Again large-scale times die. Other, potential newspapers de
+velop                                                                           
+AAAAAAAAMBAAAAAA eing                                                           
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_STORE_ID       S_STORE_NAME                                                   
+---------------- --------------------------------------------------             
+STORE_SALES_QUANTITY STORE_RETURNS_QUANTITY CATALOG_SALES_QUANTITY              
+-------------------- ---------------------- ----------------------              
+                  95                     67                     47              
+                                                                                
+AAAAAAAAMOGGAAAA                                                                
+International, charming concessions will not carry thereby for a numbers. Effect
+ive, official results demonstrate most. Eyes help. Words can                    
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_STORE_ID       S_STORE_NAME                                                   
+---------------- --------------------------------------------------             
+STORE_SALES_QUANTITY STORE_RETURNS_QUANTITY CATALOG_SALES_QUANTITY              
+-------------------- ---------------------- ----------------------              
+AAAAAAAACCAAAAAA ese                                                            
+                  69                      8                     22              
+                                                                                
+
+timing for: t
+Elapsed: 00:00:16.75

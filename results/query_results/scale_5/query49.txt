@@ -1,0 +1,54 @@
+
+CHANNEL       ITEM RETURN_RATIO RETURN_RANK CURRENCY_RANK                       
+------- ---------- ------------ ----------- -------------                       
+catalog      19049            0           1           134                       
+catalog      13367   .511111111           2             1                       
+catalog      32303   .515463918           3             2                       
+catalog      47809   .546391753           4             3                       
+catalog      47969   .565217391           5             4                       
+catalog       7315   .565656566           6             5                       
+catalog      38663   .578313253           7             6                       
+catalog      13639          .58           8            20                       
+catalog      29657   .583333333           9             7                       
+catalog      46585   .583333333           9            23                       
+catalog      37286   .612903226          12             8                       
+
+CHANNEL       ITEM RETURN_RATIO RETURN_RANK CURRENCY_RANK                       
+------- ---------- ------------ ----------- -------------                       
+catalog      38864    .62244898          13             9                       
+catalog      42350   .642857143          14            10                       
+store        18818            0           1            14                       
+store         4391   .604166667           2             1                       
+store        53119   .704081633           3             2                       
+store         1826   .708333333           4             3                       
+store        27109   .736842105           5             4                       
+store        32981   .770833333           6             5                       
+store        21559   .775510204           7             6                       
+store         7628   .789473684           8             7                       
+store        39758   .793478261           9             8                       
+
+CHANNEL       ITEM RETURN_RATIO RETURN_RANK CURRENCY_RANK                       
+------- ---------- ------------ ----------- -------------                       
+store        34933   .795918367          10             9                       
+store          157           .8          11            10                       
+web           8161            0           1            25                       
+web          43691   .479166667           2             1                       
+web          11672   .532608696           3             2                       
+web          22019   .571428571           4            12                       
+web          25049   .597938144           5             3                       
+web          22988   .604395604           6             4                       
+web          30853          .64           7            49                       
+web          49603   .653333333           8             5                       
+web          12887   .666666667           9             6                       
+
+CHANNEL       ITEM RETURN_RATIO RETURN_RANK CURRENCY_RANK                       
+------- ---------- ------------ ----------- -------------                       
+web          41815   .685393258          10             7                       
+web          15674   .688172043          11             8                       
+web          35317           .7          12             9                       
+web          25985   .706521739          13            10                       
+
+37 rows selected.
+
+timing for: t
+Elapsed: 00:00:01.40
