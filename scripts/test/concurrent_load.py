@@ -1,6 +1,7 @@
 from multiprocessing import Pool, cpu_count
 from os import listdir, path, getpid, system
 import argparse
+import time
 
 parser = argparse.ArgumentParser(description='TPC-DS Data Loading Script')
 parser.add_argument('-S', '--svrinstance', help='Server and Instance Name', required=True)
@@ -9,6 +10,7 @@ parser.add_argument('-U', '--username', help='Username', required=True)
 parser.add_argument('-P', '--password', help='Authenticating Password', required=True)
 parser.add_argument('-L', '--filespath', help='UNC path where the data files are located', required=True)
 parser.add_argument('-C', '--ctlpath', help='UNC path where the control files are located', required=True)
+parser.add_argument('-O', '--outputfile', help='UNC path where the load time will be logged', required=False, default=None)
 args = parser.parse_args()
 
 if not args.svrinstance or not args.db or not args.username or not args.password or not args.filespath or not args.ctlpath:
@@ -29,6 +31,7 @@ def load_files(table_name, file_name):
 
 
 if __name__ == "__main__":
+    load_start_time = time.time()
     p = Pool(processes=2*cpu_count())
     for file in listdir(args.filespath):
         if file.endswith(".dat"):
@@ -36,3 +39,12 @@ if __name__ == "__main__":
             p.apply_async(load_files, [table_name, file])
     p.close()
     p.join()
+
+    load_end_time = time.time()  # Timestamp for the ending time
+    load_time = load_end_time - load_start_time  # Measured load time
+    output = f'LOAD TIME:\n\tLoad start time = {load_start_time}\n\tLoad end time = {load_end_time}\n\tLoad time = {load_time}\n'
+    print(output)
+
+    if args.outputfile is not None:
+        with open(args.outputfile, 'w+') as f:
+            f.write(output)
