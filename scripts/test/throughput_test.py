@@ -45,9 +45,7 @@ def throughput_test(thread_id):
     test_time = test_end_time - test_start_time  # Measured power test time
     print(test_time)
 
-if __name__ == '__main__':
-    TP_test_start_time_1 = time.time()
-    
+if __name__ == '__main__':    
     threads = []
     
     t0 = Thread(target = throughput_test, args = ('0',))
@@ -58,6 +56,8 @@ if __name__ == '__main__':
     threads.append(t2)
     t3 = Thread(target = throughput_test, args = ('3',))
     threads.append(t3)
+    
+    TP_test_start_time_1 = time.time()
 
     for t in threads:
         t.start()
