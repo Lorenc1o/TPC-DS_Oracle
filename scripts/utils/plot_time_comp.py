@@ -49,7 +49,6 @@ winter = ax.bar([i+bar_width for i in index], y_after,
 
 ax.set_xlabel('Query Numbers')
 ax.set_ylabel('Execution Time')
-ax.set_title('Optimized Queries, Scale 1')
 ax.set_xticks([i+bar_width/2 for i in index])
 ax.set_xticklabels(["Q"+q_n for q_n in x])
 ax.legend()
