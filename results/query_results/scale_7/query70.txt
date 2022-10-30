@@ -1,0 +1,14 @@
+
+ TOTAL_SUM S_ S_COUNTY                       LOCHIERARCHY RANK_WITHIN_PARENT    
+---------- -- ------------------------------ ------------ ------------------    
+-3.062E+09                                              2                  1    
+-1.366E+09 SD                                           1                  1    
+-1.696E+09 TN                                           1                  2    
+ -85021388 SD                                           0                  1    
+-1.281E+09 SD Ziebach County                            0                  2    
+-1.696E+09 TN Williamson County                         0                  1    
+
+6 rows selected.
+
+timing for: t
+Elapsed: 00:00:06.42

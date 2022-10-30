@@ -1,0 +1,128 @@
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Boyce                          Dorothy              Dr.        Y                
+          670916          5                                                     
+                                                                                
+Bradford                       Dorothy              Mrs.       Y                
+         1620473          5                                                     
+                                                                                
+Bruner                         Rose                 Miss       Y                
+          556366          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Clegg                          James                Mr.        N                
+         1271688          5                                                     
+                                                                                
+Graham                         Martha               Ms.        N                
+         1495785          5                                                     
+                                                                                
+Knight                         Gary                 Sir        Y                
+          104962          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Miller                         Craig                Mr.        N                
+         1671152          5                                                     
+                                                                                
+Moore                          Manuel               Sir        N                
+          352386          5                                                     
+                                                                                
+Moya                                                           N                
+         1149722          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Obrien                         Stephanie            Ms.        Y                
+          631265          5                                                     
+                                                                                
+Page                           Ashley               Ms.        N                
+         1071542          5                                                     
+                                                                                
+Perea                          Brenton              Mr.        N                
+          139138          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Regalado                       Michael              Dr.        N                
+          203358          5                                                     
+                                                                                
+Robertson                      Leah                 Miss       N                
+          131068          5                                                     
+                                                                                
+Russell                        Leeann               Mrs.       Y                
+          283353          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Rutherford                     Richard              Dr.        N                
+          730425          5                                                     
+                                                                                
+Shaffer                        Paula                Dr.        N                
+           86396          5                                                     
+                                                                                
+Sharkey                        Carla                Miss       Y                
+         1418101          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Smith                          Charles              Mr.        Y                
+         1385940          5                                                     
+                                                                                
+Torres                         Jo                   Mrs.       Y                
+           47551          5                                                     
+                                                                                
+Wilson                         Beverly              Dr.        Y                
+         1159951          5                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Zook                           Charles              Mr.        Y                
+          531329          5                                                     
+                                                                                
+                                                                                
+         1145285          5                                                     
+                                                                                
+Clark                          William              Sir        Y                
+         1483651          4                                                     
+                                                                                
+
+C_LAST_NAME                    C_FIRST_NAME         C_SALUTATI C                
+------------------------------ -------------------- ---------- -                
+SS_TICKET_NUMBER        CNT                                                     
+---------------- ----------                                                     
+Mills                          Henry                Mr.        N                
+          958658          4                                                     
+                                                                                
+Roberts                        John                 Sir        N                
+         1245471          4                                                     
+                                                                                
+
+26 rows selected.
+
+timing for: t
+Elapsed: 00:00:03.44

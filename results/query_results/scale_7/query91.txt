@@ -1,0 +1,44 @@
+
+CALL_CENTER      CALL_CENTER_NAME                                               
+---------------- --------------------------------------------------             
+MANAGER                                  RETURNS_LOSS                           
+---------------------------------------- ------------                           
+AAAAAAAANAAAAAAA NY Metro_1                                                     
+Jack Little                                   4701.85                           
+                                                                                
+AAAAAAAAIAAAAAAA California                                                     
+Wayne Ray                                     3543.55                           
+                                                                                
+AAAAAAAAKAAAAAAA Hawaii/Alaska                                                  
+Gregory Altman                                2876.23                           
+                                                                                
+
+CALL_CENTER      CALL_CENTER_NAME                                               
+---------------- --------------------------------------------------             
+MANAGER                                  RETURNS_LOSS                           
+---------------------------------------- ------------                           
+AAAAAAAAEAAAAAAA North Midwest                                                  
+Larry Mccray                                   908.52                           
+                                                                                
+AAAAAAAANAAAAAAA NY Metro_1                                                     
+Jack Little                                    687.79                           
+                                                                                
+AAAAAAAAABAAAAAA North Midwest_1                                                
+Timothy Bourgeois                              379.85                           
+                                                                                
+
+CALL_CENTER      CALL_CENTER_NAME                                               
+---------------- --------------------------------------------------             
+MANAGER                                  RETURNS_LOSS                           
+---------------------------------------- ------------                           
+AAAAAAAABAAAAAAA NY Metro                                                       
+Bob Belcher                                    188.37                           
+                                                                                
+AAAAAAAAOAAAAAAA Mid Atlantic_1                                                 
+Clyde Scott                                    111.97                           
+                                                                                
+
+8 rows selected.
+
+timing for: t
+Elapsed: 00:00:00.54

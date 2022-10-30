@@ -1,0 +1,71 @@
+
+ST        CNT                                                                   
+-- ----------                                                                   
+HI         18                                                                   
+RI         20                                                                   
+DE         21                                                                   
+CT         44                                                                   
+MA         56                                                                   
+NH         66                                                                   
+VT         68                                                                   
+ME         82                                                                   
+NV         82                                                                   
+AZ         89                                                                   
+WY         96                                                                   
+
+ST        CNT                                                                   
+-- ----------                                                                   
+NJ        115                                                                   
+MD        118                                                                   
+AK        129                                                                   
+UT        147                                                                   
+NM        157                                                                   
+WA        168                                                                   
+OR        177                                                                   
+ID        242                                                                   
+SC        266                                                                   
+MT        277                                                                   
+ND        291                                                                   
+
+ST        CNT                                                                   
+-- ----------                                                                   
+WV        300                                                                   
+LA        304                                                                   
+CO        314                                                                   
+NY        315                                                                   
+WI        325                                                                   
+CA        345                                                                   
+PA        364                                                                   
+FL        365                                                                   
+SD        367                                                                   
+AR        372                                                                   
+AL        375                                                                   
+
+ST        CNT                                                                   
+-- ----------                                                                   
+OK        379                                                                   
+MS        425                                                                   
+MI        427                                                                   
+IN        440                                                                   
+TN        445                                                                   
+OH        475                                                                   
+NE        478                                                                   
+          515                                                                   
+MN        518                                                                   
+IA        520                                                                   
+NC        539                                                                   
+
+ST        CNT                                                                   
+-- ----------                                                                   
+KS        558                                                                   
+IL        570                                                                   
+MO        601                                                                   
+VA        629                                                                   
+KY        646                                                                   
+GA        886                                                                   
+TX       1321                                                                   
+
+51 rows selected.
+
+timing for: t
+Elapsed: 00:00:03.81

@@ -1,0 +1,59 @@
+
+CHANNEL       ITEM RETURN_RATIO RETURN_RANK CURRENCY_RANK                       
+------- ---------- ------------ ----------- -------------                       
+catalog      53459            0           1            27                       
+catalog      21710            0           1           111                       
+catalog      33698            0           1           148                       
+catalog      46721            0           1           175                       
+catalog      61388            0           1           237                       
+catalog      59789            0           1           252                       
+catalog       1849   .448979592           7             1                       
+catalog      17449    .47311828           8             2                       
+catalog       2627   .510204082           9            50                       
+catalog      10553   .523255814          10             3                       
+catalog      31946    .56122449          12             4                       
+
+CHANNEL       ITEM RETURN_RATIO RETURN_RANK CURRENCY_RANK                       
+------- ---------- ------------ ----------- -------------                       
+catalog      65099    .56626506          13             5                       
+catalog       2701          .57          14             6                       
+catalog      27590   .588235294          16             7                       
+catalog      64525   .593406593          17             8                       
+catalog      16688   .597402597          18             9                       
+catalog      66185           .6          19            10                       
+store         5018            0           1             6                       
+store         7700            0           1            23                       
+store        44593   .604166667           3             1                       
+store        63263   .680412371           4             2                       
+store        22861   .686046512           5             3                       
+
+CHANNEL       ITEM RETURN_RATIO RETURN_RANK CURRENCY_RANK                       
+------- ---------- ------------ ----------- -------------                       
+store        37181   .704081633           6             4                       
+store         8837   .708333333           7             5                       
+store        11521   .736842105           8             7                       
+store        32747   .759036145           9             8                       
+store        15985   .770833333          10             9                       
+store        25577   .775510204          11            10                       
+web          46163            0           1            19                       
+web          67267            0           1            32                       
+web          63626            0           1            77                       
+web          35918   .479166667           4             1                       
+web          32479   .532608696           5             2                       
+
+CHANNEL       ITEM RETURN_RATIO RETURN_RANK CURRENCY_RANK                       
+------- ---------- ------------ ----------- -------------                       
+web           8611   .539325843           6             3                       
+web          63883   .571428571           7            16                       
+web          22409   .597938144           8             4                       
+web          13562   .604395604           9             5                       
+web          38120   .615384615          10             6                       
+web          21733   .653333333          13             7                       
+web          30695   .659574468          14             8                       
+web          28304   .666666667          15             9                       
+web          27433   .685393258          16            10                       
+
+42 rows selected.
+
+timing for: t
+Elapsed: 00:00:02.20

@@ -1,0 +1,811 @@
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+        2000        218          82943       1.37         37                    
+               41.49             17.84             27                     23.68 
+                 12.44                                                          
+                                                                                
+        2000        223         270108       2.94         91                    
+                14.8               2.3             31                      4.58 
+                   3.9                                                          
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                                                                                
+        2000        242          60744          2         60                    
+               84.33             35.81             30                      5.26 
+                  7.24                                                          
+                                                                                
+        2000        299         190171      18.67         56                    
+               78.73            118.09              3                     62.87 
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                176.82                                                          
+                                                                                
+        2000        361          32955       3.56         32                    
+               81.31             44.79              9                        86 
+                101.13                                                          
+                                                                                
+        2000        362         350651       1.24         93                    
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+               70.87             31.97             75                     22.41 
+                 39.59                                                          
+                                                                                
+        2000        617         289919        .27         24                    
+               36.33                 9             90                     26.45 
+                  18.1                                                          
+                                                                                
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+        2000        637         342227        9.1         91                    
+                5.36              6.39             10                     98.82 
+                  1.62                                                          
+                                                                                
+        2000        734         231433        1.5         51                    
+               22.55             11.01             34                     71.43 
+                 18.32                                                          
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                                                                                
+        2000        788         257754        .94         94                    
+               84.28              4.65            100                     72.85 
+                 31.82                                                          
+                                                                                
+        2000        800         264505        .67         63                    
+               52.82             20.89             94                     87.65 
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                 29.94                                                          
+                                                                                
+        2000        847         165392        .37         19                    
+               78.31            116.28             52                      89.4 
+                  9.44                                                          
+                                                                                
+        2000        941          69923        .42          5                    
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+               68.59             56.06             12                     88.13 
+                 10.54                                                          
+                                                                                
+        2000        974         151206        .22         17                    
+               68.34             36.54             78                     53.46 
+                 46.89                                                          
+                                                                                
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+        2000       1019         220452        1.1         91                    
+                5.84              6.93             83                     78.82 
+                 50.33                                                          
+                                                                                
+        2000       1075         155390        .06          5                    
+               63.99             99.69             85                        83 
+                 81.54                                                          
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                                                                                
+        2000       1345         323933      19.67         59                    
+               83.34             69.76              3                     64.29 
+                 29.25                                                          
+                                                                                
+        2000       1463          17687        .16         13                    
+                5.45              2.05             80                     48.79 
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                 68.42                                                          
+                                                                                
+        2000       1538         228593        .86         82                    
+               55.97             66.18             95                     89.34 
+                 71.97                                                          
+                                                                                
+        2000       1571          92375        .08          1                    
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+               11.21              1.45             12                     95.98 
+                139.37                                                          
+                                                                                
+        2000       1625         231396        .77         49                    
+               19.52              1.99             64                       3.7 
+                  1.11                                                          
+                                                                                
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+        2000       1679         145486        .33         23                    
+               53.03             43.34             69                     29.96 
+                  36.7                                                          
+                                                                                
+        2000       1705           4726       1.92         75                    
+               69.21            104.08             39                     69.36 
+                113.98                                                          
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                                                                                
+        2000       2162         364025         .9         76                    
+               58.33              2.15             84                     57.31 
+                  4.47                                                          
+                                                                                
+        2000       2507         225837       1.24         51                    
+               94.02            104.21             41                     59.29 
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                 21.41                                                          
+                                                                                
+        2000       2594          21880        .15          6                    
+               95.51             77.35             39                        52 
+                103.37                                                          
+                                                                                
+        2000       2666          22941       1.55         68                    
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+               66.47             53.72             44                     81.44 
+                173.71                                                          
+                                                                                
+        2000       2807          88062       3.83         69                    
+               78.93             47.56             18                     89.59 
+                216.38                                                          
+                                                                                
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+        2000       2903         258510        .06          3                    
+                89.7             53.49             53                     79.19 
+                101.75                                                          
+                                                                                
+        2000       2939         236835       1.62         94                    
+               23.01             13.01             58                      83.9 
+                 92.27                                                          
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                                                                                
+        2000       3254         115599       1.47         88                    
+               10.96              5.82             60                     54.46 
+                 60.64                                                          
+                                                                                
+        2000       3314         301051      16.75         67                    
+                2.98              5.14              4                     62.42 
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                 70.55                                                          
+                                                                                
+        2000       3347         272734       1.75         91                    
+               31.47             14.56             52                      9.06 
+                 10.87                                                          
+                                                                                
+        2000       3511         213377       1.33         89                    
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+               44.13             43.57             67                     66.26 
+                 11.73                                                          
+                                                                                
+        2000       3775         341203         .7         51                    
+               72.56             88.69             73                     81.01 
+                 88.21                                                          
+                                                                                
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+        2000       3974         285364         .2         15                    
+                7.33             11.65             74                     26.26 
+                 44.88                                                          
+                                                                                
+        2000       4133         295869       1.31         98                    
+                29.5             45.39             75                     84.73 
+                 45.75                                                          
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                                                                                
+        2000       4139         284875       1.29         49                    
+                4.09               .05             38                       6.2 
+                  9.16                                                          
+                                                                                
+        2000       4435          16153        .32         31                    
+               53.67              48.7             98                     25.13 
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                 18.62                                                          
+                                                                                
+        2000       4436         239192       5.11         46                    
+               37.64             25.08              9                      3.46 
+                  5.03                                                          
+                                                                                
+        2000       4627         134219       1.15         31                    
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                51.5             35.88             27                     91.01 
+                 121.5                                                          
+                                                                                
+        2000       4808         113983       8.33         25                    
+               48.51              31.1              3                     89.01 
+                 57.32                                                          
+                                                                                
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+        2000       4832           1786        .09          8                    
+               83.82             50.19             90                      7.82 
+                   8.6                                                          
+                                                                                
+        2000       5054         281231         32         32                    
+               30.57             28.15              1                        53 
+                 29.34                                                          
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                                                                                
+        2000       5305         128572        .03          2                    
+                22.8              7.11             66                     93.77 
+                 33.39                                                          
+                                                                                
+        2000       5509         289903       2.69         94                    
+               15.68              4.38             35                     45.78 
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                 42.57                                                          
+                                                                                
+        2000       5515         315139       1.09         35                    
+               39.77             17.36             32                     41.59 
+                  31.7                                                          
+                                                                                
+        2000       5600          86877        .04          3                    
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+               81.09             37.17             67                     31.18 
+                  32.8                                                          
+                                                                                
+        2000       5648         305360        .61         49                    
+               88.28             93.12             80                     11.75 
+                 12.79                                                          
+                                                                                
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+        2000       5849         363256        .48         15                    
+               61.28              58.3             31                     16.27 
+                 24.15                                                          
+                                                                                
+        2000       5897          99801       1.21         58                    
+               20.52              5.78             48                     83.11 
+                150.21                                                          
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                                                                                
+        2000       5977         253988        .91         48                    
+               63.62             77.75             53                      95.2 
+                103.25                                                          
+                                                                                
+        2000       6260         294610        .83         74                    
+               53.98             15.75             89                     78.59 
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                209.02                                                          
+                                                                                
+        2000       6263         295531        .59         45                    
+               12.12              7.67             76                      63.7 
+                 27.51                                                          
+                                                                                
+        2000       6319         152731        .96         95                    
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+               66.43             46.86             99                     62.54 
+                 35.02                                                          
+                                                                                
+        2000       6401         248284      13.83         83                    
+               41.85             35.55              6                     19.09 
+                 27.44                                                          
+                                                                                
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+        2000       6428          71921        .45         13                    
+               65.25             55.33             29                     43.73 
+                  35.3                                                          
+                                                                                
+        2000       6445         343461       1.15        100                    
+               17.71             17.76             87                     96.32 
+                  60.1                                                          
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                                                                                
+        2000       6553         242567       1.15         68                    
+               94.86             80.34             59                     63.52 
+                 65.74                                                          
+                                                                                
+        2000       6665         362004        .97         67                    
+               24.34             24.93             69                     80.51 
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                197.81                                                          
+                                                                                
+        2000       6727         120605       4.54         59                    
+               51.78             66.97             13                     71.52 
+                 19.13                                                          
+                                                                                
+        2000       6728         335885        .75         24                    
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+               25.84             21.01             32                     55.87 
+                  7.57                                                          
+                                                                                
+        2000       6779         210863        .34         32                    
+               65.26            102.84             94                      6.14 
+                 15.75                                                          
+                                                                                
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+        2000       6803         342821       1.35         46                    
+               42.02              5.13             34                     53.95 
+                  46.9                                                          
+                                                                                
+        2000       6812         302881       4.55        100                    
+               38.84             77.29             22                     31.88 
+                 61.77                                                          
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                                                                                
+        2000       6853         133827        .46         23                    
+               48.72             16.84             50                     81.95 
+                 30.05                                                          
+                                                                                
+        2000       6998         163641         .2          6                    
+               69.89             85.85             30                     14.68 
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                 18.41                                                          
+                                                                                
+        2000       7064         159425        .61         61                    
+               28.04             31.88            100                     44.69 
+                  60.7                                                          
+                                                                                
+        2000       7115          93801        1.4         98                    
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+               17.85              2.24             70                     52.52 
+                 28.04                                                          
+                                                                                
+        2000       7181         154445        .09          6                    
+                71.7             16.64             69                     11.44 
+                  4.46                                                          
+                                                                                
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+        2000       7223         269054        .98         86                    
+                76.1              46.8             88                     71.37 
+                 21.47                                                          
+                                                                                
+        2000       7304         347721        .29          6                    
+               11.83             22.82             21                     61.05 
+                 57.38                                                          
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                                                                                
+        2000       7652         341823       1.46         89                    
+                99.9             88.99             61                     41.78 
+                 18.24                                                          
+                                                                                
+        2000       7748          68769       2.76         47                    
+               33.33              3.26             17                     27.07 
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                  4.37                                                          
+                                                                                
+        2000       7817         222817       1.17         34                    
+                64.5             43.41             29                      45.1 
+                 41.94                                                          
+                                                                                
+        2000       7898          48125       1.38         99                    
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+               89.07             33.04             72                     61.29 
+                 35.17                                                          
+                                                                                
+        2000       8090          70252        .45         38                    
+               17.06             20.19             84                     70.39 
+                110.35                                                          
+                                                                                
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+        2000       8251          43326       7.44         67                    
+               48.81             40.19              9                     26.75 
+                 11.98                                                          
+                                                                                
+        2000       8275         163072       14.5         58                    
+               83.77             28.51              4                     66.76 
+                 83.05                                                          
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                                                                                
+        2000       8372         356540        .85         47                    
+               11.84             10.92             55                     86.31 
+                 117.9                                                          
+                                                                                
+        2000       8465         108935        .61         57                    
+               59.56             11.07             94                     44.46 
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                  32.4                                                          
+                                                                                
+        2000       8563         260815       1.59         65                    
+               88.83             56.15             41                      42.2 
+                  3.84                                                          
+                                                                                
+        2000       8587         272038        .44         16                    
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+               44.87             61.07             36                     43.12 
+                 45.22                                                          
+                                                                                
+        2000       8942         273680        .44         17                    
+               68.48               2.2             39                     36.63 
+                 37.42                                                          
+                                                                                
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+        2000       8993          83152       1.26         68                    
+               46.59             19.06             54                     89.63 
+                178.74                                                          
+                                                                                
+        2000       9059          35296       1.29         76                    
+               51.34             35.23             59                     17.73 
+                  2.58                                                          
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                                                                                
+        2000       9559         201779      10.86         76                    
+                41.3             59.47              7                      12.4 
+                 11.37                                                          
+                                                                                
+        2000       9665         306317       1.17         98                    
+               72.56             68.75             84                      23.3 
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                 21.71                                                          
+                                                                                
+        2000       9785         283455        .64         32                    
+               73.03             53.33             50                     39.61 
+                  35.8                                                          
+                                                                                
+        2000       9938         114133         .2          9                    
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+               18.62             22.85             45                     76.44 
+                 18.06                                                          
+                                                                                
+        2000      10034         329518       1.53         26                    
+               67.48             11.59             17                     26.03 
+                 16.06                                                          
+                                                                                
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+        2000      10061         103393       4.05         89                    
+                9.95              6.51             22                     66.68 
+                 88.54                                                          
+                                                                                
+        2000      10088         310142       1.14         99                    
+               65.46             72.23             87                      32.3 
+                 27.05                                                          
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                                                                                
+        2000      10100         121006       1.05         83                    
+               44.23             28.21             79                     38.31 
+                     0                                                          
+                                                                                
+        2000      10127         337731       3.83         23                    
+                31.8             12.01              6                      9.93 
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                 11.79                                                          
+                                                                                
+        2000      10550         148161       6.86         96                    
+               98.99            103.65             14                      76.6 
+                 24.63                                                          
+                                                                                
+        2000      10567          11680        .04          2                    
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+               57.24             86.46             52                      30.3 
+                 35.54                                                          
+                                                                                
+        2000      10568         195301       1.94         66                    
+               81.86             43.96             34                     99.65 
+                207.94                                                          
+                                                                                
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+        2000      10685         174393       3.67         55                    
+                9.41             14.68             15                     21.97 
+                 12.56                                                          
+                                                                                
+        2000      10759         317721        .57         21                    
+               93.14             64.34             37                     17.22 
+                 24.97                                                          
+
+SS_SOLD_YEAR SS_ITEM_SK SS_CUSTOMER_SK      RATIO  STORE_QTY                    
+------------ ---------- -------------- ---------- ----------                    
+STORE_WHOLESALE_COST STORE_SALES_PRICE OTHER_CHAN_QTY OTHER_CHAN_WHOLESALE_COST 
+-------------------- ----------------- -------------- ------------------------- 
+OTHER_CHAN_SALES_PRICE                                                          
+----------------------                                                          
+                                                                                
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:20.42

@@ -1,0 +1,7 @@
+
+STORE_ONLY CATALOG_ONLY STORE_AND_CATALOG                                       
+---------- ------------ -----------------                                       
+   3736583      1990676               560                                       
+
+timing for: t
+Elapsed: 00:00:08.36

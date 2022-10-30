@@ -1,0 +1,46 @@
+
+CA_ZIP     CA_COUNTY                      SUM(WS_SALES_PRICE)                   
+---------- ------------------------------ -------------------                   
+08654      Windsor County                               10.07                   
+21904      Clarke County                                 8.77                   
+23951      Fluvanna County                              34.01                   
+24098      Granville County                             10.99                   
+26614      Berkeley County                               6.86                   
+26867      Warren County                                27.78                   
+27746      Lincoln County                               12.65                   
+28252      Patrick County                              131.94                   
+38877      Baldwin County                               15.51                   
+48883      Jay County                                  191.26                   
+49003      Livingston County                            38.51                   
+
+CA_ZIP     CA_COUNTY                      SUM(WS_SALES_PRICE)                   
+---------- ------------------------------ -------------------                   
+51675      Winston County                              147.42                   
+53003      Winona County                                70.62                   
+56557      Cass County                                  45.26                   
+60191      Cowley County                                 67.6                   
+62293      Richland County                              152.3                   
+62812      Riley County                                   .84                   
+64372      Edgar County                                 95.84                   
+65681      Labette County                               33.69                   
+70150      Atascosa County                               2.56                   
+71933      Ouachita County                             177.34                   
+72808      Jim Wells County                              36.1                   
+
+CA_ZIP     CA_COUNTY                      SUM(WS_SALES_PRICE)                   
+---------- ------------------------------ -------------------                   
+77057      Panola County                               223.44                   
+77746      Independence County                          27.06                   
+79583      Jim Hogg County                              17.06                   
+82565      Carbon County                                42.56                   
+85669      Goshen County                               183.01                   
+85669      Grand County                                721.86                   
+85669      Idaho County                                553.28                   
+88095      Huerfano County                               1.58                   
+89303      Torrance County                               2.46                   
+91749      Lassen County                               176.04                   
+
+32 rows selected.
+
+timing for: t
+Elapsed: 00:00:02.35

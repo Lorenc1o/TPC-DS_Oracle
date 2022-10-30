@@ -1,0 +1,59 @@
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_STORE_ID       S_STORE_NAME                                                   
+---------------- --------------------------------------------------             
+STORE_SALES_QUANTITY STORE_RETURNS_QUANTITY CATALOG_SALES_QUANTITY              
+-------------------- ---------------------- ----------------------              
+AAAAAAAAGINKAAAA                                                                
+Affairs believe as major colleagues. Different, absolute organization           
+AAAAAAAABAAAAAAA ought                                                          
+                   9                      4                     77              
+                                                                                
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_STORE_ID       S_STORE_NAME                                                   
+---------------- --------------------------------------------------             
+STORE_SALES_QUANTITY STORE_RETURNS_QUANTITY CATALOG_SALES_QUANTITY              
+-------------------- ---------------------- ----------------------              
+AAAAAAAAHHJCAAAA                                                                
+Then you                                                                        
+AAAAAAAAICAAAAAA bar                                                            
+                  92                     20                     56              
+                                                                                
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_STORE_ID       S_STORE_NAME                                                   
+---------------- --------------------------------------------------             
+STORE_SALES_QUANTITY STORE_RETURNS_QUANTITY CATALOG_SALES_QUANTITY              
+-------------------- ---------------------- ----------------------              
+AAAAAAAAKFFGAAAA                                                                
+Often magic forms know then. Forth international centuries would not            
+AAAAAAAAGCAAAAAA eing                                                           
+                  93                     30                     95              
+                                                                                
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_STORE_ID       S_STORE_NAME                                                   
+---------------- --------------------------------------------------             
+STORE_SALES_QUANTITY STORE_RETURNS_QUANTITY CATALOG_SALES_QUANTITY              
+-------------------- ---------------------- ----------------------              
+AAAAAAAAMEMHAAAA                                                                
+But large pupils must stay                                                      
+AAAAAAAAGBAAAAAA able                                                           
+                  74                     52                     53              
+                                                                                
+
+timing for: t
+Elapsed: 00:00:06.31

@@ -1,0 +1,608 @@
+
+CHANNEL I_BRAND_ID I_CLASS_ID I_CATEGORY_ID SUM(SALES) SUM(NUMBER_SALES)        
+------- ---------- ---------- ------------- ---------- -----------------        
+catalog    1001001          1             1 14962162.9              2899        
+catalog    1001001          1             2  377375.07                55        
+catalog    1001001          1             3  498452.97                97        
+catalog    1001001          1             4  357923.41                77        
+catalog    1001001          1             5  369095.01                57        
+catalog    1001001          1             6  396869.22                81        
+catalog    1001001          1             7  379703.42                92        
+catalog    1001001          1             8  384132.69                73        
+catalog    1001001          1             9  340123.99                59        
+catalog    1001001          1            10  497815.48                87        
+catalog    1001001          1               18563654.1              3577        
+
+CHANNEL I_BRAND_ID I_CLASS_ID I_CATEGORY_ID SUM(SALES) SUM(NUMBER_SALES)        
+------- ---------- ---------- ------------- ---------- -----------------        
+catalog    1001001          2             1   84451.01                13        
+catalog    1001001          2             2  217618.92                44        
+catalog    1001001          2             3    65868.5                12        
+catalog    1001001          2             4   77439.44                 9        
+catalog    1001001          2             5   57171.04                16        
+catalog    1001001          2             7    16521.9                 5        
+catalog    1001001          2             8   54588.73                10        
+catalog    1001001          2                573659.54               109        
+catalog    1001001          3             1    35740.1                12        
+catalog    1001001          3             2  287538.33                47        
+catalog    1001001          3             3   38269.29                 8        
+
+CHANNEL I_BRAND_ID I_CLASS_ID I_CATEGORY_ID SUM(SALES) SUM(NUMBER_SALES)        
+------- ---------- ---------- ------------- ---------- -----------------        
+catalog    1001001          3             4   91403.97                24        
+catalog    1001001          3             6   27625.68                 8        
+catalog    1001001          3            10   23683.43                 7        
+catalog    1001001          3                 504260.8               106        
+catalog    1001001          4             1  193200.68                31        
+catalog    1001001          4             2  129346.52                24        
+catalog    1001001          4             3   48949.97                11        
+catalog    1001001          4             4  161912.79                35        
+catalog    1001001          4             5  133170.46                28        
+catalog    1001001          4             6   59959.17                15        
+catalog    1001001          4                726539.59               144        
+
+CHANNEL I_BRAND_ID I_CLASS_ID I_CATEGORY_ID SUM(SALES) SUM(NUMBER_SALES)        
+------- ---------- ---------- ------------- ---------- -----------------        
+catalog    1001001          5             9    4835.94                 3        
+catalog    1001001          5            10   86266.36                19        
+catalog    1001001          5                  91102.3                22        
+catalog    1001001          6             9   32996.14                10        
+catalog    1001001          6                 32996.14                10        
+catalog    1001001          7             6   14571.58                 6        
+catalog    1001001          7                 14571.58                 6        
+catalog    1001001          8             9   53037.13                 9        
+catalog    1001001          8                 53037.13                 9        
+catalog    1001001          9             6   47416.36                12        
+catalog    1001001          9             7   28292.16                10        
+
+CHANNEL I_BRAND_ID I_CLASS_ID I_CATEGORY_ID SUM(SALES) SUM(NUMBER_SALES)        
+------- ---------- ---------- ------------- ---------- -----------------        
+catalog    1001001          9             8   97336.79                13        
+catalog    1001001          9            10   84932.59                10        
+catalog    1001001          9                 257977.9                45        
+catalog    1001001         10             9  105442.34                24        
+catalog    1001001         10                105442.34                24        
+catalog    1001001         11             7  122582.85                21        
+catalog    1001001         11             9   51270.41                11        
+catalog    1001001         11                173853.26                32        
+catalog    1001001         12             6   34098.74                10        
+catalog    1001001         12             8   109403.6                23        
+catalog    1001001         12             9   29531.92                 9        
+
+CHANNEL I_BRAND_ID I_CLASS_ID I_CATEGORY_ID SUM(SALES) SUM(NUMBER_SALES)        
+------- ---------- ---------- ------------- ---------- -----------------        
+catalog    1001001         12                173034.26                42        
+catalog    1001001         13             7   59162.57                10        
+catalog    1001001         13            10   59221.62                10        
+catalog    1001001         13                118384.19                20        
+catalog    1001001         14             6   92422.05                16        
+catalog    1001001         14             8   33389.34                 6        
+catalog    1001001         14                125811.39                22        
+catalog    1001001         15             9   54554.86                 6        
+catalog    1001001         15            10   98925.42                13        
+catalog    1001001         15                153480.28                19        
+catalog    1001001         16             7   20948.44                 5        
+
+CHANNEL I_BRAND_ID I_CLASS_ID I_CATEGORY_ID SUM(SALES) SUM(NUMBER_SALES)        
+------- ---------- ---------- ------------- ---------- -----------------        
+catalog    1001001         16             8   73209.38                12        
+catalog    1001001         16            10   67061.45                11        
+catalog    1001001         16                161219.27                28        
+catalog    1001001                          21829024.1              4215        
+catalog    1001002          1             1 19617190.5              3865        
+catalog    1001002          1               19617190.5              3865        
+catalog    1001002          2             1  575416.16               113        
+catalog    1001002          2                575416.16               113        
+catalog    1001002          3             1   410890.6                92        
+catalog    1001002          3                 410890.6                92        
+catalog    1001002          4             1  527666.02               116        
+
+CHANNEL I_BRAND_ID I_CLASS_ID I_CATEGORY_ID SUM(SALES) SUM(NUMBER_SALES)        
+------- ---------- ---------- ------------- ---------- -----------------        
+catalog    1001002          4                527666.02               116        
+catalog    1001002          5             1   62935.67                13        
+catalog    1001002          5                 62935.67                13        
+catalog    1001002          6             1  160585.05                34        
+catalog    1001002          6                160585.05                34        
+catalog    1001002          7             1  112625.31                24        
+catalog    1001002          7                112625.31                24        
+catalog    1001002          8             1  240061.21                47        
+catalog    1001002          8                240061.21                47        
+catalog    1001002          9             1   80058.54                13        
+catalog    1001002          9                 80058.54                13        
+
+CHANNEL I_BRAND_ID I_CLASS_ID I_CATEGORY_ID SUM(SALES) SUM(NUMBER_SALES)        
+------- ---------- ---------- ------------- ---------- -----------------        
+catalog    1001002         10             1  151612.07                21        
+catalog    1001002         10                151612.07                21        
+catalog    1001002         11             1   35503.96                 6        
+catalog    1001002         11                 35503.96                 6        
+catalog    1001002         12             1  238257.93                51        
+catalog    1001002         12                238257.93                51        
+catalog    1001002         13             1  165116.64                23        
+catalog    1001002         13                165116.64                23        
+catalog    1001002         14             1   43561.18                11        
+catalog    1001002         14                 43561.18                11        
+catalog    1001002         16             1  211811.82                43        
+
+CHANNEL I_BRAND_ID I_CLASS_ID I_CATEGORY_ID SUM(SALES) SUM(NUMBER_SALES)        
+------- ---------- ---------- ------------- ---------- -----------------        
+catalog    1001002         16                211811.82                43        
+
+100 rows selected.
+
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    1001001          1           1 9383878.59            2617 store        
+   1001001          1           1 9459958.85            2522                    
+                                                                                
+store    1001002          1           1 5207084.45            1392 store        
+   1001002          1           1 5108743.63            1410                    
+                                                                                
+store    1002001          2           1 9022780.61            2482 store        
+   1002001          2           1 9319990.29            2439                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    1002002          2           1  4460407.7            1233 store        
+   1002002          2           1 4435036.12            1228                    
+                                                                                
+store    1003001          3           1 8863658.31            2363 store        
+   1003001          3           1 8460679.01            2257                    
+                                                                                
+store    1003002          3           1 4211379.44            1091 store        
+   1003002          3           1 3883819.83            1098                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    1004001          4           1 8816085.79            2372 store        
+   1004001          4           1 8694296.42            2386                    
+                                                                                
+store    1004002          4           1  4242939.4            1179 store        
+   1004002          4           1 4616683.88            1195                    
+                                                                                
+store    2001001          1           2 9181086.77            2481 store        
+   2001001          1           2 8855221.43            2365                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    2001002          1           2 4704714.01            1262 store        
+   2001002          1           2 4559976.61            1221                    
+                                                                                
+store    2002001          2           2  8638679.5            2324 store        
+   2002001          2           2 8844229.13            2405                    
+                                                                                
+store    2002002          2           2 4407386.93            1139 store        
+   2002002          2           2 4477779.85            1193                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    2003001          3           2 8929997.64            2426 store        
+   2003001          3           2 9121548.02            2502                    
+                                                                                
+store    2003002          3           2 3569931.13            1004 store        
+   2003002          3           2 3494559.54             984                    
+                                                                                
+store    2004001          4           2 9390326.08            2525 store        
+   2004001          4           2 9373159.26            2539                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    2004002          4           2 4237698.48            1154 store        
+   2004002          4           2 4274174.48            1170                    
+                                                                                
+store    3001001          1           3 8064767.87            2206 store        
+   3001001          1           3 8254630.15            2219                    
+                                                                                
+store    3001002          1           3 4375800.98            1189 store        
+   3001002          1           3 4342642.21            1205                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    3002001          2           3 9655177.17            2538 store        
+   3002001          2           3 9346049.15            2470                    
+                                                                                
+store    3002002          2           3 4454875.77            1222 store        
+   3002002          2           3  4444288.4            1210                    
+                                                                                
+store    3003001          3           3 9233265.38            2545 store        
+   3003001          3           3 9119136.57            2475                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    3003002          3           3  4499719.7            1221 store        
+   3003002          3           3 4701883.89            1230                    
+                                                                                
+store    3004001          4           3 8371979.44            2235 store        
+   3004001          4           3 8121478.97            2137                    
+                                                                                
+store    3004002          4           3 4539724.05            1227 store        
+   3004002          4           3  4281686.5            1185                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    4001001          1           4 9330083.94            2530 store        
+   4001001          1           4 9162152.04            2462                    
+                                                                                
+store    4001002          1           4 4522037.71            1228 store        
+   4001002          1           4 3987607.06            1114                    
+                                                                                
+store    4002001          2           4 9146049.38            2469 store        
+   4002001          2           4 9214055.89            2447                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    4002002          2           4 4394850.54            1221 store        
+   4002002          2           4 4401451.79            1195                    
+                                                                                
+store    4003001          3           4 9470976.92            2586 store        
+   4003001          3           4 9390538.84            2524                    
+                                                                                
+store    4003002          3           4 4413549.55            1197 store        
+   4003002          3           4 4093368.95            1148                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    4004001          4           4 9264240.18            2482 store        
+   4004001          4           4 9263506.31            2461                    
+                                                                                
+store    4004002          4           4  4534353.1            1201 store        
+   4004002          4           4 4800932.76            1238                    
+                                                                                
+store    5001001          1           5 8325213.43            2299 store        
+   5001001          1           5 8222550.04            2169                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    5001002          1           5 4553330.01            1275 store        
+   5001002          1           5 4303545.68            1236                    
+                                                                                
+store    5002001          2           5 8932460.39            2504 store        
+   5002001          2           5 9098140.68            2471                    
+                                                                                
+store    5002002          2           5 4498073.92            1180 store        
+   5002002          2           5 4254311.18            1155                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    5003001          3           5 8933502.12            2451 store        
+   5003001          3           5 9137130.04            2479                    
+                                                                                
+store    5003002          3           5  5138650.1            1440 store        
+   5003002          3           5 5178616.66            1381                    
+                                                                                
+store    5004001          4           5 9683929.24            2657 store        
+   5004001          4           5 9609784.77            2527                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    5004002          4           5 5255100.45            1405 store        
+   5004002          4           5 4950857.53            1382                    
+                                                                                
+store    6001001          1           6  526396.03             150 store        
+   6001001          1           6  709354.95             181                    
+                                                                                
+store    6001002          1           6  278335.67              76 store        
+   6001002          1           6  288604.83              71                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6001003          1           6  497833.26             132 store        
+   6001003          1           6  536616.28             149                    
+                                                                                
+store    6001004          1           6  256970.13              68 store        
+   6001004          1           6  303875.84              76                    
+                                                                                
+store    6001005          1           6  479403.58             129 store        
+   6001005          1           6  358038.03             114                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6001006          1           6  315428.92              69 store        
+   6001006          1           6  270916.69              69                    
+                                                                                
+store    6001007          1           6  514373.94             136 store        
+   6001007          1           6  393817.85             109                    
+                                                                                
+store    6001008          1           6   362174.8              95 store        
+   6001008          1           6  340843.83              87                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6002001          2           6  411875.08             124 store        
+   6002001          2           6  548338.06             161                    
+                                                                                
+store    6002002          2           6  299784.26              69 store        
+   6002002          2           6  228921.25              64                    
+                                                                                
+store    6002003          2           6   528624.9             142 store        
+   6002003          2           6  473827.84             128                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6002004          2           6   362490.7              93 store        
+   6002004          2           6  246018.85              70                    
+                                                                                
+store    6002005          2           6  682577.97             189 store        
+   6002005          2           6  668982.15             175                    
+                                                                                
+store    6002006          2           6  182855.41              58 store        
+   6002006          2           6  283887.41              74                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6002007          2           6  343013.24             104 store        
+   6002007          2           6  375892.36              95                    
+                                                                                
+store    6002008          2           6  306924.42              79 store        
+   6002008          2           6  261571.59              68                    
+                                                                                
+store    6003001          3           6  501647.36             154 store        
+   6003001          3           6  563002.25             159                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6003002          3           6  238516.09              69 store        
+   6003002          3           6  317069.36              83                    
+                                                                                
+store    6003003          3           6   738253.9             187 store        
+   6003003          3           6  525699.31             163                    
+                                                                                
+store    6003004          3           6  353087.88              86 store        
+   6003004          3           6   279743.7              76                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6003005          3           6  639499.59             162 store        
+   6003005          3           6  646225.08             156                    
+                                                                                
+store    6003006          3           6  311164.07              84 store        
+   6003006          3           6  357613.49              94                    
+                                                                                
+store    6003007          3           6  638540.17             178 store        
+   6003007          3           6  680879.78             174                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6003008          3           6  448781.52             130 store        
+   6003008          3           6  414754.31             105                    
+                                                                                
+store    6004001          4           6  423246.56             110 store        
+   6004001          4           6  431021.15             110                    
+                                                                                
+store    6004002          4           6  211646.29              51 store        
+   6004002          4           6  186158.21              54                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6004003          4           6  514923.09             137 store        
+   6004003          4           6  525320.69             148                    
+                                                                                
+store    6004004          4           6  235070.58              65 store        
+   6004004          4           6   269783.6              69                    
+                                                                                
+store    6004005          4           6  530352.57             139 store        
+   6004005          4           6  513596.96             134                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6004006          4           6  312807.13              75 store        
+   6004006          4           6  237822.55              64                    
+                                                                                
+store    6004007          4           6  383404.64             103 store        
+   6004007          4           6  416419.71              98                    
+                                                                                
+store    6004008          4           6  147728.28              41 store        
+   6004008          4           6  143137.34              40                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6005001          5           6  601688.28             175 store        
+   6005001          5           6  683764.69             180                    
+                                                                                
+store    6005002          5           6  363921.22             106 store        
+   6005002          5           6  443912.75             105                    
+                                                                                
+store    6005003          5           6   563714.1             135 store        
+   6005003          5           6  592049.38             153                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6005004          5           6   147820.8              43 store        
+   6005004          5           6  124973.94              33                    
+                                                                                
+store    6005005          5           6  348460.77             106 store        
+   6005005          5           6  380601.45             110                    
+                                                                                
+store    6005006          5           6  284403.91              80 store        
+   6005006          5           6  229289.14              75                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6005007          5           6  581924.61             157 store        
+   6005007          5           6  591027.21             160                    
+                                                                                
+store    6005008          5           6  310772.47              90 store        
+   6005008          5           6  388047.56             108                    
+                                                                                
+store    6006001          6           6     667813             186 store        
+   6006001          6           6  599409.68             169                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6006002          6           6  214036.23              61 store        
+   6006002          6           6  228326.35              63                    
+                                                                                
+store    6006003          6           6  480342.52             127 store        
+   6006003          6           6  487457.17             130                    
+                                                                                
+store    6006004          6           6  282598.98              77 store        
+   6006004          6           6  354017.14              92                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6006005          6           6  449667.95             123 store        
+   6006005          6           6  466938.04             126                    
+                                                                                
+store    6006006          6           6  307922.46              76 store        
+   6006006          6           6  261527.81              79                    
+                                                                                
+store    6006007          6           6  592583.89             166 store        
+   6006007          6           6  617200.23             156                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6006008          6           6  234608.42              78 store        
+   6006008          6           6  360520.09              78                    
+                                                                                
+store    6007001          7           6  361189.42             102 store        
+   6007001          7           6  369794.17             108                    
+                                                                                
+store    6007002          7           6  317417.42              78 store        
+   6007002          7           6  270375.21              74                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6007003          7           6  771110.34             209 store        
+   6007003          7           6  685274.46             203                    
+                                                                                
+store    6007004          7           6  239879.16              63 store        
+   6007004          7           6  217872.36              77                    
+                                                                                
+store    6007005          7           6  377825.26              98 store        
+   6007005          7           6  395406.73             115                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6007006          7           6  263776.41              69 store        
+   6007006          7           6  297974.13              76                    
+                                                                                
+store    6007007          7           6  668790.98             183 store        
+   6007007          7           6  773524.29             215                    
+                                                                                
+store    6007008          7           6  180583.93              55 store        
+   6007008          7           6   271285.7              76                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6008001          8           6  546092.29             171 store        
+   6008001          8           6  578709.56             160                    
+                                                                                
+store    6008002          8           6  371859.99              93 store        
+   6008002          8           6  335667.58              92                    
+                                                                                
+store    6008003          8           6  674612.55             190 store        
+   6008003          8           6  611230.79             165                    
+                                                                                
+
+TY_CH   TY_BRAND   TY_CLASS TY_CATEGORY   TY_SALES TY_NUMBER_SALES LY_CH        
+----- ---------- ---------- ----------- ---------- --------------- -----        
+  LY_BRAND   LY_CLASS LY_CATEGORY   LY_SALES LY_NUMBER_SALES                    
+---------- ---------- ----------- ---------- ---------------                    
+store    6008004          8           6  227937.73              76 store        
+   6008004          8           6  280193.45              70                    
+                                                                                
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:53.51

@@ -1,0 +1,135 @@
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAAAAACCAAA Simmons                       , Terry                          
+AAAAAAAAABFBEAAA Torres                        , Julian                         
+AAAAAAAAABFBEAAA Torres                        , Julian                         
+AAAAAAAAABFBEAAA Torres                        , Julian                         
+AAAAAAAAABMKCAAA ,                                                              
+AAAAAAAAACPNEAAA Bryant                        , Edward                         
+AAAAAAAAACPNEAAA Bryant                        , Edward                         
+AAAAAAAAADKBBAAA Hardin                        , Vicki                          
+AAAAAAAAAEPEBAAA Blackburn                     , Sabrina                        
+AAAAAAAAAEPOAAAA Hall                          , Kari                           
+AAAAAAAAAEPOAAAA Hall                          , Kari                           
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAAAEPOAAAA Hall                          , Kari                           
+AAAAAAAAAFIHEAAA Marx                          , Jesusa                         
+AAAAAAAAAHGCBAAA Willard                       , Nicholas                       
+AAAAAAAAAHLHBAAA Summers                       , Jennifer                       
+AAAAAAAAAIPGAAAA Carter                        , Rodney                         
+AAAAAAAAAIPGAAAA Carter                        , Rodney                         
+AAAAAAAAAJBHCAAA Trevino                       , John                           
+AAAAAAAAAMPGDAAA Santos                        , Beatrice                       
+AAAAAAAAANAEFAAA Davenport                     , Rosa                           
+AAAAAAAAANIPAAAA Hughes                        , Floyd                          
+AAAAAAAAANIPAAAA Hughes                        , Floyd                          
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAAANKDFAAA Maxwell                       , Kenneth                        
+AAAAAAAAAPABBAAA , Adelaida                                                     
+AAAAAAAAAPABBAAA , Adelaida                                                     
+AAAAAAAAAPGHEAAA Perry                         , Robert                         
+AAAAAAAAAPKECAAA Ross                          , Elizabeth                      
+AAAAAAAABACCFAAA Lance                         , Carrie                         
+AAAAAAAABACCFAAA Lance                         , Carrie                         
+AAAAAAAABACCFAAA Lance                         , Carrie                         
+AAAAAAAABACCFAAA Lance                         , Carrie                         
+AAAAAAAABAGAAAAA Wright                        , Joshua                         
+AAAAAAAABAGAAAAA Wright                        , Joshua                         
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAABBLBCAAA Hanson                        , Christopher                    
+AAAAAAAABBOMDAAA Torres                        , Cynthia                        
+AAAAAAAABCEGDAAA Wright                        , Lucille                        
+AAAAAAAABCEGDAAA Wright                        , Lucille                        
+AAAAAAAABCLDEAAA Warner                        , Yesenia                        
+AAAAAAAABDFHBAAA French                        , Michelle                       
+AAAAAAAABDFHBAAA French                        , Michelle                       
+AAAAAAAABDKDEAAA Baker                         , Colleen                        
+AAAAAAAABDKDEAAA Baker                         , Colleen                        
+AAAAAAAABDKODAAA Cleveland                     , Maura                          
+AAAAAAAABDKODAAA Cleveland                     , Maura                          
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAABDKODAAA Cleveland                     , Maura                          
+AAAAAAAABDKODAAA Cleveland                     , Maura                          
+AAAAAAAABDKODAAA Cleveland                     , Maura                          
+AAAAAAAABFAKEAAA Carrillo                      , Wilber                         
+AAAAAAAABFFECAAA Dill                          , Keith                          
+AAAAAAAABFOLDAAA Hanson                        , John                           
+AAAAAAAABFOLDAAA Hanson                        , John                           
+AAAAAAAABGEECAAA Miller                        , Trang                          
+AAAAAAAABGKIFAAA Perry                         , Vincent                        
+AAAAAAAABGKIFAAA Perry                         , Vincent                        
+AAAAAAAABGMFDAAA Hill                          , Karen                          
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAABGMFDAAA Hill                          , Karen                          
+AAAAAAAABHDAEAAA Kennedy                       , Karen                          
+AAAAAAAABHDAEAAA Kennedy                       , Karen                          
+AAAAAAAABHDAEAAA Kennedy                       , Karen                          
+AAAAAAAABHDAEAAA Kennedy                       , Karen                          
+AAAAAAAABHDAEAAA Kennedy                       , Karen                          
+AAAAAAAABKLHEAAA Crouch                        , Brian                          
+AAAAAAAABKLHEAAA Crouch                        , Brian                          
+AAAAAAAABKOEBAAA Dubose                        , Marie                          
+AAAAAAAABKOEBAAA Dubose                        , Marie                          
+AAAAAAAABKOEBAAA Dubose                        , Marie                          
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAABLAFBAAA Hernandez                     , Cheryl                         
+AAAAAAAABLAFBAAA Hernandez                     , Cheryl                         
+AAAAAAAABLDKBAAA Smith                         , Kevin                          
+AAAAAAAABLHHAAAA Lucero                        , Elizabeth                      
+AAAAAAAABLHHAAAA Lucero                        , Elizabeth                      
+AAAAAAAABLHHAAAA Lucero                        , Elizabeth                      
+AAAAAAAABLJACAAA Rice                          , Linda                          
+AAAAAAAABMDOCAAA Moore                         , William                        
+AAAAAAAABMOLBAAA Mccauley                      , Nancy                          
+AAAAAAAABNCFDAAA Baumgartner                   , Edward                         
+AAAAAAAABNCFDAAA Baumgartner                   , Edward                         
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAABNCFDAAA Baumgartner                   , Edward                         
+AAAAAAAABOEKEAAA Stephens                      , Manuel                         
+AAAAAAAABOEKEAAA Stephens                      , Manuel                         
+AAAAAAAABPEGDAAA Smith                         , Jeanne                         
+AAAAAAAABPHMDAAA Johnson                       , Joyce                          
+AAAAAAAACBKMCAAA Shaw                          , Loretta                        
+AAAAAAAACBKMCAAA Shaw                          , Loretta                        
+AAAAAAAACBKMCAAA Shaw                          , Loretta                        
+AAAAAAAACBMFFAAA Goodwin                       , Rita                           
+AAAAAAAACBMFFAAA Goodwin                       , Rita                           
+AAAAAAAACBOKBAAA Robinson                      , Trisha                         
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAACBOKBAAA Robinson                      , Trisha                         
+AAAAAAAACCDDCAAA Brown                         , Erica                          
+AAAAAAAACCDDCAAA Brown                         , Erica                          
+AAAAAAAACDBKDAAA Burkholder                    , Lyle                           
+AAAAAAAACDBKDAAA Burkholder                    , Lyle                           
+AAAAAAAACDHBDAAA Gruber                        , Lisa                           
+AAAAAAAACEBKAAAA Mccullough                    , Emma                           
+AAAAAAAACEBKAAAA Mccullough                    , Emma                           
+AAAAAAAACEOGBAAA Guerra                        , Lisa                           
+AAAAAAAACFGOAAAA Munoz                         , Jeanette                       
+AAAAAAAACFGOAAAA Munoz                         , Jeanette                       
+
+CUSTOMER_ID      CUSTOMERNAME                                                   
+---------------- ----------------------------------------------------           
+AAAAAAAACFIBEAAA Sneed                         , Jennifer                       
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:00.65

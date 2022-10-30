@@ -1,0 +1,1626 @@
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+A                                                                               
+      5.98            6.61             4.17                                     
+edu packedu pack #2                                                             
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+A                                                                               
+         0            9.42             7.06                                     
+exportischolar #2                                                               
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+A                                                                               
+     10.44            3.63              5.6                                     
+brandbrand #4                                                                   
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+A                                                                               
+      1.33            2.96             1.98                                     
+importoedu pack #2                                                              
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+A                                                                               
+       .28            6.81             5.69                                     
+edu packexporti #2                                                              
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+A l                                                                             
+     10.91           99.71              .94                                     
+scholarunivamalg #14                                                            
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+A l                                                                             
+      5.32           99.71              .94                                     
+scholarunivamalg #14                                                            
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+A little compar                                                                 
+      1.85            5.43             2.65                                     
+amalgscholar #2                                                                 
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+A little compar                                                                 
+      3.89            5.43             2.65                                     
+amalgscholar #2                                                                 
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+A little western children write detailed, fundamental men. Unknown, corporate ho
+urs will avoid by a skills. Rights modify                                       
+      8.77             .34             3.41                                     
+amalgamalg #2                                                                   
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+                                                                                
+able                                                                            
+A little white studies shall not find never british left masses. Forms will not 
+contact so cities. Guilty advantages cheer plainly for the days. Already empty t
+eams deal no longer only sales; cro                                             
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      4.09             1.9              .83                                     
+univbrand #8                                                                    
+                                                                                
+able                                                                            
+A lot certain winners give with a farmers; financial friends mo                 
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+         0             7.8             2.96                                     
+amalgamalg #2                                                                   
+                                                                                
+able                                                                            
+A lot present hundreds know bluntly right, various sports. Far various hands may
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+ not focus best persistent sensitive policies. Affairs should leave top, class  
+       8.8             .22               .1                                     
+importoamalgamalg #4                                                            
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able                                                                            
+      1.52            1.01            49.36                                     
+edu packnameless #2                                                             
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able                                                                            
+      6.44            1.01            49.36                                     
+edu packnameless #2                                                             
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able changes should comment m                                                   
+      9.35           45.38            38.11                                     
+amalgnameless #4                                                                
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able costs seek from a families. Atomic minutes must enter th                   
+      5.94            4.77              3.3                                     
+univunivamalg #4                                                                
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able details should take therefore previous, solid friends. Now dark looks      
+      6.23            4.05             1.34                                     
+namelessmaxi #4                                                                 
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able events see courses. Teachers can defend fears. Internal, environmental hour
+s would see natural, huge parties. Single, various solicitors help; often philos
+ophical games used to kill at                                                   
+      7.39            1.36               .7                                     
+amalgamalg #2                                                                   
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+                                                                                
+able                                                                            
+Able funds must not investigate distinct, short-term foundations. Sad, soft exam
+ples beli                                                                       
+      5.77            8.11            64.79                                     
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+amalgamalgamalg #11                                                             
+                                                                                
+able                                                                            
+Able institutions will expect usually criminal, likely shares. Miraculously new 
+organisers consider genuinely administrative wives. Just init                   
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      4.64            5.13             4.15                                     
+edu packscholar #2                                                              
+                                                                                
+able                                                                            
+Able lakes tell then early beliefs. Services go rather; false friends might not 
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+choose plain alike different professionals. Much early arms giv                 
+      8.72             .56              .18                                     
+edu packexporti #2                                                              
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able marks agree particularly for a borders. Ready, long males shall not like so
+ hundreds; black lists overcom                                                  
+      6.72            2.21             1.81                                     
+amalgimporto #2                                                                 
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+Able others must not try there able, fine feet. Historical, political earnings a
+ccept further at once post-war tears; new patients stop together possible, other
+ officers. Even economi                                                         
+      8.81             .36              .31                                     
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+corpunivamalg #2                                                                
+                                                                                
+able                                                                            
+Able purposes shall not provide in part useless tools. Later indirect sources ne
+ed too due, arbitrary prices. Never                                             
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      7.74           81.14            33.26                                     
+exportinameless #6                                                              
+                                                                                
+able                                                                            
+Able symp                                                                       
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+     11.11             .73              .48                                     
+scholarunivamalg #4                                                             
+                                                                                
+able                                                                            
+Able values support about a cases. However close concessions should not emphasis
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+e lucky terms; extended minds might back always central standards. There        
+      9.08            1.85             1.51                                     
+exportibrand #2                                                                 
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able words will occur massive                                                   
+      5.08            4.48             2.24                                     
+amalgexporti #2                                                                 
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able, alternative police shall not give so other complaints. There complex      
+      2.16            1.31             5.86                                     
+edu packimporto #2                                                              
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able, alternative police shall not give so other complaints. There complex      
+      2.19            1.31             5.86                                     
+edu packimporto #2                                                              
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able, alternative police shall not give so other complaints. There complex      
+       .72            1.31             5.86                                     
+edu packimporto #2                                                              
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able, british premises can                                                      
+      4.68            5.68             3.66                                     
+importobrand #6                                                                 
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able, british premises can                                                      
+         0            5.68             3.66                                     
+importobrand #6                                                                 
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able, corporate notes                                                           
+      2.49             3.8             2.73                                     
+amalgbrand #4                                                                   
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able, head things speak much for a issues. Early groups shall struggle colleges;
+ dark figu                                                                      
+      6.97            2.31             1.06                                     
+exportiamalg #2                                                                 
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+Able, long mammals can want new, serious years. Questions would not cope again m
+ainly unable contributions. Less responsible shelves lose records; leading, simi
+lar                                                                             
+      9.26            2.49             1.49                                     
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+amalgedu pack #2                                                                
+                                                                                
+able                                                                            
+Able, national applications continue so in a times. Sincerely unable plants go. 
+Notoriously recent mice must say just certain cheerful stocks. B                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      8.73            3.24             1.91                                     
+importoedu pack #2                                                              
+                                                                                
+able                                                                            
+Able, notable guidelines see. Away visual structures may not lead previous, hi  
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+     10.64               6             4.02                                     
+importocorp #2                                                                  
+                                                                                
+able                                                                            
+Able, other influences would lose. Forms take now. Old, average soldiers must no
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+t know far, whole schemes. Regulations cause hence important patients. Films sho
+uld discover more minor, great re                                               
+      6.15            1.21             3.78                                     
+edu packamalg #2                                                                
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+Able, other influences would lose. Forms take now. Old, average soldiers must no
+t know far, whole schemes. Regulations cause hence important patients. Films sho
+uld discover more minor, great re                                               
+      6.99            1.21             3.78                                     
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+edu packamalg #2                                                                
+                                                                                
+able                                                                            
+Able, other politicians get either institutions; for example busy equations supp
+ly ever old banks; soviet, right books could not reply thanks to the roads. Old 
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+limits                                                                          
+         0            9.79             3.56                                     
+exportiedu pack #2                                                              
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able, other techniques must find; studies may push up front old variations. Leve
+l                                                                               
+      1.71            2.93             1.55                                     
+scholarbrand #8                                                                 
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+Able, other trusts hand so just other responses. Practical systems would vote hu
+ge dimensions. Sad, excellent sales might not hurt. Other, impo                 
+       .75            5.21             3.59                                     
+importoamalg #2                                                                 
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+                                                                                
+able                                                                            
+Able, previous boys tell much to a lessons. Financial women would write generall
+y days. Lives aim by a obligations; fair, independent homes would try days. Nati
+onal times take either as a business                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      6.63            6.54             3.23                                     
+importoamalgamalg #1                                                            
+                                                                                
+able                                                                            
+Able, remote documents shall claim however long reservations. Actually political
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+ miles marr                                                                     
+      8.99           40.08            29.65                                     
+importoexporti #2                                                               
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Able, standard budgets purchase children; terms stop hard cities. Deposits could
+ avoid in a ladies. Principles defle                                            
+      4.37           95.98            74.86                                     
+importonameless #10                                                             
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+Able, true ways tell else on the sheets. Modern, early years will care considera
+bly in addition financial cars. Like problems pick so sexual bu                 
+         0           43.92            15.81                                     
+corpnameless #10                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+                                                                                
+able                                                                            
+Able, ultimate walls would trace only. Massive positions stop all right military
+ votes. Things assume newly in the minutes. Apparent police c                   
+      7.85           55.29            21.01                                     
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+amalgmaxi #12                                                                   
+                                                                                
+able                                                                            
+Able, victorian problems may not distort again turkish girls. About semant      
+      3.81            9.89             6.92                                     
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+amalgimporto #2                                                                 
+                                                                                
+able                                                                            
+About aggressive christians shall not discuss clear fears. Mild, early teachers 
+educate big variables. Respectively main services move never days; local, necess
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+ary firms must fetch al                                                         
+      9.81            4.66             3.18                                     
+amalgnameless #10                                                               
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+About aggressive christians shall not discuss clear fears. Mild, early teachers 
+educate big variables. Respectively main services move never days; local, necess
+ary firms must fetch al                                                         
+      9.09            4.66             3.18                                     
+amalgnameless #10                                                               
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+                                                                                
+able                                                                            
+About black friends make as really productive characteristics. Here main c      
+      9.01            4.18             2.54                                     
+exportiimporto #2                                                               
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+                                                                                
+able                                                                            
+About competitive members could not screen; however free performances could not 
+give here in the studies; soft laws deal plans. Bodies complete all right fem   
+      5.33            8.76             5.51                                     
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+amalgexporti #2                                                                 
+                                                                                
+able                                                                            
+About dangerous car                                                             
+      5.09            4.33             1.51                                     
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+edu packmaxi #6                                                                 
+                                                                                
+able                                                                            
+About distinctive males choose more so private trousers. Small names will not at
+tack activities. Economic ope                                                   
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      9.29            6.17              .27                                     
+corpnameless #8                                                                 
+                                                                                
+able                                                                            
+About estimated shapes used to come. Areas would repeat in a deg                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      5.22               7             5.84                                     
+importoimporto #2                                                               
+                                                                                
+able                                                                            
+About interesting attitudes try. Home likely categories pull from a papers. As m
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+onetary                                                                         
+     11.15            2.28             1.07                                     
+maxicorp #6                                                                     
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+About lacking months shall develop so as troo                                   
+      9.28            1.81             1.24                                     
+importoimporto #2                                                               
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+About lacking months shall develop so as troo                                   
+      9.84            1.81             1.24                                     
+importoimporto #2                                                               
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+About likely projects could recognise. Stupid payments want also limits; other i
+nstitutions need at the police. Serious, bad children may entertain             
+      1.32            5.07             3.24                                     
+exportiimporto #2                                                               
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+About long examples check; papers might happen long experts. Usually primary fig
+ures shall become. Clothes take possible legs; musical rates indicate further. A
+ware stars woul                                                                 
+      4.66             3.4             2.78                                     
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+exportiimporto #2                                                               
+                                                                                
+able                                                                            
+About negative observations cannot preserve other branches. Communities would fi
+nd then e                                                                       
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      5.13             .52              .19                                     
+amalgedu pack #2                                                                
+                                                                                
+able                                                                            
+About other levels should proceed certainly fine, severe facts.                 
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      1.11            3.78             2.98                                     
+univbrand #6                                                                    
+                                                                                
+able                                                                            
+About remarkable f                                                              
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      5.66            2.48              1.9                                     
+edu packscholar #2                                                              
+                                                                                
+able                                                                            
+About significant properties should work now far sizes. Fees could sit yet inche
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+s. Passengers expect too by a eyes.                                             
+      2.97            4.28             1.25                                     
+exportiexporti #2                                                               
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+About social experiments open genuinely with the activities. Wonderful cases mig
+ht                                                                              
+      8.62             3.2              .51                                     
+amalgnameless #8                                                                
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+About total honours carry now never emotio                                      
+      1.94             .76             2.95                                     
+exportimaxi #4                                                                  
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+About traditi                                                                   
+      2.09             .82              .65                                     
+scholarunivamalg #5                                                             
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+About traditional pensions bowl deaths. Only, international chains build more to
+ the posts. Young, h                                                            
+      3.63            88.4            76.02                                     
+amalgimporto #2                                                                 
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+                                                                                
+able                                                                            
+About ugly walls could fit; essential, pink pounds link only. Thus back interest
+s act over enormous, serious concentrations. Other degrees show standard, social
+ techniques. Physic                                                             
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      5.27             .37              .12                                     
+namelessbrand #8                                                                
+                                                                                
+able                                                                            
+About upper contributions use necessary, new states. Toxic, wet pol             
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+       4.1            2.85             2.56                                     
+univmaxi #2                                                                     
+                                                                                
+able                                                                            
+Above basic papers hang hot                                                     
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      5.34            9.97             6.67                                     
+brandunivamalg #6                                                               
+                                                                                
+able                                                                            
+Above capital units vary then both senior recordings.                           
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      7.23            1.47              .52                                     
+edu packscholar #2                                                              
+                                                                                
+able                                                                            
+Above late suggestions resist then individual deals. Shortly black things enjoy 
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+for a hands. Bodies see all rig                                                 
+      3.12            5.51              3.8                                     
+amalgscholar #2                                                                 
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Above late suggestions resist then individual deals. Shortly black things enjoy 
+for a hands. Bodies see all rig                                                 
+      8.81            5.51              3.8                                     
+amalgscholar #2                                                                 
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+Above late suggestions resist then individual deals. Shortly black things enjoy 
+for a hands. Bodies see all rig                                                 
+      6.97            5.51              3.8                                     
+amalgscholar #2                                                                 
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+                                                                                
+able                                                                            
+Above lips ought to take years. Sensitive concepts form also international ch   
+      7.11             .31              .36                                     
+exportimaxi #10                                                                 
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+                                                                                
+able                                                                            
+Above little hills might suggest more great significant qualifications. Drawings
+ would not come again at least chief effects. Real, legal elements indicate twic
+e unexpected, ultimate mem                                                      
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      5.15             8.9             7.74                                     
+maxibrand #2                                                                    
+                                                                                
+able                                                                            
+Above local forces shall not delight generally away equal requests. Senior words
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+ shall go more. Designer                                                        
+         0            4.96             4.06                                     
+amalgamalg #2                                                                   
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Above local inhabitants can take. Women harbour slightly with the children. Far 
+new tasks promote under a children. Furious members specify thus new risks. Red 
+looks cannot find quick                                                         
+         0           94.48            69.91                                     
+importounivamalg #17                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+                                                                                
+able                                                                            
+Above long problems ought to weaken sharply civil primitive youngsters. Differen
+t, british terms cause large, economic words. Users comment well residential, ce
+ntral reasons. Che                                                              
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      3.83            8.23             2.79                                     
+scholarmaxi #8                                                                  
+                                                                                
+able                                                                            
+Above male hands ought to come important, possible players. Serious, great polic
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+e join just ago inadequate we                                                   
+      2.51             8.5             1.31                                     
+edu packscholar #2                                                              
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Above refugees say necessarily academic, strong things. Italian nerves will not 
+move long often green wor                                                       
+       3.1            6.89             1.38                                     
+brandnameless #2                                                                
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+Above refugees say necessarily academic, strong things. Italian nerves will not 
+move long often green wor                                                       
+      2.12            6.89             1.38                                     
+brandnameless #2                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+                                                                                
+able                                                                            
+Above small officers read at a effects. Possible, great minutes make future dema
+nds. Only educational governments could not work special difficulti             
+      9.71            76.9            30.76                                     
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+importoedu pack #2                                                              
+                                                                                
+able                                                                            
+Above social cars will not try actual, good babies. Daily, environmental lawyers
+ create about however light cards. High, dead governments say completely central
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+ police.                                                                        
+     10.79             2.1             1.47                                     
+exportimaxi #8                                                                  
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Above social cars will not try actual, good babies. Daily, environmental lawyers
+ create about however light cards. High, dead governments say completely central
+ police.                                                                        
+      9.68             2.1             1.47                                     
+exportimaxi #8                                                                  
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+                                                                                
+able                                                                            
+Above, public weeks happen nevertheless whole deta                              
+         0            2.96             1.83                                     
+amalgexporti #2                                                                 
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+                                                                                
+able                                                                            
+Abroad important emissions could make. Below strong sites might not find agricul
+tural, early topics. Sets will continue now industrial, academic sides. Sides mu
+st face in                                                                      
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      9.69              .1             5.15                                     
+amalgmaxi #4                                                                    
+                                                                                
+able                                                                            
+Abroad public sides may dismantle much trees; early objections shall no         
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+     10.13             9.8             3.23                                     
+importoedu pack #2                                                              
+                                                                                
+able                                                                            
+Abroad redund                                                                   
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      5.29           30.04             1.15                                     
+importobrand #10                                                                
+                                                                                
+able                                                                            
+Abroad relative streets buy small, similar persons. Police add earlier much publ
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+ic meetings.                                                                    
+      3.83            4.35             2.95                                     
+exportimaxi #8                                                                  
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Abroad sexual vegetables must think simply at a goods; little, planned scientist
+s watch easy environmental, other goods. L                                      
+      8.33            6.52             3.97                                     
+maximaxi #2                                                                     
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+Abroad single stories intend. Windows might keep words. Days should not feel als
+o future facilities. Physical defences think powerful w                         
+      6.35            4.83             3.62                                     
+amalgnameless #10                                                               
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+                                                                                
+able                                                                            
+Abroad successful students submit. Previous, spanish questions must run responsi
+ble alternatives; merely simple directors must see commercial, good purposes. Ex
+perienced m                                                                     
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+      6.56            4.74             3.22                                     
+edu packscholar #2                                                              
+                                                                                
+able                                                                            
+Abroad terrible cigarettes broaden only pink years. Cells add less members. Wide
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+, new mount                                                                     
+     11.02            3.06              .97                                     
+exportischolar #2                                                               
+                                                                                
+able                                                                            
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+Abroad terrible cigarettes broaden only pink years. Cells add less members. Wide
+, new mount                                                                     
+      7.77            3.06              .97                                     
+exportischolar #2                                                               
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+Abroad unlike animals provide scarcely with a ma                                
+       .75             .71              .21                                     
+corpunivamalg #4                                                                
+                                                                                
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+able                                                                            
+Absent, proper rooms walk both really existing reports. Interesting, possible su
+bsidies help directly throughout a theories. Techniques notice at all on a days.
+ P                                                                              
+      4.94              .4             5.56                                     
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+importoimporto #2                                                               
+                                                                                
+able                                                                            
+Absent, white states keep now among a words. Able                               
+      5.09            3.29             2.69                                     
+
+S_STORE_NAME                                                                    
+--------------------------------------------------                              
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+   REVENUE I_CURRENT_PRICE I_WHOLESALE_COST                                     
+---------- --------------- ----------------                                     
+I_BRAND                                                                         
+--------------------------------------------------                              
+exportinameless #2                                                              
+                                                                                
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:31.46

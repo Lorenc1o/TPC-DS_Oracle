@@ -1,0 +1,14 @@
+
+no rows selected
+
+
+C_LAST_NAME                    C_FIRST_NAME                                     
+------------------------------ --------------------                             
+S_STORE_NAME                                             PAID                   
+-------------------------------------------------- ----------                   
+Lanier                         Jennifer                                         
+able                                                    11.51                   
+                                                                                
+
+timing for: t
+Elapsed: 00:02:17.06

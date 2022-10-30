@@ -1,0 +1,387 @@
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+AAAAAAAAACJMAAAA                                                                
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+Precise, good consume                                                           
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+TN                         1                      79                            
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+                                                  1                        32   
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+                                                                                
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+                          1                        14                           
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+                                                                                
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+                                                                                
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+AAAAAAAAEPADAAAA                                                                
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+Old, informal hours need excellent boards. G                                    
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+TN                         1                      91                            
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+                                                  1                        38   
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+                                                                                
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+                          1                        34                           
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+                                                                                
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+                                                                                
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+AAAAAAAAGEFHAAAA                                                                
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+Other, true eyes come desperately clear fri                                     
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+SD                         1                      39                            
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+                                                  1                        19   
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+                                                                                
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+                          1                        22                           
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+                                                                                
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_ STORE_SALES_QUANTITYCOUNT STORE_SALES_QUANTITYAVE STORE_SALES_QUANTITYSTDEV  
+-- ------------------------- ----------------------- -------------------------  
+STORE_SALES_QUANTITYCOV STORE_RETURNS_QUANTITYCOUNT STORE_RETURNS_QUANTITYAVE   
+----------------------- --------------------------- -------------------------   
+STORE_RETURNS_QUANTITYSTDEV STORE_RETURNS_QUANTITYCOV                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYCOUNT CATALOG_SALES_QUANTITYAVE                           
+--------------------------- -------------------------                           
+CATALOG_SALES_QUANTITYSTDEV CATALOG_SALES_QUANTITYCOV                           
+--------------------------- -------------------------                           
+                                                                                
+
+timing for: t
+Elapsed: 00:00:06.48

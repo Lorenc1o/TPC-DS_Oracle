@@ -1,0 +1,7 @@
+
+SUM(SS_QUANTITY)                                                                
+----------------                                                                
+          153867                                                                
+
+timing for: t
+Elapsed: 00:00:28.40

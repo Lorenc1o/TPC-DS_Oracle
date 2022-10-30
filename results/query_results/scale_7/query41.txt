@@ -1,0 +1,19 @@
+
+I_PRODUCT_NAME                                                                  
+--------------------------------------------------                              
+ableeseantieingable                                                             
+antioughtprin stpri                                                             
+ationablen stoughtation                                                         
+ationeingeingantiable                                                           
+eseantiationbaranti                                                             
+n stcallyationeseese                                                            
+oughtableable                                                                   
+oughtationablepriese                                                            
+oughtbarationableable                                                           
+oughtoughtoughtable                                                             
+pripriationeingcally                                                            
+
+11 rows selected.
+
+timing for: t
+Elapsed: 00:00:00.08

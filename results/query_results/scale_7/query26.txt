@@ -1,0 +1,135 @@
+
+I_ITEM_ID              AGG1       AGG2       AGG3       AGG4                    
+---------------- ---------- ---------- ---------- ----------                    
+AAAAAAAAAAABAAAA       69.5     153.53          0     124.43                    
+AAAAAAAAAAABBAAA       48.5     74.125          0     66.725                    
+AAAAAAAAAAACAAAA         49     163.28          0      45.71                    
+AAAAAAAAAAAHAAAA         20     126.05          0       12.6                    
+AAAAAAAAAAAIAAAA         80     119.03          0       35.7                    
+AAAAAAAAAAALAAAA         48     84.994          0     40.204                    
+AAAAAAAAAABAAAAA         57     68.925     630.86     29.525                    
+AAAAAAAAAABBAAAA       36.5     197.25    807.975      76.32                    
+AAAAAAAAAABEAAAA         94     220.27          0     121.14                    
+AAAAAAAAAABGAAAA       85.4     75.176     1364.4     65.318                    
+AAAAAAAAAABHAAAA         20       2.53          0       1.41                    
+
+I_ITEM_ID              AGG1       AGG2       AGG3       AGG4                    
+---------------- ---------- ---------- ---------- ----------                    
+AAAAAAAAAABJAAAA         47      71.48          0 41.4333333                    
+AAAAAAAAAABKAAAA         24      12.45       5.95        .62                    
+AAAAAAAAAACDAAAA         21      42.06          0       2.94                    
+AAAAAAAAAACFAAAA         83     126.93          0    108.715                    
+AAAAAAAAAACGAAAA         34     240.28      13.88      40.84                    
+AAAAAAAAAACIAAAA         83     132.38          0      76.78                    
+AAAAAAAAAACLAAAA         90      34.82     184.86      20.54                    
+AAAAAAAAAACOAAAA         21     114.51          0     107.63                    
+AAAAAAAAAACPAAAA         57     265.58          0     188.56                    
+AAAAAAAAAADBBAAA         67     189.37          0      41.66                    
+AAAAAAAAAADEAAAA       66.5      88.33     238.39       24.6                    
+
+I_ITEM_ID              AGG1       AGG2       AGG3       AGG4                    
+---------------- ---------- ---------- ---------- ----------                    
+AAAAAAAAAADFAAAA         40     104.82          0     103.77                    
+AAAAAAAAAADIAAAA         66     201.26          0       8.95                    
+AAAAAAAAAADNAAAA         55      37.15          0       5.57                    
+AAAAAAAAAAEAAAAA         53      210.3          0        6.3                    
+AAAAAAAAAAEABAAA         37     191.82          0      57.54                    
+AAAAAAAAAAEDAAAA         21      22.55          0      18.94                    
+AAAAAAAAAAEEAAAA         11      72.75          0      35.64                    
+AAAAAAAAAAEMAAAA         54     143.99          0     122.39                    
+AAAAAAAAAAENAAAA       31.5     90.895          0      22.92                    
+AAAAAAAAAAFAAAAA       68.5     143.36          0    115.095                    
+AAAAAAAAAAFBBAAA         67     105.22          0       74.7                    
+
+I_ITEM_ID              AGG1       AGG2       AGG3       AGG4                    
+---------------- ---------- ---------- ---------- ----------                    
+AAAAAAAAAAFDAAAA         51    115.145     10.765     52.655                    
+AAAAAAAAAAFFAAAA         65     93.805    248.235      48.44                    
+AAAAAAAAAAFIAAAA         70      69.36    1148.01      38.14                    
+AAAAAAAAAAFLAAAA         56 107.226667          0 74.5633333                    
+AAAAAAAAAAFMAAAA          6      18.82          0       8.09                    
+AAAAAAAAAAFOAAAA 27.6666667 126.033333          0 83.6533333                    
+AAAAAAAAAAGBAAAA         92      55.74          0      10.03                    
+AAAAAAAAAAGCAAAA         33     123.16          0      94.83                    
+AAAAAAAAAAGEAAAA         12      79.16          0      42.74                    
+AAAAAAAAAAGIAAAA         20     152.97          0     140.73                    
+AAAAAAAAAAHABAAA         86     48.235    578.055     16.215                    
+
+I_ITEM_ID              AGG1       AGG2       AGG3       AGG4                    
+---------------- ---------- ---------- ---------- ----------                    
+AAAAAAAAAAHDAAAA       33.5      92.33    2250.39      66.07                    
+AAAAAAAAAAHGAAAA       25.5      42.96     136.94     21.925                    
+AAAAAAAAAAHJAAAA         25      81.62          0      70.19                    
+AAAAAAAAAAHKAAAA         47      95.24     398.22       9.52                    
+AAAAAAAAAAHNAAAA          9     114.64          0      80.24                    
+AAAAAAAAAAHPAAAA         11      81.95    309.665      36.65                    
+AAAAAAAAAAIBBAAA         57     196.87          0     102.74                    
+AAAAAAAAAAICAAAA         39      50.65          0      46.59                    
+AAAAAAAAAAIIAAAA          3     119.53          0     113.55                    
+AAAAAAAAAAIJAAAA         40      18.38          0      14.33                    
+AAAAAAAAAAIOAAAA 27.3333333 70.2566667    1604.47 50.6666667                    
+
+I_ITEM_ID              AGG1       AGG2       AGG3       AGG4                    
+---------------- ---------- ---------- ---------- ----------                    
+AAAAAAAAAAIPAAAA         21      95.45          0      93.54                    
+AAAAAAAAAAJABAAA       86.5     49.905          0      38.59                    
+AAAAAAAAAAJBAAAA         41     208.15          0      112.4                    
+AAAAAAAAAAJCAAAA       10.5      47.07          0      20.34                    
+AAAAAAAAAAJFAAAA         88     132.73     3552.8      51.76                    
+AAAAAAAAAAJHAAAA         28      16.45          0       6.58                    
+AAAAAAAAAAJLAAAA         60      18.31      74.49       1.28                    
+AAAAAAAAAAKABAAA         45      76.98    2856.12      74.67                    
+AAAAAAAAAAKBAAAA         30     207.09          0     101.47                    
+AAAAAAAAAAKDAAAA         98      32.76          0      13.75                    
+AAAAAAAAAAKEAAAA         10      40.44          0      10.91                    
+
+I_ITEM_ID              AGG1       AGG2       AGG3       AGG4                    
+---------------- ---------- ---------- ---------- ----------                    
+AAAAAAAAAAKKAAAA         74      21.59          0       8.85                    
+AAAAAAAAAAKNAAAA         16      21.87          0      12.46                    
+AAAAAAAAAAKPAAAA          8      17.69          0      17.33                    
+AAAAAAAAAALDAAAA         54     144.42          0      46.21                    
+AAAAAAAAAALIAAAA          2       85.4      31.08      59.78                    
+AAAAAAAAAALLAAAA       38.5    127.625    636.315     24.535                    
+AAAAAAAAAALMAAAA       42.5     56.215      26.73      7.755                    
+AAAAAAAAAALOAAAA          2     151.46      54.46       93.9                    
+AAAAAAAAAAMABAAA         90     171.15     172.51      23.96                    
+AAAAAAAAAAMBAAAA         11       4.81      13.06       2.64                    
+AAAAAAAAAAMBBAAA       55.5     151.85          0      85.16                    
+
+I_ITEM_ID              AGG1       AGG2       AGG3       AGG4                    
+---------------- ---------- ---------- ---------- ----------                    
+AAAAAAAAAAMEAAAA         13      37.74          0        .75                    
+AAAAAAAAAAMKAAAA         59     141.19          0      66.35                    
+AAAAAAAAAAMLAAAA          1      82.64          0      39.66                    
+AAAAAAAAAAMNAAAA         35       8.59          0       4.86                    
+AAAAAAAAAAMOAAAA         97     147.33          0      54.51                    
+AAAAAAAAAANAAAAA 63.6666667 117.496667          0 81.5233333                    
+AAAAAAAAAANABAAA         40     112.13          0      15.69                    
+AAAAAAAAAANBAAAA        5.5    176.245      48.82    107.455                    
+AAAAAAAAAANDAAAA          7      97.54          0      47.79                    
+AAAAAAAAAANEAAAA       56.5      63.74          0     44.505                    
+AAAAAAAAAANPAAAA         33    189.945          0       82.2                    
+
+I_ITEM_ID              AGG1       AGG2       AGG3       AGG4                    
+---------------- ---------- ---------- ---------- ----------                    
+AAAAAAAAAAOAAAAA         21     149.36          0     104.55                    
+AAAAAAAAAAOBBAAA       70.5    132.135          0     47.155                    
+AAAAAAAAAAOCAAAA         30      66.16          0      36.28                    
+AAAAAAAAAAOFAAAA          7      76.59          0       62.8                    
+AAAAAAAAAAOGAAAA         38       6.14          0        .61                    
+AAAAAAAAAAOJAAAA         48      46.69          0      42.48                    
+AAAAAAAAAAOLAAAA         31     128.82          0     104.34                    
+AAAAAAAAAAOMAAAA        6.5     243.61      869.7    229.685                    
+AAAAAAAAAAPABAAA         45     279.87     965.88      36.38                    
+AAAAAAAAAAPBAAAA       67.5      82.78          0      68.43                    
+AAAAAAAAAAPCAAAA         54     85.835          0      71.88                    
+
+I_ITEM_ID              AGG1       AGG2       AGG3       AGG4                    
+---------------- ---------- ---------- ---------- ----------                    
+AAAAAAAAAAPEAAAA         99     137.42          0       1.37                    
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:13.09

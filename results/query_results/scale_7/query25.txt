@@ -1,0 +1,17 @@
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+S_STORE_ID       S_STORE_NAME                                                   
+---------------- --------------------------------------------------             
+STORE_SALES_PROFIT STORE_RETURNS_LOSS CATALOG_SALES_PROFIT                      
+------------------ ------------------ --------------------                      
+AAAAAAAAPHIBAAAA                                                                
+Suddenly toxic trials indicate tender, light shares.                            
+AAAAAAAADBAAAAAA n st                                                           
+           -425.04             637.49             -1185.66                      
+                                                                                
+
+timing for: t
+Elapsed: 00:03:03.33

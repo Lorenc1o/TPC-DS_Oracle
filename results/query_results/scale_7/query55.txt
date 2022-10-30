@@ -1,0 +1,135 @@
+
+  BRAND_ID BRAND                                               EXT_PRICE        
+---------- -------------------------------------------------- ----------        
+   5004002 edu packscholar #2                                  269747.05        
+   2004002 edu packimporto #2                                  269134.69        
+   4003002 exportiedu pack #2                                  251473.73        
+   2001002 amalgimporto #2                                     246833.21        
+   4004002 edu packedu pack #2                                 227453.64        
+   2002002 importoimporto #2                                   203377.93        
+   3003002 exportiexporti #2                                    181140.9        
+   3004002 edu packexporti #2                                  169024.77        
+   5003002 exportischolar #2                                   159432.05        
+   1001002 amalgamalg #2                                       148967.69        
+   1004002 edu packamalg #2                                    144306.51        
+
+  BRAND_ID BRAND                                               EXT_PRICE        
+---------- -------------------------------------------------- ----------        
+   1003002 exportiamalg #2                                      136446.5        
+   5001002 amalgscholar #2                                      127703.2        
+   5002002 importoscholar #2                                   118340.39        
+   4002002 importoedu pack #2                                  114541.08        
+   3002002 importoexporti #2                                   114283.08        
+   2003002 exportiimporto #2                                   103707.24        
+   1002002 importoamalg #2                                      98981.68        
+   8011006 amalgmaxi #6                                         94740.74        
+   4001002 amalgedu pack #2                                     90359.61        
+   8008004 namelessnameless #4                                  88051.59        
+   6010006 univbrand #6                                         83036.89        
+
+  BRAND_ID BRAND                                               EXT_PRICE        
+---------- -------------------------------------------------- ----------        
+   6015006 scholarbrand #6                                      76705.43        
+  10013016 exportiamalgamalg #16                                75072.28        
+   5004001 scholarcorp #4                                       72652.37        
+   3001002 amalgexporti #2                                      72385.06        
+   5001001 amalgimporto #2                                      72343.08        
+   5002001 amalgexporti #2                                      68022.35        
+   3001001 amalgexporti #2                                      67492.76        
+   9013011 exportischolar #2                                    66006.49        
+   8013002 exportimaxi #2                                       65325.86        
+   9016012 corpunivamalg #12                                    61938.86        
+   9003009 edu packamalg #2                                     60639.92        
+
+  BRAND_ID BRAND                                               EXT_PRICE        
+---------- -------------------------------------------------- ----------        
+   6015004 scholarbrand #4                                      60346.76        
+   7006008 corpbrand #8                                         59994.96        
+                                                                58722.24        
+   2003001 edu packimporto #2                                   57576.93        
+  10004013 edu packunivamalg #13                                55828.33        
+   4003001 exportiimporto #2                                    53049.83        
+   3004001 exportiedu pack #2                                   52371.05        
+   8008006 namelessnameless #6                                  52223.94        
+   9002011 edu packamalg #2                                     52168.18        
+   7009001 amalgedu pack #2                                     52006.59        
+   4002001 corpamalgamalg #11                                   51930.53        
+
+  BRAND_ID BRAND                                               EXT_PRICE        
+---------- -------------------------------------------------- ----------        
+   6013004 exportibrand #4                                       51671.7        
+   8015007 exportiamalg #2                                      51613.19        
+   5004001 scholarbrand #8                                      51239.59        
+   3001001 amalgamalgamalg #15                                  50660.59        
+   7011004 amalgnameless #4                                     50447.26        
+  10008004 edu packedu pack #2                                   50265.7        
+   8010006 univmaxi #6                                          50121.12        
+   5004001 edu packamalg #2                                     50103.85        
+  10008003 namelessunivamalg #3                                 49921.35        
+   7010004 univnameless #4                                      49461.11        
+   9015011 importoscholar #2                                    49339.61        
+
+  BRAND_ID BRAND                                               EXT_PRICE        
+---------- -------------------------------------------------- ----------        
+   2004001 importoimporto #2                                    48511.05        
+   2002001 edu packamalg #2                                     48147.17        
+   7014002 edu packnameless #2                                  47545.18        
+   8001010 amalgnameless #10                                    47486.66        
+  10006011 corpunivamalg #11                                     47233.6        
+   7012004 importonameless #4                                   47148.35        
+   6014008 edu packbrand #8                                     46876.61        
+   7014009 scholarbrand #10                                      46352.1        
+   3002001 importomaxi #10                                      46348.26        
+   8012006 importomaxi #6                                       45996.57        
+   8005007 exportischolar #2                                    45833.64        
+
+  BRAND_ID BRAND                                               EXT_PRICE        
+---------- -------------------------------------------------- ----------        
+   6008006 namelesscorp #6                                      45697.88        
+   7014010 edu packnameless #10                                 45354.55        
+   9011012 amalgunivamalg #12                                   45295.31        
+  10007003 scholarbrand #6                                      45189.31        
+   6001002 amalgcorp #2                                         44954.16        
+   1002001 amalgnameless #2                                     44555.62        
+   7002006 importobrand #6                                      44473.66        
+  10001014 amalgunivamalg #14                                   44278.78        
+   2002001 scholarbrand #4                                      43889.27        
+  10008010 brandmaxi #6                                         43014.83        
+   8015005 edu packunivamalg #4                                 42763.72        
+
+  BRAND_ID BRAND                                               EXT_PRICE        
+---------- -------------------------------------------------- ----------        
+   6004004 edu packcorp #4                                       42537.3        
+   6014004 edu packbrand #4                                     42503.14        
+   9004002 edu packmaxi #2                                       42118.1        
+   7004005 scholarmaxi #10                                      42054.22        
+   6008003 importoedu pack #2                                    41962.4        
+   8010002 univmaxi #2                                           41823.3        
+   2001001 amalgbrand #2                                        41377.61        
+  10006004 importonameless #10                                  41037.27        
+  10014008 edu packamalgamalg #8                                 41000.4        
+   6015007 scholarunivamalg #16                                 40549.13        
+   5003001 univunivamalg #4                                     40529.56        
+
+  BRAND_ID BRAND                                               EXT_PRICE        
+---------- -------------------------------------------------- ----------        
+   3002001 exportiexporti #2                                    40331.56        
+  10009004 edu packamalg #2                                     40269.07        
+   7014008 edu packnameless #8                                  40262.66        
+   1004001 edu packexporti #2                                   39452.28        
+   9005012 scholarmaxi #12                                      39285.31        
+  10005006 scholarunivamalg #6                                  39110.91        
+   3001001 edu packscholar #2                                   38878.38        
+   6003008 exporticorp #8                                       38816.19        
+  10007011 brandunivamalg #11                                   38661.06        
+   8006003 edu packimporto #2                                   38509.34        
+   7003006 exportibrand #6                                      38481.17        
+
+  BRAND_ID BRAND                                               EXT_PRICE        
+---------- -------------------------------------------------- ----------        
+   7007002 brandbrand #2                                        38416.64        
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:04.16

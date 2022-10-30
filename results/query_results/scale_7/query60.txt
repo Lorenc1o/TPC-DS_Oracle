@@ -1,0 +1,135 @@
+
+I_ITEM_ID        TOTAL_SALES                                                    
+---------------- -----------                                                    
+AAAAAAAAAAAABAAA    32111.53                                                    
+AAAAAAAAAAAHAAAA    22706.08                                                    
+AAAAAAAAAAANAAAA    10872.95                                                    
+AAAAAAAAAAAOAAAA    22478.94                                                    
+AAAAAAAAAABAAAAA    19289.47                                                    
+AAAAAAAAAACOAAAA    16527.99                                                    
+AAAAAAAAAADFAAAA     25270.4                                                    
+AAAAAAAAAAEABAAA    22446.78                                                    
+AAAAAAAAAAEMAAAA    12481.24                                                    
+AAAAAAAAAAENAAAA    14283.18                                                    
+AAAAAAAAAAEPAAAA    21433.32                                                    
+
+I_ITEM_ID        TOTAL_SALES                                                    
+---------------- -----------                                                    
+AAAAAAAAAAFAAAAA    16497.99                                                    
+AAAAAAAAAAFCAAAA    23445.65                                                    
+AAAAAAAAAAFPAAAA    13143.25                                                    
+AAAAAAAAAAGEAAAA    20579.13                                                    
+AAAAAAAAAAGLAAAA    17670.87                                                    
+AAAAAAAAAAIAAAAA    24357.94                                                    
+AAAAAAAAAAIIAAAA     27849.2                                                    
+AAAAAAAAAAJABAAA    29575.01                                                    
+AAAAAAAAAAJBAAAA      7243.8                                                    
+AAAAAAAAAAJCAAAA    22627.88                                                    
+AAAAAAAAAAKKAAAA     5755.33                                                    
+
+I_ITEM_ID        TOTAL_SALES                                                    
+---------------- -----------                                                    
+AAAAAAAAAAKNAAAA     9603.99                                                    
+AAAAAAAAAALBBAAA     4207.34                                                    
+AAAAAAAAAALIAAAA    35460.25                                                    
+AAAAAAAAAALOAAAA     6995.29                                                    
+AAAAAAAAAAMBAAAA    34353.38                                                    
+AAAAAAAAAAMIAAAA    44578.25                                                    
+AAAAAAAAAAMKAAAA     6099.14                                                    
+AAAAAAAAAAMNAAAA     27937.6                                                    
+AAAAAAAAAANAAAAA    15626.29                                                    
+AAAAAAAAAAOPAAAA    11536.76                                                    
+AAAAAAAAAAPBBAAA     4759.82                                                    
+
+I_ITEM_ID        TOTAL_SALES                                                    
+---------------- -----------                                                    
+AAAAAAAAAAPHAAAA    10718.09                                                    
+AAAAAAAAABADAAAA    14936.42                                                    
+AAAAAAAAABBGAAAA    25085.68                                                    
+AAAAAAAAABBIAAAA     7203.88                                                    
+AAAAAAAAABBLAAAA      9123.5                                                    
+AAAAAAAAABCABAAA    38699.23                                                    
+AAAAAAAAABCFAAAA    21198.88                                                    
+AAAAAAAAABCNAAAA      2891.4                                                    
+AAAAAAAAABCOAAAA     9207.95                                                    
+AAAAAAAAABDJAAAA    14989.47                                                    
+AAAAAAAAABDPAAAA    27609.34                                                    
+
+I_ITEM_ID        TOTAL_SALES                                                    
+---------------- -----------                                                    
+AAAAAAAAABEDAAAA    13069.77                                                    
+AAAAAAAAABELAAAA    14504.31                                                    
+AAAAAAAAABEMAAAA     5889.69                                                    
+AAAAAAAAABEOAAAA    27825.96                                                    
+AAAAAAAAABFEAAAA    25090.26                                                    
+AAAAAAAAABFNAAAA    15389.24                                                    
+AAAAAAAAABGBAAAA      8012.1                                                    
+AAAAAAAAABGJAAAA    27689.82                                                    
+AAAAAAAAABGKAAAA      2250.9                                                    
+AAAAAAAAABGNAAAA    13049.33                                                    
+AAAAAAAAABHBBAAA    22555.92                                                    
+
+I_ITEM_ID        TOTAL_SALES                                                    
+---------------- -----------                                                    
+AAAAAAAAABHMAAAA    28081.82                                                    
+AAAAAAAAABHOAAAA      1720.5                                                    
+AAAAAAAAABIBBAAA    12134.55                                                    
+AAAAAAAAABIIAAAA    13711.21                                                    
+AAAAAAAAABJGAAAA     9460.72                                                    
+AAAAAAAAABJPAAAA    21425.34                                                    
+AAAAAAAAABKGAAAA     11457.3                                                    
+AAAAAAAAABKIAAAA    14569.91                                                    
+AAAAAAAAABLBBAAA    16639.13                                                    
+AAAAAAAAABLCAAAA    19291.93                                                    
+AAAAAAAAABLLAAAA       22502                                                    
+
+I_ITEM_ID        TOTAL_SALES                                                    
+---------------- -----------                                                    
+AAAAAAAAABLNAAAA    12008.25                                                    
+AAAAAAAAABMAAAAA    14606.08                                                    
+AAAAAAAAABMKAAAA    24791.16                                                    
+AAAAAAAAABMMAAAA    11623.73                                                    
+AAAAAAAAABMNAAAA    19474.94                                                    
+AAAAAAAAABMPAAAA    34967.03                                                    
+AAAAAAAAABNBBAAA     7138.71                                                    
+AAAAAAAAABNCAAAA    17189.47                                                    
+AAAAAAAAABNFAAAA    17817.97                                                    
+AAAAAAAAABNIAAAA    25723.09                                                    
+AAAAAAAAABNMAAAA    12360.51                                                    
+
+I_ITEM_ID        TOTAL_SALES                                                    
+---------------- -----------                                                    
+AAAAAAAAABOBAAAA     6461.81                                                    
+AAAAAAAAABONAAAA    16048.53                                                    
+AAAAAAAAABPHAAAA      6200.3                                                    
+AAAAAAAAABPNAAAA    27473.23                                                    
+AAAAAAAAABPPAAAA    15651.87                                                    
+AAAAAAAAACAAAAAA    29800.01                                                    
+AAAAAAAAACABBAAA    24386.15                                                    
+AAAAAAAAACAIAAAA     17870.2                                                    
+AAAAAAAAACBKAAAA    19007.82                                                    
+AAAAAAAAACBOAAAA    31673.75                                                    
+AAAAAAAAACCAAAAA    12952.97                                                    
+
+I_ITEM_ID        TOTAL_SALES                                                    
+---------------- -----------                                                    
+AAAAAAAAACCABAAA    32759.92                                                    
+AAAAAAAAACCGAAAA     6575.84                                                    
+AAAAAAAAACDLAAAA     8331.83                                                    
+AAAAAAAAACEHAAAA    32903.03                                                    
+AAAAAAAAACEIAAAA    12384.86                                                    
+AAAAAAAAACELAAAA     18042.7                                                    
+AAAAAAAAACFABAAA     9409.05                                                    
+AAAAAAAAACFHAAAA    18105.03                                                    
+AAAAAAAAACFNAAAA    14698.53                                                    
+AAAAAAAAACGCAAAA     7882.45                                                    
+AAAAAAAAACGPAAAA    36034.74                                                    
+
+I_ITEM_ID        TOTAL_SALES                                                    
+---------------- -----------                                                    
+AAAAAAAAACHHAAAA    23174.54                                                    
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:07.34

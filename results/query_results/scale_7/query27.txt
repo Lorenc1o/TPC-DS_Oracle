@@ -1,0 +1,135 @@
+
+I_ITEM_ID        S_    G_STATE       AGG1       AGG2       AGG3       AGG4      
+---------------- -- ---------- ---------- ---------- ---------- ----------      
+AAAAAAAAAAABAAAA TN          0         74      30.03     563.83      28.22      
+AAAAAAAAAAABAAAA             1         74      30.03     563.83      28.22      
+AAAAAAAAAAACAAAA TN          0       30.5      64.76          0      58.28      
+AAAAAAAAAAACAAAA             1       30.5      64.76          0      58.28      
+AAAAAAAAAAAFAAAA TN          0          6     143.02          0      92.96      
+AAAAAAAAAAAFAAAA             1          6     143.02          0      92.96      
+AAAAAAAAAAALAAAA TN          0         87      61.81     198.41      25.34      
+AAAAAAAAAAALAAAA             1         87      61.81     198.41      25.34      
+AAAAAAAAAABBAAAA TN          0         19     136.31     653.37     118.58      
+AAAAAAAAAABBAAAA             1         19     136.31     653.37     118.58      
+AAAAAAAAAABDAAAA TN          0         54     106.53          0      39.41      
+
+I_ITEM_ID        S_    G_STATE       AGG1       AGG2       AGG3       AGG4      
+---------------- -- ---------- ---------- ---------- ---------- ----------      
+AAAAAAAAAABDAAAA             1         54     106.53          0      39.41      
+AAAAAAAAAABEAAAA TN          0         47      69.71          0       47.4      
+AAAAAAAAAABEAAAA             1         47      69.71          0       47.4      
+AAAAAAAAAABHAAAA TN          0         12      95.62          0          0      
+AAAAAAAAAABHAAAA             1         12      95.62          0          0      
+AAAAAAAAAABMAAAA TN          0         95     127.18          0      59.77      
+AAAAAAAAAABMAAAA             1         95     127.18          0      59.77      
+AAAAAAAAAABNAAAA TN          0         32      15.19          0      11.54      
+AAAAAAAAAABNAAAA             1         32      15.19          0      11.54      
+AAAAAAAAAACDAAAA TN          0         52      80.91          0      20.22      
+AAAAAAAAAACDAAAA             1         52      80.91          0      20.22      
+
+I_ITEM_ID        S_    G_STATE       AGG1       AGG2       AGG3       AGG4      
+---------------- -- ---------- ---------- ---------- ---------- ----------      
+AAAAAAAAAACFAAAA TN          0       52.5     52.815          0      36.32      
+AAAAAAAAAACFAAAA             1       52.5     52.815          0      36.32      
+AAAAAAAAAACGAAAA TN          0         85      92.96          0      27.88      
+AAAAAAAAAACGAAAA             1         85      92.96          0      27.88      
+AAAAAAAAAACIAAAA TN          0       25.5      74.83          0      17.93      
+AAAAAAAAAACIAAAA             1       25.5      74.83          0      17.93      
+AAAAAAAAAACJAAAA TN          0         12      75.34          0      52.73      
+AAAAAAAAAACJAAAA             1         12      75.34          0      52.73      
+AAAAAAAAAACLAAAA TN          0         74      73.59          0      69.17      
+AAAAAAAAAACLAAAA             1         74      73.59          0      69.17      
+AAAAAAAAAACOAAAA TN          0         89       19.5          0       5.65      
+
+I_ITEM_ID        S_    G_STATE       AGG1       AGG2       AGG3       AGG4      
+---------------- -- ---------- ---------- ---------- ---------- ----------      
+AAAAAAAAAACOAAAA             1         89       19.5          0       5.65      
+AAAAAAAAAADABAAA TN          0         48     130.96          0      72.02      
+AAAAAAAAAADABAAA             1         48     130.96          0      72.02      
+AAAAAAAAAADBAAAA TN          0         37      25.73          0       7.71      
+AAAAAAAAAADBAAAA             1         37      25.73          0       7.71      
+AAAAAAAAAADBBAAA TN          0         25      38.26     509.49      27.54      
+AAAAAAAAAADBBAAA             1         25      38.26     509.49      27.54      
+AAAAAAAAAADCAAAA TN          0         74     114.48          0     100.74      
+AAAAAAAAAADCAAAA             1         74     114.48          0     100.74      
+AAAAAAAAAADEAAAA TN          0         43      57.93     378.02      26.64      
+AAAAAAAAAADEAAAA             1         43      57.93     378.02      26.64      
+
+I_ITEM_ID        S_    G_STATE       AGG1       AGG2       AGG3       AGG4      
+---------------- -- ---------- ---------- ---------- ---------- ----------      
+AAAAAAAAAAEAAAAA TN          0         41      34.42     262.57      13.07      
+AAAAAAAAAAEAAAAA             1         41      34.42     262.57      13.07      
+AAAAAAAAAAEABAAA TN          0       42.5      14.72          0       9.18      
+AAAAAAAAAAEABAAA             1       42.5      14.72          0       9.18      
+AAAAAAAAAAEDAAAA TN          0         60     115.95          0       4.63      
+AAAAAAAAAAEDAAAA             1         60     115.95          0       4.63      
+AAAAAAAAAAEEAAAA TN          0         46      86.17          0      17.23      
+AAAAAAAAAAEEAAAA             1         46      86.17          0      17.23      
+AAAAAAAAAAEHAAAA TN          0         77     105.65          0       58.1      
+AAAAAAAAAAEHAAAA             1         77     105.65          0       58.1      
+AAAAAAAAAAEKAAAA TN          0         60      51.63   1914.505     35.105      
+
+I_ITEM_ID        S_    G_STATE       AGG1       AGG2       AGG3       AGG4      
+---------------- -- ---------- ---------- ---------- ---------- ----------      
+AAAAAAAAAAEKAAAA             1         60      51.63   1914.505     35.105      
+AAAAAAAAAAEMAAAA TN          0         65     125.26          0      71.39      
+AAAAAAAAAAEMAAAA             1         65     125.26          0      71.39      
+AAAAAAAAAAENAAAA TN          0         54      26.03          0      23.16      
+AAAAAAAAAAENAAAA             1         54      26.03          0      23.16      
+AAAAAAAAAAFBBAAA TN          0         73      31.68          0      25.97      
+AAAAAAAAAAFBBAAA             1         73      31.68          0      25.97      
+AAAAAAAAAAFJAAAA TN          0       65.5     56.355          0     48.555      
+AAAAAAAAAAFJAAAA             1       65.5     56.355          0     48.555      
+AAAAAAAAAAFMAAAA TN          0         94     131.85          0      67.24      
+AAAAAAAAAAFMAAAA             1         94     131.85          0      67.24      
+
+I_ITEM_ID        S_    G_STATE       AGG1       AGG2       AGG3       AGG4      
+---------------- -- ---------- ---------- ---------- ---------- ----------      
+AAAAAAAAAAFOAAAA TN          0         42     96.155    101.605     23.525      
+AAAAAAAAAAFOAAAA             1         42     96.155    101.605     23.525      
+AAAAAAAAAAFPAAAA TN          0         60    126.985    731.985      28.38      
+AAAAAAAAAAFPAAAA             1         60    126.985    731.985      28.38      
+AAAAAAAAAAGABAAA TN          0         37     116.78          0     66.705      
+AAAAAAAAAAGABAAA             1         37     116.78          0     66.705      
+AAAAAAAAAAGBAAAA TN          0       11.5      43.77          0     18.765      
+AAAAAAAAAAGBAAAA             1       11.5      43.77          0     18.765      
+AAAAAAAAAAGOAAAA TN          0       53.5      42.84      35.45      25.36      
+AAAAAAAAAAGOAAAA             1       53.5      42.84      35.45      25.36      
+AAAAAAAAAAHBAAAA TN          0         43      78.73          0     20.525      
+
+I_ITEM_ID        S_    G_STATE       AGG1       AGG2       AGG3       AGG4      
+---------------- -- ---------- ---------- ---------- ---------- ----------      
+AAAAAAAAAAHBAAAA             1         43      78.73          0     20.525      
+AAAAAAAAAAHGAAAA TN          0         61     29.835     214.18      9.225      
+AAAAAAAAAAHGAAAA             1         61     29.835     214.18      9.225      
+AAAAAAAAAAHHAAAA TN          0          9      65.87     166.87      21.07      
+AAAAAAAAAAHHAAAA             1          9      65.87     166.87      21.07      
+AAAAAAAAAAHJAAAA TN          0         31      85.38          0      36.71      
+AAAAAAAAAAHJAAAA             1         31      85.38          0      36.71      
+AAAAAAAAAAHMAAAA TN          0         68     123.68          0      90.28      
+AAAAAAAAAAHMAAAA             1         68     123.68          0      90.28      
+AAAAAAAAAAHNAAAA TN          0         47     134.48    2371.19       75.3      
+AAAAAAAAAAHNAAAA             1         47     134.48    2371.19       75.3      
+
+I_ITEM_ID        S_    G_STATE       AGG1       AGG2       AGG3       AGG4      
+---------------- -- ---------- ---------- ---------- ---------- ----------      
+AAAAAAAAAAHPAAAA TN          0         18      84.84          0      73.81      
+AAAAAAAAAAHPAAAA             1         18      84.84          0      73.81      
+AAAAAAAAAAICAAAA TN          0       58.5      48.23          0       33.2      
+AAAAAAAAAAICAAAA             1       58.5      48.23          0       33.2      
+AAAAAAAAAAIJAAAA TN          0         14       27.8      107.8         10      
+AAAAAAAAAAIJAAAA             1         14       27.8      107.8         10      
+AAAAAAAAAAIMAAAA TN          0         41     126.65          0      98.78      
+AAAAAAAAAAIMAAAA             1         41     126.65          0      98.78      
+AAAAAAAAAAIOAAAA TN          0         76      75.84          0      21.23      
+AAAAAAAAAAIOAAAA             1         76      75.84          0      21.23      
+AAAAAAAAAAJABAAA TN          0         92     29.055          0       5.85      
+
+I_ITEM_ID        S_    G_STATE       AGG1       AGG2       AGG3       AGG4      
+---------------- -- ---------- ---------- ---------- ---------- ----------      
+AAAAAAAAAAJABAAA             1         92     29.055          0       5.85      
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:03.76

@@ -1,0 +1,14 @@
+
+I_ITEM_ID                                                                       
+----------------                                                                
+I_ITEM_DESC                                                                     
+--------------------------------------------------------------------------------
+I_CURRENT_PRICE                                                                 
+---------------                                                                 
+AAAAAAAABGDPAAAA                                                                
+Statutory tests may not declare genuinely socia                                 
+           26.5                                                                 
+                                                                                
+
+timing for: t
+Elapsed: 00:00:00.11

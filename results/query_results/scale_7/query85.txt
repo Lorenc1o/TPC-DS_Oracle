@@ -1,0 +1,55 @@
+
+SUBSTR(R_REASON_DESC,1,20)                                                      
+--------------------------------------------------------------------------------
+AVG(WS_QUANTITY) AVG(WR_REFUNDED_CASH) AVG(WR_FEE)                              
+---------------- --------------------- -----------                              
+Does not work with a                                                            
+               9                 24.75       68.29                              
+                                                                                
+No service location                                                             
+               5                140.83       84.45                              
+                                                                                
+Not the product that                                                            
+              66               1635.04       31.56                              
+                                                                                
+
+SUBSTR(R_REASON_DESC,1,20)                                                      
+--------------------------------------------------------------------------------
+AVG(WS_QUANTITY) AVG(WR_REFUNDED_CASH) AVG(WR_FEE)                              
+---------------- --------------------- -----------                              
+Not working any more                                                            
+              10                   7.2       18.48                              
+                                                                                
+reason 24                                                                       
+              31                 50.21       95.17                              
+                                                                                
+reason 28                                                                       
+               2                203.44       59.28                              
+                                                                                
+
+SUBSTR(R_REASON_DESC,1,20)                                                      
+--------------------------------------------------------------------------------
+AVG(WS_QUANTITY) AVG(WR_REFUNDED_CASH) AVG(WR_FEE)                              
+---------------- --------------------- -----------                              
+reason 29                                                                       
+               5                107.38        69.7                              
+                                                                                
+reason 31                                                                       
+              73               3011.28       43.39                              
+                                                                                
+reason 33                                                                       
+               3                341.64       16.51                              
+                                                                                
+
+SUBSTR(R_REASON_DESC,1,20)                                                      
+--------------------------------------------------------------------------------
+AVG(WS_QUANTITY) AVG(WR_REFUNDED_CASH) AVG(WR_FEE)                              
+---------------- --------------------- -----------                              
+reason 37                                                                       
+               2                  80.5       90.36                              
+                                                                                
+
+10 rows selected.
+
+timing for: t
+Elapsed: 00:00:03.07

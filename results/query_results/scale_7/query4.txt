@@ -1,0 +1,475 @@
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAAAABABAAA Andrew               Smith                                     
+Andrew.Smith@6QtfBtJnAv3Hi4y.org                                                
+                                                                                
+AAAAAAAAAAMIFAAA Charles              Padgett                                   
+Charles.Padgett@8OSposO7mVCpy.org                                               
+                                                                                
+AAAAAAAAAANJCAAA Douglas              Rasmussen                                 
+Douglas.Rasmussen@2EeA6YbpOUECrVx.org                                           
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAAABJJBAAA Mark                 Jones                                     
+Mark.Jones@yUk8.com                                                             
+                                                                                
+AAAAAAAAACLIDAAA Benjamin             Buffington                                
+Benjamin.Buffington@kV5m5vZ4QS7rj.edu                                           
+                                                                                
+AAAAAAAAAEBHCAAA Diana                Reed                                      
+Diana.Reed@5vEaPAD0L6.org                                                       
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAAAECADAAA Martha               Thompson                                  
+Martha.Thompson@6J74pG0pi.com                                                   
+                                                                                
+AAAAAAAAAFCGDAAA Erma                 Nelson                                    
+Erma.Nelson@ktyfHRVkAcc8n.com                                                   
+                                                                                
+AAAAAAAAAFDNBAAA Samantha             Cooper                                    
+Samantha.Cooper@P8Lab.org                                                       
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAAAFEFAAAA Estella              Shivers                                   
+Estella.Shivers@BLlCGHZ7TtkDL2H.com                                             
+                                                                                
+AAAAAAAAAGFFAAAA Daniel               Reynolds                                  
+Daniel.Reynolds@Tcz.com                                                         
+                                                                                
+AAAAAAAAAGLHBAAA Cheryl               Geer                                      
+Cheryl.Geer@OFgPlopgf2JSHYo.org                                                 
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAAAGLMCAAA David                Williamson                                
+David.Williamson@Jn4oCC843LYcSH8f.edu                                           
+                                                                                
+AAAAAAAAAHCAAAAA Andrew               Richards                                  
+Andrew.Richards@UC.edu                                                          
+                                                                                
+AAAAAAAAAJJEAAAA Robert               Porter                                    
+Robert.Porter@bNpcPNqRNdl.edu                                                   
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAAAKBFBAAA Heather              Kemp                                      
+Heather.Kemp@R2zI3ZDbGBq.com                                                    
+                                                                                
+AAAAAAAAAKHNAAAA James                Gardner                                   
+James.Gardner@Sszk8gSqF.edu                                                     
+                                                                                
+AAAAAAAAAKLEFAAA Erica                Sutherland                                
+Erica.Sutherland@ZzFbGRZb4BNY.com                                               
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAAAKMPCAAA Loretta              Brown                                     
+Loretta.Brown@J9.edu                                                            
+                                                                                
+AAAAAAAAAKNFFAAA Illa                 Bryson                                    
+Illa.Bryson@yoAH3.edu                                                           
+                                                                                
+AAAAAAAAALKHDAAA Alfred               Taylor                                    
+Alfred.Taylor@8uYJ76l0HnvP.org                                                  
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAAALKLBAAA Jennifer             Wofford                                   
+Jennifer.Wofford@TGvNYtFj9TY.org                                                
+                                                                                
+AAAAAAAAALPNBAAA Adrienne                                                       
+                                                                                
+                                                                                
+AAAAAAAAAMIKCAAA Paul                 Kline                                     
+Paul.Kline@AiBn1BoLPrKBX.org                                                    
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAAANCKAAAA Billy                Guerra                                    
+Billy.Guerra@pCnFAG5hyk.org                                                     
+                                                                                
+AAAAAAAAANFEBAAA                                                                
+                                                                                
+                                                                                
+AAAAAAAAANOOEAAA Nathan               Murray                                    
+Nathan.Murray@qtPOyyPbn.edu                                                     
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAAAPBGAAAA Richard              Bishop                                    
+Richard.Bishop@LK1yqtMavT.edu                                                   
+                                                                                
+AAAAAAAAAPNMAAAA Michael              Carlin                                    
+Michael.Carlin@m.org                                                            
+                                                                                
+AAAAAAAABANDCAAA Jerry                Lehmann                                   
+Jerry.Lehmann@oz5pCQtMb4Rlr4g.com                                               
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAABBEKBAAA Louise               Boyce                                     
+Louise.Boyce@HCPjhnYOp0erXlvH99c.com                                            
+                                                                                
+AAAAAAAABEFFCAAA Mark                 Paxton                                    
+Mark.Paxton@pJhclhHUIGOld2ORU.edu                                               
+                                                                                
+AAAAAAAABFMMCAAA John                 Jacobson                                  
+John.Jacobson@7B7LECIRcEAdarbb.com                                              
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAABHNMBAAA Thomas               Shah                                      
+Thomas.Shah@PanvBHnEa0.org                                                      
+                                                                                
+AAAAAAAABIIEDAAA Jessica              Rodriguez                                 
+Jessica.Rodriguez@4O.org                                                        
+                                                                                
+AAAAAAAABIMIBAAA Richard              Oliver                                    
+Richard.Oliver@KeVymL2jFEycF4k.edu                                              
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAABKBKCAAA Marianne             Taylor                                    
+Marianne.Taylor@9tHFtD.com                                                      
+                                                                                
+AAAAAAAABKDDEAAA Katheryn             Gooden                                    
+Katheryn.Gooden@3fCh.com                                                        
+                                                                                
+AAAAAAAABLFMCAAA Darrell              Dean                                      
+Darrell.Dean@bJYVM1hqI.com                                                      
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAABOPODAAA David                Gilbert                                   
+David.Gilbert@nm.org                                                            
+                                                                                
+AAAAAAAACAGPCAAA Tomasa               Gilliam                                   
+Tomasa.Gilliam@fpLyoM6ghZGbkoS6.edu                                             
+                                                                                
+AAAAAAAACALEFAAA Amber                Wright                                    
+Amber.Wright@VqEfksl6gtGmH0.edu                                                 
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAACANIDAAA Susan                Mcmillian                                 
+Susan.Mcmillian@UB8uxFN.edu                                                     
+                                                                                
+AAAAAAAACDAJBAAA Vicky                Lam                                       
+Vicky.Lam@5LxitEpU.edu                                                          
+                                                                                
+AAAAAAAACDGJBAAA Shawn                Taylor                                    
+Shawn.Taylor@64D6.com                                                           
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAACEJOEAAA Cheryl               Rowley                                    
+Cheryl.Rowley@0NjUNjMqAsMOsbyh.com                                              
+                                                                                
+AAAAAAAACEOBAAAA Brian                Bryson                                    
+Brian.Bryson@6f.org                                                             
+                                                                                
+AAAAAAAACFDODAAA Sheila               Morris                                    
+Sheila.Morris@9rYotXJlpXK.edu                                                   
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAACFKPCAAA Gary                 Beaudoin                                  
+Gary.Beaudoin@HoJEUTV6g2.edu                                                    
+                                                                                
+AAAAAAAACGAKDAAA Ruth                 Hampton                                   
+Ruth.Hampton@mgJKM.com                                                          
+                                                                                
+AAAAAAAACGPIDAAA Glenda               Collins                                   
+Glenda.Collins@TluL6Q3Ykl.edu                                                   
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAACHGIAAAA Robert               Hartley                                   
+Robert.Hartley@XZuq.edu                                                         
+                                                                                
+AAAAAAAACHMLCAAA Doris                Steele                                    
+Doris.Steele@hG2fGuE4CYpdZY.edu                                                 
+                                                                                
+AAAAAAAACIKDCAAA Sally                Joyce                                     
+Sally.Joyce@PaUeVKcqm17OBxeYK.com                                               
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAACINGAAAA Minh                 Stackhouse                                
+Minh.Stackhouse@G.org                                                           
+                                                                                
+AAAAAAAACJBJBAAA David                Luis                                      
+David.Luis@RbckxgU1Ug9.com                                                      
+                                                                                
+AAAAAAAACJCBCAAA Hattie               Murphy                                    
+Hattie.Murphy@N.org                                                             
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAACJEJCAAA Norris               Walsh                                     
+Norris.Walsh@mu5fAhO8vHPs.com                                                   
+                                                                                
+AAAAAAAACKFJFAAA Lee                  Bishop                                    
+Lee.Bishop@ReD.com                                                              
+                                                                                
+AAAAAAAACKMIDAAA George               Pimentel                                  
+George.Pimentel@QS1upZ.org                                                      
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAACLGNAAAA Christopher          Gamboa                                    
+Christopher.Gamboa@AdHF61g.com                                                  
+                                                                                
+AAAAAAAACLKABAAA Bonnie               Houston                                   
+Bonnie.Houston@9xCvkpZGJICea5.org                                               
+                                                                                
+AAAAAAAACMCDDAAA Herbert              Henderson                                 
+Herbert.Henderson@s3C2L.edu                                                     
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAACNABBAAA Raymond              Orton                                     
+Raymond.Orton@ebkvqyBc3MF.edu                                                   
+                                                                                
+AAAAAAAACOEKBAAA Salvador             Dowell                                    
+Salvador.Dowell@4nVsukObVb3nLV.edu                                              
+                                                                                
+AAAAAAAACPNHBAAA Melvin               Young                                     
+Melvin.Young@8.edu                                                              
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAADAFNEAAA Kenneth              Redden                                    
+Kenneth.Redden@64cezhaK4.edu                                                    
+                                                                                
+AAAAAAAADAMNCAAA Inez                 Spivey                                    
+Inez.Spivey@c6.com                                                              
+                                                                                
+AAAAAAAADCPFCAAA Eileen               Avila                                     
+Eileen.Avila@UXsrcQgfGGtqo.com                                                  
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAADDJAEAAA Andrew               Johnston                                  
+Andrew.Johnston@tNCuClFYQ.org                                                   
+                                                                                
+AAAAAAAADFCOAAAA Scott                                                          
+                                                                                
+                                                                                
+AAAAAAAADFFFDAAA Marvin               Snead                                     
+Marvin.Snead@MPUA.org                                                           
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAADGALDAAA Beatrice             Cassidy                                   
+Beatrice.Cassidy@nN9DnOiRHRM8.org                                               
+                                                                                
+AAAAAAAADGBJEAAA Wade                                                           
+                                                                                
+                                                                                
+AAAAAAAADGICFAAA Karen                Williams                                  
+Karen.Williams@grJnfEs6s1A.edu                                                  
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAADGILCAAA George               Mcghee                                    
+George.Mcghee@ZfldRtiXfo.edu                                                    
+                                                                                
+AAAAAAAADHCHBAAA Wendell              Hewitt                                    
+Wendell.Hewitt@bIFuH.org                                                        
+                                                                                
+AAAAAAAADIDPEAAA Orville              Crosby                                    
+Orville.Crosby@i.edu                                                            
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAADIGOCAAA Roger                Burnette                                  
+Roger.Burnette@soZetivHVK.com                                                   
+                                                                                
+AAAAAAAADIKBEAAA Robert               Clark                                     
+Robert.Clark@ON.edu                                                             
+                                                                                
+AAAAAAAADJJOAAAA Donald               Franklin                                  
+Donald.Franklin@EmClLe397u.edu                                                  
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAADJKDAAAA Jose                 Franklin                                  
+Jose.Franklin@abZd.com                                                          
+                                                                                
+AAAAAAAADKNDBAAA Valda                                                          
+                                                                                
+                                                                                
+AAAAAAAADLKHCAAA Alice                Harris                                    
+Alice.Harris@VsfCJ1mkyT.org                                                     
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAADMBHEAAA Brian                Thompson                                  
+Brian.Thompson@Y8v0EOvR9NGFRTCo.edu                                             
+                                                                                
+AAAAAAAADPEDCAAA Lucille              Lopez                                     
+Lucille.Lopez@DCgq.edu                                                          
+                                                                                
+AAAAAAAADPOMBAAA Alice                Young                                     
+Alice.Young@at4620gixj7SX4.org                                                  
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAADPPJEAAA Jimmy                Kennedy                                   
+Jimmy.Kennedy@Ax.org                                                            
+                                                                                
+AAAAAAAAECHDDAAA Andrew               Sims                                      
+Andrew.Sims@Z5n9u5dXBE.org                                                      
+                                                                                
+AAAAAAAAECLJBAAA Kathy                Curry                                     
+Kathy.Curry@Dh892qIHUAkVckru.com                                                
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAAECMAAAAA Andrea               Gonzalez                                  
+Andrea.Gonzalez@gL7gxdO2qYFc.org                                                
+                                                                                
+AAAAAAAAEDBKEAAA Aubrey               Gonzalez                                  
+Aubrey.Gonzalez@C.org                                                           
+                                                                                
+AAAAAAAAEDDGAAAA Jennifer             Andre                                     
+Jennifer.Andre@nqhGUVVM3fpkxs.edu                                               
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAAEEAMEAAA Dorothy              Martinez                                  
+Dorothy.Martinez@7T2.org                                                        
+                                                                                
+AAAAAAAAEENEEAAA Cheri                Keeton                                    
+Cheri.Keeton@CxttKJQA.com                                                       
+                                                                                
+AAAAAAAAEFAMEAAA Mark                 Stevens                                   
+Mark.Stevens@z4O.org                                                            
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAAEFHIAAAA Laurie               Pauley                                    
+Laurie.Pauley@fZA7BlXHmCUIVM.com                                                
+                                                                                
+AAAAAAAAEGLHAAAA Jonathan             Nelson                                    
+Jonathan.Nelson@TyTzjDXhqrOU.org                                                
+                                                                                
+AAAAAAAAEGLMBAAA Dawn                 Houston                                   
+Dawn.Houston@aGI97iz21gjLbL.org                                                 
+                                                                                
+
+CUSTOMER_ID      CUSTOMER_FIRST_NAME  CUSTOMER_LAST_NAME                        
+---------------- -------------------- ------------------------------            
+CUSTOMER_EMAIL_ADDRESS                                                          
+--------------------------------------------------                              
+AAAAAAAAEIGIFAAA William              Cordero                                   
+William.Cordero@zCM4h269D.edu                                                   
+                                                                                
+
+100 rows selected.
+
+timing for: t
+Elapsed: 00:00:14.41

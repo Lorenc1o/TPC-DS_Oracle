@@ -1,0 +1,7 @@
+
+AM_PM_RATIO                                                                     
+-----------                                                                     
+ .970394737                                                                     
+
+timing for: t
+Elapsed: 00:00:03.26
