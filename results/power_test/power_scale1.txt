@@ -1,0 +1,4 @@
+POWER TEST TIME:
+	Power test start time = 1667229939.984375
+	Power test end time = 1667230025.9459624
+	Power test time = 85.96158742904663

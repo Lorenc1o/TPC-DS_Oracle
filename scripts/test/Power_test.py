@@ -1,7 +1,6 @@
 import argparse
 import time
 from os import path, system
-import tpcds
 
 
 parser = argparse.ArgumentParser(description='TPC-DS Testing Script')
