@@ -4864,3 +4864,4 @@ select sum (ss_quantity)
 ;
 
 -- end query 99 in stream 2 using template query48.tpl
+exit

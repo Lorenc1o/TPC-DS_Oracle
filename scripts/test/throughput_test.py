@@ -1,74 +1,51 @@
+from multiprocessing import Pool, cpu_count
+from os import listdir, path, getpid, system
 import argparse
 import time
-import tpcds
-from threading import Thread
-from os import path
 
-parser = argparse.ArgumentParser(description='TPC-DS Testing Script')
+parser = argparse.ArgumentParser(description='TPC-DS Throughput Test Script')
 parser.add_argument('-S', '--svrinstance', help='Server and Instance Name', required=True)
-parser.add_argument('-p', '--port', help='Port Number', required=True)
 parser.add_argument('-D', '--db', help='Database Name', required=True)
 parser.add_argument('-U', '--username', help='Username', required=True)
 parser.add_argument('-P', '--password', help='Authenticating Password', required=True)
 parser.add_argument('-L', '--filespath', help='UNC path where the data files are located', required=True)
-parser.add_argument('-O', '--outputfile', help='UNC path where the query results will be stored', required=True)
-parser.add_argument('-TP', '--throughputdir', help='UNC path of the streams', required=True)
-parser.add_argument('-PREFIX', '--userprefix', help='User prefix in Oracle, default = \'\'', required=False, default='')
+parser.add_argument('-O', '--outputfile', help='UNC path where the throughput test time will be logged', required=False, default=None)
 args = parser.parse_args()
 
-'''
-Function throughput_test
+if not args.svrinstance or not args.db or not args.username or not args.password or not args.filespath:
+    parser.print_help()
+    exit(1)
 
-Description
-	this functions connect to the database using the username provided as argument and the thread_id provided as parameter, then executes a batch of queries
+class User(object):
+    def __init__(self, username, password, stream):
+        self.username = username
+        self.password = password
+        self.stream = stream
 
-Assumptions
-	the users exist prior to execution and have access to the database
+def execute_stream(file_name):
+    print("Executing from CPU: %s" % getpid())
+    full_path = path.join(args.filespath, file_name)
+    sqlplus = 'sqlplus %s/%s@%s/%s @%s' % (
+        args.username, args.password, args.svrinstance, args.db, full_path)
+    print(sqlplus)
+    system(sqlplus)
+    print("Done executing from CPU: %s" % getpid())
 
-Parameters
-	thread_id: integer representing the thread
-'''
-def throughput_test(thread_id):
-    queries = path.join(args.throughputdir, 'query_' + thread_id + '.sql')
-    output = path.join(args.throughputdir, 'queries_times' + thread_id + '.txt')
-
-    username = args.userprefix + 'user' + thread_id
-    password = 'user' + thread_id
-
-    print('user: ' + username + '\npwd: ' + password)
-
-    test_start_time = time.time()  # Timestamp for the starting time
-
-    tpcds.run_query(queries, output, username, password)
-
-    test_end_time = time.time()  # Timestamp for the ending time
-    test_time = test_end_time - test_start_time  # Measured power test time
-    print(test_time)
-
-if __name__ == '__main__':    
-    threads = []
-    
-    t0 = Thread(target = throughput_test, args = ('0',))
-    threads.append(t0)
-    t1 = Thread(target = throughput_test, args = ('1',))
-    threads.append(t1)
-    t2 = Thread(target = throughput_test, args = ('2',))
-    threads.append(t2)
-    t3 = Thread(target = throughput_test, args = ('3',))
-    threads.append(t3)
-    
+if __name__ == "__main__":
     TP_test_start_time_1 = time.time()
 
-    for t in threads:
-        t.start()
-
-    for t in threads:
-        t.join()
+    p = Pool(processes=2*cpu_count())
+    for file in listdir(args.filespath):
+        if file.endswith(".sql"):
+            p.apply_async(execute_stream, [file])
+    p.close()
+    p.join()
 
     TP_test_end_time_1 = time.time()
     TP_test_time_1 = TP_test_end_time_1 - TP_test_start_time_1
-
     output = f'THROUGHPUT TEST 1 TIME:\n\tThroughput test 1 start time = {TP_test_start_time_1}\n\tThroughput test 1 end time = {TP_test_end_time_1}\n\tThroughput test 1 time = {TP_test_time_1}\n'
+    print(output)
 
-    with open(args.outputfile, 'a') as f:
-        f.write(output)
+    if args.outputfile is not None:
+        with open(args.outputfile, 'w+') as f:
+            f.write(output)

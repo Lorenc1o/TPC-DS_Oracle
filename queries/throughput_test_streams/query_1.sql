@@ -4864,3 +4864,4 @@ with year_total as (
  ) where rownum <= 100;
 
 -- end query 99 in stream 1 using template query74.tpl
+exit

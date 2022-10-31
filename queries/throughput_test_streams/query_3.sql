@@ -4864,3 +4864,4 @@ select * from (select  channel, item, return_ratio, return_rank, currency_rank f
   ) where rownum <= 100;
 
 -- end query 99 in stream 3 using template query49.tpl
+exit

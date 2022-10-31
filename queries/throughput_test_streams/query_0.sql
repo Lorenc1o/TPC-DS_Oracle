@@ -4864,3 +4864,4 @@ ORDER BY channel, col_name, d_year, d_qoy, i_category
  ) where rownum <= 100;
 
 -- end query 99 in stream 0 using template query76.tpl
+exit
