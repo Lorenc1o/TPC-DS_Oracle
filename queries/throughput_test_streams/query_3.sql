@@ -634,29 +634,29 @@ select * from (select
   cd_credit_rating,
   count(*) cnt3
  from
-  customer c,customer_address ca,customer_demographics
+  customer c,customer_address ca,customer_demographics,
+   ((select ss_customer_sk customer_sk
+          from store_sales,date_dim
+          where ss_sold_date_sk = d_date_sk and
+                d_year = 1999 and
+                d_moy between 1 and 1+2)
+    minus
+    (select ws_bill_customer_sk customer_sk
+            from web_sales,date_dim
+            where ws_sold_date_sk = d_date_sk and
+                  d_year = 1999 and
+                  d_moy between 1 and 1+2)
+    minus
+    (select cs_ship_customer_sk customer_sk 
+            from catalog_sales,date_dim
+            where cs_sold_date_sk = d_date_sk and
+                  d_year = 1999 and
+                  d_moy between 1 and 1+2))
  where
   c.c_current_addr_sk = ca.ca_address_sk and
-  ca_state in ('NC','WY','FL') and
-  cd_demo_sk = c.c_current_cdemo_sk and 
-  exists (select *
-          from store_sales,date_dim
-          where c.c_customer_sk = ss_customer_sk and
-                ss_sold_date_sk = d_date_sk and
-                d_year = 2002 and
-                d_moy between 1 and 1+2) and
-   (not exists (select *
-            from web_sales,date_dim
-            where c.c_customer_sk = ws_bill_customer_sk and
-                  ws_sold_date_sk = d_date_sk and
-                  d_year = 2002 and
-                  d_moy between 1 and 1+2) and
-    not exists (select * 
-            from catalog_sales,date_dim
-            where c.c_customer_sk = cs_ship_customer_sk and
-                  cs_sold_date_sk = d_date_sk and
-                  d_year = 2002 and
-                  d_moy between 1 and 1+2))
+  ca_state in ('CO','IL','MN') and
+  cd_demo_sk = c.c_current_cdemo_sk and
+  c.c_customer_sk = customer_sk
  group by cd_gender,
           cd_marital_status,
           cd_education_status,
@@ -1158,29 +1158,29 @@ select * from (select
   cd_dep_college_count,
   count(*) cnt6
  from
-  customer c,customer_address ca,customer_demographics
+  customer c,customer_address ca,customer_demographics,
+  ((select ss_customer_sk customer_sk
+          from store_sales,date_dim
+          where ss_sold_date_sk = d_date_sk and
+                d_year = 2002 and
+                d_moy between 4 and 4+3)
+    intersect
+   ((select ws_bill_customer_sk customer_sk
+            from web_sales,date_dim
+            where ws_sold_date_sk = d_date_sk and
+                  d_year = 2002 and
+                  d_moy between 4 ANd 4+3)
+    union
+    (select cs_ship_customer_sk customer_sk
+            from catalog_sales,date_dim
+            where cs_sold_date_sk = d_date_sk and
+                  d_year = 2002 and
+                  d_moy between 4 and 4+3)))
  where
   c.c_current_addr_sk = ca.ca_address_sk and
-  ca_county in ('Grayson County','Culberson County','McDowell County','Greene County','Ogemaw County') and
-  cd_demo_sk = c.c_current_cdemo_sk and 
-  exists (select *
-          from store_sales,date_dim
-          where c.c_customer_sk = ss_customer_sk and
-                ss_sold_date_sk = d_date_sk and
-                d_year = 2001 and
-                d_moy between 4 and 4+3) and
-   (exists (select *
-            from web_sales,date_dim
-            where c.c_customer_sk = ws_bill_customer_sk and
-                  ws_sold_date_sk = d_date_sk and
-                  d_year = 2001 and
-                  d_moy between 4 ANd 4+3) or 
-    exists (select * 
-            from catalog_sales,date_dim
-            where c.c_customer_sk = cs_ship_customer_sk and
-                  cs_sold_date_sk = d_date_sk and
-                  d_year = 2001 and
-                  d_moy between 4 and 4+3))
+  ca_county in ('Walker County','Richland County','Gaines County','Douglas County','Dona Ana County') and
+  cd_demo_sk = c.c_current_cdemo_sk and
+  c.c_customer_sk = customer_sk
  group by cd_gender,
           cd_marital_status,
           cd_education_status,
@@ -3556,54 +3556,43 @@ select * from (select  ss_customer_sk
 
 -- end query 75 in stream 3 using template query93.tpl
 -- start query 76 in stream 3 using template query9.tpl
-select case when (select count(*) 
-                  from store_sales 
-                  where ss_quantity between 1 and 20) > 92
-            then (select avg(ss_ext_tax) 
-                  from store_sales 
-                  where ss_quantity between 1 and 20) 
-            else (select avg(ss_net_paid)
-                  from store_sales
-                  where ss_quantity between 1 and 20) end bucket1 ,
-       case when (select count(*)
-                  from store_sales
-                  where ss_quantity between 21 and 40) > 41078
-            then (select avg(ss_ext_tax)
-                  from store_sales
-                  where ss_quantity between 21 and 40) 
-            else (select avg(ss_net_paid)
-                  from store_sales
-                  where ss_quantity between 21 and 40) end bucket2,
-       case when (select count(*)
-                  from store_sales
-                  where ss_quantity between 41 and 60) > 47434
-            then (select avg(ss_ext_tax)
-                  from store_sales
-                  where ss_quantity between 41 and 60)
-            else (select avg(ss_net_paid)
-                  from store_sales
-                  where ss_quantity between 41 and 60) end bucket3,
-       case when (select count(*)
-                  from store_sales
-                  where ss_quantity between 61 and 80) > 16045
-            then (select avg(ss_ext_tax)
-                  from store_sales
-                  where ss_quantity between 61 and 80)
-            else (select avg(ss_net_paid)
-                  from store_sales
-                  where ss_quantity between 61 and 80) end bucket4,
-       case when (select count(*)
-                  from store_sales
-                  where ss_quantity between 81 and 100) > 6816
-            then (select avg(ss_ext_tax)
-                  from store_sales
-                  where ss_quantity between 81 and 100)
-            else (select avg(ss_net_paid)
-                  from store_sales
-                  where ss_quantity between 81 and 100) end bucket5
+with ss_bucket_1 as 
+ (select *
+ from store_sales
+ where ss_quantity between 1 and 20),
+ss_bucket_2 as 
+ (select *
+ from store_sales
+ where ss_quantity between 21 and 40),
+ss_bucket_3 as 
+ (select *
+ from store_sales
+ where ss_quantity between 41 and 60),
+ss_bucket_4 as 
+ (select *
+ from store_sales
+ where ss_quantity between 61 and 80),
+ss_bucket_5 as 
+ (select *
+ from store_sales
+ where ss_quantity between 81 and 100)
+select case when (select count(*) from ss_bucket_1) > 25437
+            then (select avg(ss_ext_discount_amt) from ss_bucket_1)
+            else (select avg(ss_net_profit) from ss_bucket_1) end bucket1,
+        case when (select count(*) from ss_bucket_2) > 22746
+            then (select avg(ss_ext_discount_amt) from ss_bucket_2)
+            else (select avg(ss_net_profit) from ss_bucket_2) end bucket2,
+        case when (select count(*) from ss_bucket_3) > 9387
+            then (select avg(ss_ext_discount_amt) from ss_bucket_3)
+            else (select avg(ss_net_profit) from ss_bucket_3) end bucket3,
+        case when (select count(*) from ss_bucket_4) > 10098
+            then (select avg(ss_ext_discount_amt) from ss_bucket_4)
+            else (select avg(ss_net_profit) from ss_bucket_4) end bucket4,
+        case when (select count(*) from ss_bucket_5) > 18213
+            then (select avg(ss_ext_discount_amt) from ss_bucket_5)
+            else (select avg(ss_net_profit) from ss_bucket_5) end bucket5
 from reason
-where r_reason_sk = 1
-;
+where r_reason_sk = 1;
 
 -- end query 76 in stream 3 using template query9.tpl
 -- start query 77 in stream 3 using template query65.tpl
@@ -4590,42 +4579,42 @@ select * from (select
   cd_marital_status,
   cd_dep_count,
   count(*) cnt1,
-  sum(cd_dep_count),
-  sum(cd_dep_count),
   avg(cd_dep_count),
+  max(cd_dep_count),
+  sum(cd_dep_count),
   cd_dep_employed_count,
   count(*) cnt2,
-  sum(cd_dep_employed_count),
-  sum(cd_dep_employed_count),
   avg(cd_dep_employed_count),
+  max(cd_dep_employed_count),
+  sum(cd_dep_employed_count),
   cd_dep_college_count,
   count(*) cnt3,
-  sum(cd_dep_college_count),
-  sum(cd_dep_college_count),
-  avg(cd_dep_college_count)
+  avg(cd_dep_college_count),
+  max(cd_dep_college_count),
+  sum(cd_dep_college_count)
  from
-  customer c,customer_address ca,customer_demographics
+  customer c,customer_address ca,customer_demographics,
+  ((select ss_customer_sk customer_sk
+          from store_sales,date_dim
+          where ss_sold_date_sk = d_date_sk and
+                d_year = 1999 and
+                d_qoy < 4)
+    intersect
+   ((select ws_bill_customer_sk customer_sk
+            from web_sales,date_dim
+            where ws_sold_date_sk = d_date_sk and
+                  d_year = 1999 and
+                  d_qoy < 4) 
+    union
+    (select cs_ship_customer_sk customer_sk
+            from catalog_sales,date_dim
+            where cs_sold_date_sk = d_date_sk and
+                  d_year = 1999 and
+                  d_qoy < 4)))
  where
   c.c_current_addr_sk = ca.ca_address_sk and
-  cd_demo_sk = c.c_current_cdemo_sk and 
-  exists (select *
-          from store_sales,date_dim
-          where c.c_customer_sk = ss_customer_sk and
-                ss_sold_date_sk = d_date_sk and
-                d_year = 2001 and
-                d_qoy < 4) and
-   (exists (select *
-            from web_sales,date_dim
-            where c.c_customer_sk = ws_bill_customer_sk and
-                  ws_sold_date_sk = d_date_sk and
-                  d_year = 2001 and
-                  d_qoy < 4) or 
-    exists (select * 
-            from catalog_sales,date_dim
-            where c.c_customer_sk = cs_ship_customer_sk and
-                  cs_sold_date_sk = d_date_sk and
-                  d_year = 2001 and
-                  d_qoy < 4))
+  cd_demo_sk = c.c_current_cdemo_sk and
+  c.c_customer_sk = customer_sk
  group by ca_state,
           cd_gender,
           cd_marital_status,
@@ -4642,97 +4631,50 @@ select * from (select
 
 -- end query 97 in stream 3 using template query35.tpl
 -- start query 98 in stream 3 using template query88.tpl
-select  *
-from
- (select count(*) h8_30_to_9
+with sales as (
+ select *
  from store_sales, household_demographics , time_dim, store
  where ss_sold_time_sk = time_dim.t_time_sk   
      and ss_hdemo_sk = household_demographics.hd_demo_sk 
      and ss_store_sk = s_store_sk
-     and time_dim.t_hour = 8
-     and time_dim.t_minute >= 30
-     and ((household_demographics.hd_dep_count = 1 and household_demographics.hd_vehicle_count<=1+2) or
+     and ((household_demographics.hd_dep_count = 3 and household_demographics.hd_vehicle_count<=3+2) or
           (household_demographics.hd_dep_count = 0 and household_demographics.hd_vehicle_count<=0+2) or
-          (household_demographics.hd_dep_count = 2 and household_demographics.hd_vehicle_count<=2+2)) 
-     and store.s_store_name = 'ese') s1,
- (select count(*) h9_to_9_30 
- from store_sales, household_demographics , time_dim, store
- where ss_sold_time_sk = time_dim.t_time_sk
-     and ss_hdemo_sk = household_demographics.hd_demo_sk
-     and ss_store_sk = s_store_sk 
-     and time_dim.t_hour = 9 
-     and time_dim.t_minute < 30
-     and ((household_demographics.hd_dep_count = 1 and household_demographics.hd_vehicle_count<=1+2) or
-          (household_demographics.hd_dep_count = 0 and household_demographics.hd_vehicle_count<=0+2) or
-          (household_demographics.hd_dep_count = 2 and household_demographics.hd_vehicle_count<=2+2))
-     and store.s_store_name = 'ese') s2,
- (select count(*) h9_30_to_10 
- from store_sales, household_demographics , time_dim, store
- where ss_sold_time_sk = time_dim.t_time_sk
-     and ss_hdemo_sk = household_demographics.hd_demo_sk
-     and ss_store_sk = s_store_sk
-     and time_dim.t_hour = 9
-     and time_dim.t_minute >= 30
-     and ((household_demographics.hd_dep_count = 1 and household_demographics.hd_vehicle_count<=1+2) or
-          (household_demographics.hd_dep_count = 0 and household_demographics.hd_vehicle_count<=0+2) or
-          (household_demographics.hd_dep_count = 2 and household_demographics.hd_vehicle_count<=2+2))
-     and store.s_store_name = 'ese') s3,
- (select count(*) h10_to_10_30
- from store_sales, household_demographics , time_dim, store
- where ss_sold_time_sk = time_dim.t_time_sk
-     and ss_hdemo_sk = household_demographics.hd_demo_sk
-     and ss_store_sk = s_store_sk
-     and time_dim.t_hour = 10 
-     and time_dim.t_minute < 30
-     and ((household_demographics.hd_dep_count = 1 and household_demographics.hd_vehicle_count<=1+2) or
-          (household_demographics.hd_dep_count = 0 and household_demographics.hd_vehicle_count<=0+2) or
-          (household_demographics.hd_dep_count = 2 and household_demographics.hd_vehicle_count<=2+2))
-     and store.s_store_name = 'ese') s4,
- (select count(*) h10_30_to_11
- from store_sales, household_demographics , time_dim, store
- where ss_sold_time_sk = time_dim.t_time_sk
-     and ss_hdemo_sk = household_demographics.hd_demo_sk
-     and ss_store_sk = s_store_sk
-     and time_dim.t_hour = 10 
-     and time_dim.t_minute >= 30
-     and ((household_demographics.hd_dep_count = 1 and household_demographics.hd_vehicle_count<=1+2) or
-          (household_demographics.hd_dep_count = 0 and household_demographics.hd_vehicle_count<=0+2) or
-          (household_demographics.hd_dep_count = 2 and household_demographics.hd_vehicle_count<=2+2))
-     and store.s_store_name = 'ese') s5,
- (select count(*) h11_to_11_30
- from store_sales, household_demographics , time_dim, store
- where ss_sold_time_sk = time_dim.t_time_sk
-     and ss_hdemo_sk = household_demographics.hd_demo_sk
-     and ss_store_sk = s_store_sk 
-     and time_dim.t_hour = 11
-     and time_dim.t_minute < 30
-     and ((household_demographics.hd_dep_count = 1 and household_demographics.hd_vehicle_count<=1+2) or
-          (household_demographics.hd_dep_count = 0 and household_demographics.hd_vehicle_count<=0+2) or
-          (household_demographics.hd_dep_count = 2 and household_demographics.hd_vehicle_count<=2+2))
-     and store.s_store_name = 'ese') s6,
- (select count(*) h11_30_to_12
- from store_sales, household_demographics , time_dim, store
- where ss_sold_time_sk = time_dim.t_time_sk
-     and ss_hdemo_sk = household_demographics.hd_demo_sk
-     and ss_store_sk = s_store_sk
-     and time_dim.t_hour = 11
-     and time_dim.t_minute >= 30
-     and ((household_demographics.hd_dep_count = 1 and household_demographics.hd_vehicle_count<=1+2) or
-          (household_demographics.hd_dep_count = 0 and household_demographics.hd_vehicle_count<=0+2) or
-          (household_demographics.hd_dep_count = 2 and household_demographics.hd_vehicle_count<=2+2))
-     and store.s_store_name = 'ese') s7,
- (select count(*) h12_to_12_30
- from store_sales, household_demographics , time_dim, store
- where ss_sold_time_sk = time_dim.t_time_sk
-     and ss_hdemo_sk = household_demographics.hd_demo_sk
-     and ss_store_sk = s_store_sk
-     and time_dim.t_hour = 12
-     and time_dim.t_minute < 30
-     and ((household_demographics.hd_dep_count = 1 and household_demographics.hd_vehicle_count<=1+2) or
-          (household_demographics.hd_dep_count = 0 and household_demographics.hd_vehicle_count<=0+2) or
-          (household_demographics.hd_dep_count = 2 and household_demographics.hd_vehicle_count<=2+2))
-     and store.s_store_name = 'ese') s8
-;
+          (household_demographics.hd_dep_count = 1 and household_demographics.hd_vehicle_count<=1+2)) 
+     and store.s_store_name = 'ese')
+select  *
+from
+  (select count(*) h8_30_to_9
+  from sales
+  where sales.t_hour = 8
+     and sales.t_minute >= 30) s1,
+  (select count(*) h9_to_9_30
+  from sales
+  where sales.t_hour = 9 
+     and sales.t_minute < 30) s2,
+  (select count(*) h9_30_to_10
+  from sales
+  where sales.t_hour = 9 
+     and sales.t_minute >= 30) s3,
+  (select count(*) h10_to_10_30
+  from sales
+  where sales.t_hour = 10 
+     and sales.t_minute < 30) s4,
+  (select count(*) h10_30_to_11
+  from sales
+  where sales.t_hour = 10 
+     and sales.t_minute >= 30) s5,
+  (select count(*) h11_to_11_30
+  from sales
+  where sales.t_hour = 11 
+     and sales.t_minute < 30) s6,
+  (select count(*) h11_30_to_12
+  from sales
+  where sales.t_hour = 11 
+     and sales.t_minute >= 30) s7,
+  (select count(*) h12_to_12_30
+  from sales
+  where sales.t_hour = 12 
+     and sales.t_minute < 30) s8;
 
 -- end query 98 in stream 3 using template query88.tpl
 -- start query 99 in stream 3 using template query49.tpl
