@@ -16,11 +16,6 @@ if not args.svrinstance or not args.db or not args.username or not args.password
     parser.print_help()
     exit(1)
 
-class User(object):
-    def __init__(self, username, password, stream):
-        self.username = username
-        self.password = password
-        self.stream = stream
 
 def execute_stream(file_name):
     print("Executing from CPU: %s" % getpid())
@@ -30,6 +25,7 @@ def execute_stream(file_name):
     print(sqlplus)
     system(sqlplus)
     print("Done executing from CPU: %s" % getpid())
+
 
 if __name__ == "__main__":
     TP_test_start_time_1 = time.time()
