@@ -25,13 +25,11 @@ In **utils** there are scripts that are useful for us, but not a strict part of 
 
 In **test** is where the important scripts are located:
 
-- Load_test: this script performs the Load Test of the TPC-DS benchmark. We tried to develop it so it would drop all tables of an already populated database and then perform the test, but for some reason that we have not found, the consecutive loads make the following execution of query35 fail. We believe that some kind of metadata remains in the database after dropping all the tables, and this makes the consecutive loads to not work as expected.
+- Load_test: this script performs the Load Test of the TPC-DS benchmark.
 
 - Power_test: this script performs the Power Test of the TPC-DS benchmark. That is, it executes all the queries and measures the elapsed time for each of them, as well as for the whole process. It can be also used to execute individual queries and obtain its execution time if wanted.
 
 - Throughput_test: this script performs the Throughput Test of the TPC-DS benchmark. 
-
-- tpcds: python module with several useful functions that are utilized from the other scripts.
 
 ### Folder results
 In this folder we dump the output of the different tests for further analysis.
@@ -81,4 +79,4 @@ Run an individual query with the bash script:
   
   python3 Power_test.py -S [server] -p [port] -D [database] -U [username] -P [password] -Q [path to queries] /query_0.sql -O [output file]
   
-  10. (Experimental) Execute the throughput test. To be able to perform the throughput test you need to set up the database so that you have 4 users that are able to access it, called user0, user1, user2 and user3. Then, run the Throughput_test.py script.
+  10. Execute the throughput test. To be able to perform the throughput test you need to generate 4 query streams using the dsqgen. Then, run the Throughput_test.py script.
