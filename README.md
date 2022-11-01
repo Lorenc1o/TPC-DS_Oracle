@@ -13,6 +13,9 @@ Professor: Zimányi, Esteban
 
 ## Structure of the repo
 
+### TPC-DS_Oracle_Report.pdf
+This file is the report of the project, where all the details and information about the project and this repository can be found.
+
 ### Folder queries
 In this folder you will find the generated queries for Oracle in **original_queries**, the optimized versions of them in **optimized_queries** and some queries that we tried to optimize but couldn't can be found in **unsuccessful_queries**.
 
