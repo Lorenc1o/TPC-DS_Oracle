@@ -79,3 +79,5 @@ Run all queries with the execute_queries.py script located in the scripts/test f
     python3 Power_test.py -S [server] -D [database] -U [username] -P [password] -Q [path to queries] /query_0.sql -O [output file]
   
   10. Execute the throughput test. To be able to perform the throughput test you need to generate 4 query streams using the dsqgen or use the 4 query streams provided in the queries/throughput_test_streams folder that contain optimized versions of the queries. Then, run the throughput_test.py script.
+  
+    python3 throughput_test.py -S [server] -D [database] -U [username] -P [password] -L [path to queries] -O [output file]
