@@ -1,0 +1,4 @@
+THROUGHPUT TEST 1 TIME:
+	Throughput test 1 start time = 1667259293.38115
+	Throughput test 1 end time = 1667263508.7458768
+	Throughput test 1 time = 4215.364726781845
