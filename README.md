@@ -47,36 +47,32 @@ In this folder we dump the output of the different tests for further analysis.
     # Linux
     dsdgen -scale 1 -dir /tmp
     
-  6. Execute the Load Test:
+  6. Execute the Load Test. The load test uses Oracle SQL Loader to load the data using multiple processor cores. Control files can be found in the scripts/side_files/ctl folder.
   
-  python3 Load_test.py -S [server] -p [port] -D [database] -U [username] -P [password] -T [tpcdspath] -TRI [tpcdsripath] -L [data directory] -C [ctl directory] -DROP [drop results?] -O [output file]
-  
-  Alternatively, you can upload data to DB using Oracle SQL Loader if you don't need to take measures. Control files can be found here in the ctl folder. Running the 'concurrent_load.py' script will load the data to the DB using multiple processor cores:
-
-    python3 concurrent_load.py -S [server] -D [database] -U [user] -P [password] -L [data directory] -C [ctl directory]
+    python3 Load_test.py -S [server] -D [database] -U [username] -P [password] -L [data directory] -C [ctl directory] -O [output file]
 
 Or it can be done manually:
 
     sqlldr userid=username/password@SID control='item.ctl'
     
-  7. Generate queries. The following command can be used to generate all 99 queries in numerical order. If you are using the official TPC-DS Tools the 'query_templates\oracle.tpl' file needs to be replaced with the one provided here.
+  7. Generate queries. The following command can be used to generate all 99 queries in numerical order. We suggest using the modified templates located in the queries/oracle_templates folder because they fix numerous occuring syntax errors.
   
-    #Windows
+    # Windows
     dsqgen /directory [path to oracle_templates] /input [path to query_templates] /templates.lst /verbose y /qualify y /scale 1 /dialect oracle /output_dir [output directory (original_queries in our case)]
     
     # Linux
     ./dsqgen -directory [path to oracle_templates] -input [path to query_templates] -templates.lst -verbose y -qualify y -scale 1 -dialect oracle /output_dir [output directory (original_queries in our case)]
     
-  8. Put each query to a separate file and set preferences for execution time recording and saving the results by running:
+  8. Put each query to a separate file and set preferences for execution time recording and saving the results. The separate_queries.py script is located in the scripts/utils folder.
   
     python3 separate_queries.py [path to queries]
     
-Run an individual query with the bash script:
+Run all queries with the execute_queries.py script located in the scripts/test folder. Generated queries used for testing can be found in the queries/original_queries and queries/optimized_queries folders.
 
-    sh execute_query.sh [path to query]
+    python3 execute_queries.py -S [server] -D [database] -U [username] -P [password] -L [query directory] -C [ctl directory] -O [output file]
     
-  9. Execute the Power Test:
+  9. Execute the Power Test. The query stream containing optimized queries is located in the queries/power_test_stream folder.
   
-  python3 Power_test.py -S [server] -p [port] -D [database] -U [username] -P [password] -Q [path to queries] /query_0.sql -O [output file]
+    python3 Power_test.py -S [server] -D [database] -U [username] -P [password] -Q [path to queries] /query_0.sql -O [output file]
   
-  10. Execute the throughput test. To be able to perform the throughput test you need to generate 4 query streams using the dsqgen. Then, run the Throughput_test.py script.
+  10. Execute the throughput test. To be able to perform the throughput test you need to generate 4 query streams using the dsqgen or use the 4 query streams provided in the queries/throughput_test_streams folder that contain optimized versions of the queries. Then, run the throughput_test.py script.
